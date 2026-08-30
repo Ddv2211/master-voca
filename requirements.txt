@@ -1,0 +1,5 @@
+streamlit>=1.62
+google-generativeai>=0.8.0
+streamlit-authenticator>=0.4.2
+gspread>=6.1
+google-auth>=2.30
