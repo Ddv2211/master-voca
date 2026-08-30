@@ -1,0 +1,9002 @@
+[
+ {
+  "stt": 1,
+  "word": "ability",
+  "pos": "n",
+  "phonetic": "/əˈbɪl.ə.t̬i/",
+  "meaning": "năng lực, khả năng",
+  "topic": "Từ vựng chung",
+  "batch": 1
+ },
+ {
+  "stt": 2,
+  "word": "abroad",
+  "pos": "adv",
+  "phonetic": "/əˈbrɑːd/",
+  "meaning": "ở nước ngoài",
+  "topic": "Từ vựng chung",
+  "batch": 1
+ },
+ {
+  "stt": 3,
+  "word": "accept",
+  "pos": "v",
+  "phonetic": "/əkˈsept/",
+  "meaning": "chấp nhận, chấp thuận",
+  "topic": "Từ vựng chung",
+  "batch": 1
+ },
+ {
+  "stt": 4,
+  "word": "access",
+  "pos": "n, v",
+  "phonetic": "/ˈæk.ses/",
+  "meaning": "quyền truy cập, sự tiếp cận; truy cập",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 1
+ },
+ {
+  "stt": 5,
+  "word": "accessible",
+  "pos": "adj",
+  "phonetic": "/əkˈses.ə.bəl/",
+  "meaning": "khả năng tiếp cận được",
+  "topic": "Từ vựng chung",
+  "batch": 1
+ },
+ {
+  "stt": 6,
+  "word": "accident",
+  "pos": "n",
+  "phonetic": "/ˈæk.sə.dənt/",
+  "meaning": "tai nạn, sự tình cờ",
+  "topic": "Từ vựng chung",
+  "batch": 1
+ },
+ {
+  "stt": 7,
+  "word": "accommodate",
+  "pos": "v",
+  "phonetic": "/əˈkɑː.mə.deɪt/",
+  "meaning": "dàn xếp, hỗ trợ",
+  "topic": "Từ vựng chung",
+  "batch": 1
+ },
+ {
+  "stt": 8,
+  "word": "accommodation",
+  "pos": "n",
+  "phonetic": "/əˌkɑː.məˈdeɪ.ʃən/",
+  "meaning": "chỗ ở, nơi ở; sự điều tiết, hòa giải",
+  "topic": "Từ vựng chung",
+  "batch": 1
+ },
+ {
+  "stt": 9,
+  "word": "accomplish",
+  "pos": "v",
+  "phonetic": "/əˈkɑːm.plɪʃ/",
+  "meaning": "hoàn thành, thực hiện",
+  "topic": "Từ vựng chung",
+  "batch": 1
+ },
+ {
+  "stt": 10,
+  "word": "according (to)",
+  "pos": "prep",
+  "phonetic": "/əˈkɔːr.dɪŋ ˌtuː/",
+  "meaning": "theo như, dựa vào",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 1
+ },
+ {
+  "stt": 11,
+  "word": "accordingly",
+  "pos": "adv",
+  "phonetic": "/əˈkɔːr.dɪŋ.li/",
+  "meaning": "theo đó, vì vậy",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 2
+ },
+ {
+  "stt": 12,
+  "word": "accounting",
+  "pos": "n",
+  "phonetic": "/əˈkaʊn.t̬ɪŋ/",
+  "meaning": "sự tính toán, thanh toán",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 2
+ },
+ {
+  "stt": 13,
+  "word": "accurate",
+  "pos": "adj",
+  "phonetic": "/ˈæk.jɚ.ət/",
+  "meaning": "đúng đắn, chính xác",
+  "topic": "Từ vựng chung",
+  "batch": 2
+ },
+ {
+  "stt": 14,
+  "word": "achieve",
+  "pos": "v",
+  "phonetic": "/əˈtʃiːv/",
+  "meaning": "đạt được, giành được",
+  "topic": "Từ vựng chung",
+  "batch": 2
+ },
+ {
+  "stt": 15,
+  "word": "acquire",
+  "pos": "v",
+  "phonetic": "/əˈkwaɪɚ/",
+  "meaning": "thu nạp được, giành được",
+  "topic": "Từ vựng chung",
+  "batch": 2
+ },
+ {
+  "stt": 16,
+  "word": "act",
+  "pos": "n, v",
+  "phonetic": "/ækt/",
+  "meaning": "hành động; thực hiện",
+  "topic": "Từ vựng chung",
+  "batch": 2
+ },
+ {
+  "stt": 17,
+  "word": "actually",
+  "pos": "adv",
+  "phonetic": "/ˈæk.tʃu.ə.li/",
+  "meaning": "thực sự, trên thực tế",
+  "topic": "Từ vựng chung",
+  "batch": 2
+ },
+ {
+  "stt": 18,
+  "word": "adapt",
+  "pos": "v",
+  "phonetic": "/əˈdæpt/",
+  "meaning": "thích nghi, thích ứng",
+  "topic": "Từ vựng chung",
+  "batch": 2
+ },
+ {
+  "stt": 19,
+  "word": "adapter",
+  "pos": "n",
+  "phonetic": "/əˈdæp.tɚ/",
+  "meaning": "thiết bị chuyển đổi, người điều chỉnh tác phẩm; (để phù hợp hơn)",
+  "topic": "Công nghệ",
+  "batch": 2
+ },
+ {
+  "stt": 20,
+  "word": "additional",
+  "pos": "adj",
+  "phonetic": "/əˈdɪʃ.ən.əl/",
+  "meaning": "thêm vào, phụ thêm",
+  "topic": "Từ vựng chung",
+  "batch": 2
+ },
+ {
+  "stt": 21,
+  "word": "adjust",
+  "pos": "v",
+  "phonetic": "/əˈdʒʌst/",
+  "meaning": "điều chỉnh",
+  "topic": "Từ vựng chung",
+  "batch": 3
+ },
+ {
+  "stt": 22,
+  "word": "adjustment",
+  "pos": "n",
+  "phonetic": "/əˈdʒʌst.mənt/",
+  "meaning": "sự điều chỉnh, sự thay đổi",
+  "topic": "Từ vựng chung",
+  "batch": 3
+ },
+ {
+  "stt": 23,
+  "word": "administration",
+  "pos": "n",
+  "phonetic": "/ədˌmɪn.əˈstreɪ.ʃən/",
+  "meaning": "sự quản lý, quản trị",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 3
+ },
+ {
+  "stt": 24,
+  "word": "admire",
+  "pos": "v",
+  "phonetic": "/ədˈmaɪr/",
+  "meaning": "ngưỡng mộ, thán phục",
+  "topic": "Từ vựng chung",
+  "batch": 3
+ },
+ {
+  "stt": 25,
+  "word": "admit",
+  "pos": "v",
+  "phonetic": "/ədˈmɪt/",
+  "meaning": "thừa nhận; tiếp nhận",
+  "topic": "Từ vựng chung",
+  "batch": 3
+ },
+ {
+  "stt": 26,
+  "word": "admittance",
+  "pos": "n",
+  "phonetic": "/ədˈmɪt̬.əns/",
+  "meaning": "sự thu nạp, đón nhận",
+  "topic": "Từ vựng chung",
+  "batch": 3
+ },
+ {
+  "stt": 27,
+  "word": "adopt",
+  "pos": "v",
+  "phonetic": "/əˈdɑːpt/",
+  "meaning": "nhân nuôi; làm theo, áp dụng",
+  "topic": "Từ vựng chung",
+  "batch": 3
+ },
+ {
+  "stt": 28,
+  "word": "advance",
+  "pos": "n, v",
+  "phonetic": "/ədˈvæns/",
+  "meaning": "sự tiến lên; tiến lên phía trước",
+  "topic": "Từ vựng chung",
+  "batch": 3
+ },
+ {
+  "stt": 29,
+  "word": "advanced",
+  "pos": "adj",
+  "phonetic": "/ədˈvænst/",
+  "meaning": "tiến bộ, cấp tiến",
+  "topic": "Từ vựng chung",
+  "batch": 3
+ },
+ {
+  "stt": 30,
+  "word": "advantage",
+  "pos": "n",
+  "phonetic": "/ədˈvæn.t̬ɪdʒ/",
+  "meaning": "lợi thế",
+  "topic": "Từ vựng chung",
+  "batch": 3
+ },
+ {
+  "stt": 31,
+  "word": "advantageous",
+  "pos": "adj",
+  "phonetic": "/ˌæd.vænˈteɪ.dʒəs/",
+  "meaning": "có lợi, thuận lợi",
+  "topic": "Từ vựng chung",
+  "batch": 4
+ },
+ {
+  "stt": 32,
+  "word": "advertise",
+  "pos": "v",
+  "phonetic": "/ˈæd.vɚ.taɪz/",
+  "meaning": "quảng cáo, thông báo",
+  "topic": "Marketing & Bán hàng",
+  "batch": 4
+ },
+ {
+  "stt": 33,
+  "word": "advertisement",
+  "pos": "n",
+  "phonetic": "/æd.vɝːˈtaɪz.mənt/",
+  "meaning": "bản tin quảng cáo",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 4
+ },
+ {
+  "stt": 34,
+  "word": "advice",
+  "pos": "n",
+  "phonetic": "/ədˈvaɪs/",
+  "meaning": "lời khuyên, lời chỉ bảo",
+  "topic": "Từ vựng chung",
+  "batch": 4
+ },
+ {
+  "stt": 35,
+  "word": "advise",
+  "pos": "v",
+  "phonetic": "/ədˈvaɪz/",
+  "meaning": "đưa ra lời khuyên",
+  "topic": "Từ vựng chung",
+  "batch": 4
+ },
+ {
+  "stt": 36,
+  "word": "affect",
+  "pos": "v",
+  "phonetic": "/əˈfekt/",
+  "meaning": "ảnh hưởng, tác động",
+  "topic": "Từ vựng chung",
+  "batch": 4
+ },
+ {
+  "stt": 37,
+  "word": "afford",
+  "pos": "v",
+  "phonetic": "/əˈfɔːrd/",
+  "meaning": "có khả năng, đủ điều kiện; ban phát, cấp phát",
+  "topic": "Từ vựng chung",
+  "batch": 4
+ },
+ {
+  "stt": 38,
+  "word": "affordable",
+  "pos": "adj",
+  "phonetic": "/əˈfɔːr.də.bəl/",
+  "meaning": "có khả năng chi trả, vừa túi tiền",
+  "topic": "Tài chính & Kế toán",
+  "batch": 4
+ },
+ {
+  "stt": 39,
+  "word": "agency",
+  "pos": "n",
+  "phonetic": "/ˈeɪ.dʒən.si/",
+  "meaning": "đại lý, bên môi giới trung gian",
+  "topic": "Từ vựng chung",
+  "batch": 4
+ },
+ {
+  "stt": 40,
+  "word": "agenda",
+  "pos": "n",
+  "phonetic": "/əˈdʒen.də/",
+  "meaning": "chương trình nghị sự, kế hoạch chương trình",
+  "topic": "Từ vựng chung",
+  "batch": 4
+ },
+ {
+  "stt": 41,
+  "word": "agree",
+  "pos": "v",
+  "phonetic": "/əˈɡriː/",
+  "meaning": "đồng ý, tán thành",
+  "topic": "Từ vựng chung",
+  "batch": 5
+ },
+ {
+  "stt": 42,
+  "word": "agreeable",
+  "pos": "adj",
+  "phonetic": "/əˈɡriː.ə.bəl/",
+  "meaning": "dễ chịu; thích hợp với",
+  "topic": "Từ vựng chung",
+  "batch": 5
+ },
+ {
+  "stt": 43,
+  "word": "agreement",
+  "pos": "n",
+  "phonetic": "/əˈɡriː.mənt/",
+  "meaning": "hợp đồng, giao kèo",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 5
+ },
+ {
+  "stt": 44,
+  "word": "agricultural",
+  "pos": "adj",
+  "phonetic": "/ˌæɡ.rəˈkʌl.tʃɚ.əl/",
+  "meaning": "(thuộc) nông nghiệp",
+  "topic": "Từ vựng chung",
+  "batch": 5
+ },
+ {
+  "stt": 45,
+  "word": "aid",
+  "pos": "n, v",
+  "phonetic": "/eɪd/",
+  "meaning": "sự giúp đỡ; cứu trợ, viện trợ",
+  "topic": "Từ vựng chung",
+  "batch": 5
+ },
+ {
+  "stt": 46,
+  "word": "aim",
+  "pos": "n, v",
+  "phonetic": "/eɪm/",
+  "meaning": "mục tiêu; nhắm đến, hướng đến",
+  "topic": "Từ vựng chung",
+  "batch": 5
+ },
+ {
+  "stt": 47,
+  "word": "airline",
+  "pos": "n",
+  "phonetic": "/ˈer.laɪn/",
+  "meaning": "công ty hàng không",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 5
+ },
+ {
+  "stt": 48,
+  "word": "aisle",
+  "pos": "n",
+  "phonetic": "/aɪl/",
+  "meaning": "gian hàng, lối đi giữa các dãy ghế",
+  "topic": "Từ vựng chung",
+  "batch": 5
+ },
+ {
+  "stt": 49,
+  "word": "alarm",
+  "pos": "n",
+  "phonetic": "/əˈlɑːrm/",
+  "meaning": "sự báo động; báo động",
+  "topic": "Từ vựng chung",
+  "batch": 5
+ },
+ {
+  "stt": 50,
+  "word": "allow",
+  "pos": "v",
+  "phonetic": "/əˈlaʊ/",
+  "meaning": "cho phép, để cho",
+  "topic": "Từ vựng chung",
+  "batch": 5
+ },
+ {
+  "stt": 51,
+  "word": "alternative",
+  "pos": "adj",
+  "phonetic": "/ɑːlˈtɝː.nə.t̬ɪv/",
+  "meaning": "xen kẽ, luân phiên",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 6
+ },
+ {
+  "stt": 52,
+  "word": "ambitious",
+  "pos": "adj",
+  "phonetic": "/æmˈbɪʃ.əs/",
+  "meaning": "tham vọng",
+  "topic": "Từ vựng chung",
+  "batch": 6
+ },
+ {
+  "stt": 53,
+  "word": "amend",
+  "pos": "v",
+  "phonetic": "/əˈmend/",
+  "meaning": "sửa chữa, cải tạo",
+  "topic": "Từ vựng chung",
+  "batch": 6
+ },
+ {
+  "stt": 54,
+  "word": "amount",
+  "pos": "n, v",
+  "phonetic": "/əˈmaʊnt/",
+  "meaning": "số lượng; cộng dồn lên tới",
+  "topic": "Từ vựng chung",
+  "batch": 6
+ },
+ {
+  "stt": 55,
+  "word": "amusing",
+  "pos": "adj",
+  "phonetic": "/əˈmjuː.zɪŋ/",
+  "meaning": "vui, có tính hài hước",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 6
+ },
+ {
+  "stt": 56,
+  "word": "analysis",
+  "pos": "n",
+  "phonetic": "/əˈnæl.ə.sɪs/",
+  "meaning": "sự phân tích, bản phân tích",
+  "topic": "Từ vựng chung",
+  "batch": 6
+ },
+ {
+  "stt": 57,
+  "word": "analyze",
+  "pos": "v",
+  "phonetic": "/ˈæn.əl.aɪz/",
+  "meaning": "phân tích",
+  "topic": "Từ vựng chung",
+  "batch": 6
+ },
+ {
+  "stt": 58,
+  "word": "annual",
+  "pos": "adj",
+  "phonetic": "/ˈæn.ju.əl/",
+  "meaning": "hằng năm",
+  "topic": "Từ vựng chung",
+  "batch": 6
+ },
+ {
+  "stt": 59,
+  "word": "anticipate",
+  "pos": "v",
+  "phonetic": "/ænˈtɪs.ə.peɪt/",
+  "meaning": "phỏng đoán, dự đoán",
+  "topic": "Từ vựng chung",
+  "batch": 6
+ },
+ {
+  "stt": 60,
+  "word": "anxious",
+  "pos": "adj",
+  "phonetic": "/ˈæŋk.ʃəs/",
+  "meaning": "bồn chồn, lo lắng",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 6
+ },
+ {
+  "stt": 61,
+  "word": "apologize",
+  "pos": "v",
+  "phonetic": "/əˈpɑː.lə.dʒaɪz/",
+  "meaning": "xin lỗi",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 7
+ },
+ {
+  "stt": 62,
+  "word": "appeal",
+  "pos": "n, v",
+  "phonetic": "/əˈpiːl/",
+  "meaning": "lời thỉnh cầu, sức lôi cuốn; kêu gọi, hấp dẫn",
+  "topic": "Từ vựng chung",
+  "batch": 7
+ },
+ {
+  "stt": 63,
+  "word": "appetizer",
+  "pos": "n",
+  "phonetic": "/ˈæp.ə.taɪ.zɚ/",
+  "meaning": "món khai vị",
+  "topic": "Từ vựng chung",
+  "batch": 7
+ },
+ {
+  "stt": 64,
+  "word": "appliance",
+  "pos": "n",
+  "phonetic": "/əˈplaɪ.əns/",
+  "meaning": "thiết bị, dụng cụ",
+  "topic": "Công nghệ",
+  "batch": 7
+ },
+ {
+  "stt": 65,
+  "word": "applicant",
+  "pos": "n",
+  "phonetic": "/ˈæp.lə.kənt/",
+  "meaning": "người ứng tuyển, nguyên cáo",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 7
+ },
+ {
+  "stt": 66,
+  "word": "application",
+  "pos": "n",
+  "phonetic": "/ˌæp.ləˈkeɪ.ʃən/",
+  "meaning": "ứng dụng, sự áp dụng",
+  "topic": "Từ vựng chung",
+  "batch": 7
+ },
+ {
+  "stt": 67,
+  "word": "apply",
+  "pos": "v",
+  "phonetic": "/əˈplaɪ/",
+  "meaning": "áp dụng, ứng tuyển",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 7
+ },
+ {
+  "stt": 68,
+  "word": "appoint",
+  "pos": "v",
+  "phonetic": "/əˈpɔɪnt/",
+  "meaning": "bổ nhiệm, chỉ định",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 7
+ },
+ {
+  "stt": 69,
+  "word": "appointment",
+  "pos": "n",
+  "phonetic": "/əˈpɔɪnt.mənt/",
+  "meaning": "sự bổ nhiệm, cuộc hẹn gặp",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 7
+ },
+ {
+  "stt": 70,
+  "word": "appreciable",
+  "pos": "adj",
+  "phonetic": "/əˈpriː.ʃə.bəl/",
+  "meaning": "đáng kể",
+  "topic": "Từ vựng chung",
+  "batch": 7
+ },
+ {
+  "stt": 71,
+  "word": "appreciate",
+  "pos": "v",
+  "phonetic": "/əˈpriː.ʃi.eɪt/",
+  "meaning": "đánh giá cao, cảm kích",
+  "topic": "Từ vựng chung",
+  "batch": 8
+ },
+ {
+  "stt": 72,
+  "word": "appreciation",
+  "pos": "n",
+  "phonetic": "/əˌpriː.ʃiˈeɪ.ʃən/",
+  "meaning": "sự đánh giá cao, sự cảm kích",
+  "topic": "Từ vựng chung",
+  "batch": 8
+ },
+ {
+  "stt": 73,
+  "word": "appreciative of",
+  "pos": "adj",
+  "phonetic": "/əˈpriː.ʃə.t̬ɪv/",
+  "meaning": "đánh giá cao, ghi nhận",
+  "topic": "Từ vựng chung",
+  "batch": 8
+ },
+ {
+  "stt": 74,
+  "word": "apprentice",
+  "pos": "n",
+  "phonetic": "/əˈpren.t̬ɪs/",
+  "meaning": "người học việc",
+  "topic": "Từ vựng chung",
+  "batch": 8
+ },
+ {
+  "stt": 75,
+  "word": "approve",
+  "pos": "v",
+  "phonetic": "/əˈpruːv/",
+  "meaning": "tán thành, phê chuẩn",
+  "topic": "Từ vựng chung",
+  "batch": 8
+ },
+ {
+  "stt": 76,
+  "word": "approximate",
+  "pos": "adj",
+  "phonetic": "/əˈprɑːk.sə.mət/",
+  "meaning": "xấp xỉ, gần đúng",
+  "topic": "Từ vựng chung",
+  "batch": 8
+ },
+ {
+  "stt": 77,
+  "word": "arbitrate",
+  "pos": "v",
+  "phonetic": "/ˈɑːr.bə.treɪt/",
+  "meaning": "phân xử, làm trọng tài",
+  "topic": "Từ vựng chung",
+  "batch": 8
+ },
+ {
+  "stt": 78,
+  "word": "area",
+  "pos": "n",
+  "phonetic": "/ˈer.i.ə/",
+  "meaning": "khu vực, lĩnh vực, diện tích",
+  "topic": "Từ vựng chung",
+  "batch": 8
+ },
+ {
+  "stt": 79,
+  "word": "argue",
+  "pos": "v",
+  "phonetic": "/ˈɑːrɡ.juː/",
+  "meaning": "tranh cãi, tranh luận",
+  "topic": "Từ vựng chung",
+  "batch": 8
+ },
+ {
+  "stt": 80,
+  "word": "argument",
+  "pos": "n",
+  "phonetic": "/ˈɑːrɡ.jə.mənt/",
+  "meaning": "cuộc tranh luận",
+  "topic": "Từ vựng chung",
+  "batch": 8
+ },
+ {
+  "stt": 81,
+  "word": "arrange",
+  "pos": "v",
+  "phonetic": "/əˈreɪndʒ/",
+  "meaning": "dàn xếp, sắp đặt",
+  "topic": "Từ vựng chung",
+  "batch": 9
+ },
+ {
+  "stt": 82,
+  "word": "arrangement",
+  "pos": "n",
+  "phonetic": "/əˈreɪndʒ.mənt/",
+  "meaning": "sự sắp đặt",
+  "topic": "Từ vựng chung",
+  "batch": 9
+ },
+ {
+  "stt": 83,
+  "word": "assemble",
+  "pos": "v",
+  "phonetic": "/əˈsem.bəl/",
+  "meaning": "lắp ráp, thu thập",
+  "topic": "Từ vựng chung",
+  "batch": 9
+ },
+ {
+  "stt": 84,
+  "word": "assess",
+  "pos": "v",
+  "phonetic": "/əˈses/",
+  "meaning": "đánh giá, định giá",
+  "topic": "Từ vựng chung",
+  "batch": 9
+ },
+ {
+  "stt": 85,
+  "word": "asset",
+  "pos": "n",
+  "phonetic": "/ˈæs.et/",
+  "meaning": "của cải, tài sản, vốn quý",
+  "topic": "Tài chính & Kế toán",
+  "batch": 9
+ },
+ {
+  "stt": 86,
+  "word": "assign",
+  "pos": "v",
+  "phonetic": "/əˈsaɪn/",
+  "meaning": "phân công, chia việc",
+  "topic": "Từ vựng chung",
+  "batch": 9
+ },
+ {
+  "stt": 87,
+  "word": "assignment",
+  "pos": "n",
+  "phonetic": "/əˈsaɪn.mənt/",
+  "meaning": "sự phân việc, bài tập tiểu luận",
+  "topic": "Từ vựng chung",
+  "batch": 9
+ },
+ {
+  "stt": 88,
+  "word": "assist",
+  "pos": "v",
+  "phonetic": "/əˈsɪst/",
+  "meaning": "hỗ trợ, giúp đỡ",
+  "topic": "Từ vựng chung",
+  "batch": 9
+ },
+ {
+  "stt": 89,
+  "word": "assistance",
+  "pos": "n",
+  "phonetic": "/əˈsɪs.təns/",
+  "meaning": "sự giúp đỡ, hỗ trợ",
+  "topic": "Từ vựng chung",
+  "batch": 9
+ },
+ {
+  "stt": 90,
+  "word": "assume",
+  "pos": "v",
+  "phonetic": "/əˈsuːm/",
+  "meaning": "cho rằng, làm ra vẻ",
+  "topic": "Từ vựng chung",
+  "batch": 9
+ },
+ {
+  "stt": 91,
+  "word": "attach",
+  "pos": "v",
+  "phonetic": "/əˈtætʃ/",
+  "meaning": "gán thêm, kèm thêm",
+  "topic": "Từ vựng chung",
+  "batch": 10
+ },
+ {
+  "stt": 92,
+  "word": "attachment",
+  "pos": "n",
+  "phonetic": "/əˈtætʃ.mənt/",
+  "meaning": "sự gắn thêm; phần kèm thêm",
+  "topic": "Từ vựng chung",
+  "batch": 10
+ },
+ {
+  "stt": 93,
+  "word": "attend",
+  "pos": "v",
+  "phonetic": "/əˈtend/",
+  "meaning": "tham dự",
+  "topic": "Từ vựng chung",
+  "batch": 10
+ },
+ {
+  "stt": 94,
+  "word": "attendance",
+  "pos": "n",
+  "phonetic": "/əˈten.dəns/",
+  "meaning": "sự tham gia, có mặt",
+  "topic": "Từ vựng chung",
+  "batch": 10
+ },
+ {
+  "stt": 95,
+  "word": "attract",
+  "pos": "v",
+  "phonetic": "/əˈtrækt/",
+  "meaning": "thu hút, hấp dẫn",
+  "topic": "Từ vựng chung",
+  "batch": 10
+ },
+ {
+  "stt": 96,
+  "word": "audience",
+  "pos": "n",
+  "phonetic": "/ˈɑː.di.əns/",
+  "meaning": "khán thính giả",
+  "topic": "Từ vựng chung",
+  "batch": 10
+ },
+ {
+  "stt": 97,
+  "word": "audit",
+  "pos": "n, v",
+  "phonetic": "/ˈɑː.dɪt/",
+  "meaning": "kiểm toán",
+  "topic": "Tài chính & Kế toán",
+  "batch": 10
+ },
+ {
+  "stt": 98,
+  "word": "authority",
+  "pos": "n",
+  "phonetic": "/əˈθɔːr.ə.t̬i/",
+  "meaning": "quyền thế, nhà chức trách, chính quyền",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 10
+ },
+ {
+  "stt": 99,
+  "word": "authorize",
+  "pos": "v",
+  "phonetic": "/ˈɑː.θɚ.aɪz/",
+  "meaning": "ủy quyền, cấp quyền",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 10
+ },
+ {
+  "stt": 100,
+  "word": "availability",
+  "pos": "n",
+  "phonetic": "/əˌveɪ.ləˈbɪl.ə.t̬i/",
+  "meaning": "tính sẵn có",
+  "topic": "Từ vựng chung",
+  "batch": 10
+ },
+ {
+  "stt": 101,
+  "word": "available",
+  "pos": "adj",
+  "phonetic": "/əˈveɪ.lə.bəl/",
+  "meaning": "có sẵn để dùng",
+  "topic": "Từ vựng chung",
+  "batch": 11
+ },
+ {
+  "stt": 102,
+  "word": "avoid",
+  "pos": "v",
+  "phonetic": "/əˈvɔɪd/",
+  "meaning": "tránh xa, ngăn ngừa",
+  "topic": "Từ vựng chung",
+  "batch": 11
+ },
+ {
+  "stt": 103,
+  "word": "avid",
+  "pos": "adj",
+  "phonetic": "/ˈæv.ɪd/",
+  "meaning": "khao khát, thèm khát",
+  "topic": "Từ vựng chung",
+  "batch": 11
+ },
+ {
+  "stt": 104,
+  "word": "awareness",
+  "pos": "n",
+  "phonetic": "/əˈwer.nəs/",
+  "meaning": "sự nhận thức, ý thức",
+  "topic": "Từ vựng chung",
+  "batch": 11
+ },
+ {
+  "stt": 105,
+  "word": "awkward",
+  "pos": "adj",
+  "phonetic": "/ˈɑː.kwɚd/",
+  "meaning": "ngại ngùng, khó xử",
+  "topic": "Từ vựng chung",
+  "batch": 11
+ },
+ {
+  "stt": 106,
+  "word": "background",
+  "pos": "n",
+  "phonetic": "/ˈbæk.ɡraʊnd/",
+  "meaning": "phông nền, gia cảnh, quá trình học tập",
+  "topic": "Từ vựng chung",
+  "batch": 11
+ },
+ {
+  "stt": 107,
+  "word": "backpack",
+  "pos": "n",
+  "phonetic": "/ˈbæk.pæk/",
+  "meaning": "ba lô đeo sau lưng",
+  "topic": "Từ vựng chung",
+  "batch": 11
+ },
+ {
+  "stt": 108,
+  "word": "baggage claim",
+  "pos": "n",
+  "phonetic": "/ˈbæɡ.ɪdʒ kleɪm/",
+  "meaning": "chỗ nhận hành lý",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 11
+ },
+ {
+  "stt": 109,
+  "word": "balance",
+  "pos": "n",
+  "phonetic": "/ˈbæl.əns/",
+  "meaning": "sự cân bằng, trạng thái cân bằng",
+  "topic": "Từ vựng chung",
+  "batch": 11
+ },
+ {
+  "stt": 110,
+  "word": "bank",
+  "pos": "n",
+  "phonetic": "/bæŋk/",
+  "meaning": "ngân hàng, bãi sông",
+  "topic": "Tài chính & Kế toán",
+  "batch": 11
+ },
+ {
+  "stt": 111,
+  "word": "bankrupt",
+  "pos": "n, adj",
+  "phonetic": "/ˈbæŋ.krʌpt/",
+  "meaning": "người phá sản; vỡ nợ, phá sản",
+  "topic": "Tài chính & Kế toán",
+  "batch": 12
+ },
+ {
+  "stt": 112,
+  "word": "bar code",
+  "pos": "n",
+  "phonetic": "/ˈbɑːr ˌkoʊd/",
+  "meaning": "mã vạch",
+  "topic": "Từ vựng chung",
+  "batch": 12
+ },
+ {
+  "stt": 113,
+  "word": "bargain",
+  "pos": "n, v",
+  "phonetic": "/ˈbɑːr.ɡɪn/",
+  "meaning": "sự mặc cả, món hời; mặc cả, thương lượng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 12
+ },
+ {
+  "stt": 114,
+  "word": "beautiful",
+  "pos": "adj",
+  "phonetic": "/ˈbjuː.t̬ə.fəl/",
+  "meaning": "xinh đẹp, tốt đẹp",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 12
+ },
+ {
+  "stt": 115,
+  "word": "behave",
+  "pos": "v",
+  "phonetic": "/bɪˈheɪv/",
+  "meaning": "hành xử, cư xử",
+  "topic": "Từ vựng chung",
+  "batch": 12
+ },
+ {
+  "stt": 116,
+  "word": "belongings",
+  "pos": "n",
+  "phonetic": "/bɪˈlɑːŋ.ɪŋz/",
+  "meaning": "tài sản, đồ dùng cá nhân",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 12
+ },
+ {
+  "stt": 117,
+  "word": "beneficial",
+  "pos": "adj",
+  "phonetic": "/ˌben.əˈfɪʃ.əl/",
+  "meaning": "có ích, có lợi",
+  "topic": "Từ vựng chung",
+  "batch": 12
+ },
+ {
+  "stt": 118,
+  "word": "benefit",
+  "pos": "n",
+  "phonetic": "/ˈben.ə.fɪt/",
+  "meaning": "ích lợi",
+  "topic": "Từ vựng chung",
+  "batch": 12
+ },
+ {
+  "stt": 119,
+  "word": "beverage",
+  "pos": "n",
+  "phonetic": "/ˈbev.ɚ.ɪdʒ/",
+  "meaning": "đồ uống, đồ giải khát",
+  "topic": "Từ vựng chung",
+  "batch": 12
+ },
+ {
+  "stt": 120,
+  "word": "bill",
+  "pos": "n",
+  "phonetic": "/bɪl/",
+  "meaning": "hóa đơn",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 12
+ },
+ {
+  "stt": 121,
+  "word": "binder",
+  "pos": "n",
+  "phonetic": "/ˈbaɪn.dɚ/",
+  "meaning": "bìa ôm, bìa rời",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 13
+ },
+ {
+  "stt": 122,
+  "word": "blanket",
+  "pos": "n",
+  "phonetic": "/ˈblæŋ.kɪt/",
+  "meaning": "chăn, mền",
+  "topic": "Từ vựng chung",
+  "batch": 13
+ },
+ {
+  "stt": 123,
+  "word": "block",
+  "pos": "n, v",
+  "phonetic": "/blɑːk/",
+  "meaning": "khối, tảng, trướng ngại vật; làm cản trở, phong; tỏa",
+  "topic": "Từ vựng chung",
+  "batch": 13
+ },
+ {
+  "stt": 124,
+  "word": "board",
+  "pos": "n",
+  "phonetic": "/bɔːrd/",
+  "meaning": "tấm ván, bảng, mạn thuyền",
+  "topic": "Từ vựng chung",
+  "batch": 13
+ },
+ {
+  "stt": 125,
+  "word": "boardroom",
+  "pos": "n",
+  "phonetic": "/ˈbɔːrd.ruːm/ /ˈbɔːrd.rʊm/",
+  "meaning": "phòng họp ban giám đốc",
+  "topic": "Từ vựng chung",
+  "batch": 13
+ },
+ {
+  "stt": 126,
+  "word": "boast",
+  "pos": "n, v",
+  "phonetic": "/boʊst/",
+  "meaning": "sự khoe khoang; khoác lác",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 13
+ },
+ {
+  "stt": 127,
+  "word": "book",
+  "pos": "n, v",
+  "phonetic": "/bʊk/",
+  "meaning": "cuốn sách; đặt phòng, đặt vé",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 13
+ },
+ {
+  "stt": 128,
+  "word": "boost",
+  "pos": "v, n",
+  "phonetic": "/buːst/",
+  "meaning": "đẩy mạnh, kích thích; sự tăng lên",
+  "topic": "Từ vựng chung",
+  "batch": 13
+ },
+ {
+  "stt": 129,
+  "word": "bored",
+  "pos": "adj",
+  "phonetic": "/bɔːrd/",
+  "meaning": "buồn chán, tẻ nhạt",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 13
+ },
+ {
+  "stt": 130,
+  "word": "bother",
+  "pos": "n, v",
+  "phonetic": "/ˈbɑː.ðɚ/",
+  "meaning": "điều gây khó chịu; làm phiền, bận tâm",
+  "topic": "Từ vựng chung",
+  "batch": 13
+ },
+ {
+  "stt": 131,
+  "word": "bottom line",
+  "pos": "n",
+  "phonetic": "/ˌbɑː.t̬əm ˈlaɪn/",
+  "meaning": "điểm mấu chốt, cốt yếu",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 14
+ },
+ {
+  "stt": 132,
+  "word": "branch",
+  "pos": "n",
+  "phonetic": "/bræntʃ/",
+  "meaning": "cành cây, chi nhánh",
+  "topic": "Từ vựng chung",
+  "batch": 14
+ },
+ {
+  "stt": 133,
+  "word": "brand",
+  "pos": "n",
+  "phonetic": "/brænd/",
+  "meaning": "nhãn hàng, thương hiệu",
+  "topic": "Marketing & Bán hàng",
+  "batch": 14
+ },
+ {
+  "stt": 134,
+  "word": "briefcase",
+  "pos": "n",
+  "phonetic": "/ˈbriːf.keɪs/",
+  "meaning": "cặp tài liệu",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 14
+ },
+ {
+  "stt": 135,
+  "word": "briefing",
+  "pos": "n",
+  "phonetic": "/ˈbriː.fɪŋ/",
+  "meaning": "sự chỉ dẫn, hướng dẫn",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 14
+ },
+ {
+  "stt": 136,
+  "word": "broadcast",
+  "pos": "n, v",
+  "phonetic": "/ˈbrɑːd.kæst/",
+  "meaning": "chương trình phát thanh; truyền bá, phát thanh",
+  "topic": "Từ vựng chung",
+  "batch": 14
+ },
+ {
+  "stt": 137,
+  "word": "broaden",
+  "pos": "v",
+  "phonetic": "/ˈbrɑː.dən/",
+  "meaning": "mở rộng, nới rộng",
+  "topic": "Từ vựng chung",
+  "batch": 14
+ },
+ {
+  "stt": 138,
+  "word": "browser",
+  "pos": "n",
+  "phonetic": "/ˈbraʊ.zɚ/",
+  "meaning": "trình duyệt",
+  "topic": "Công nghệ",
+  "batch": 14
+ },
+ {
+  "stt": 139,
+  "word": "brush",
+  "pos": "n, v",
+  "phonetic": "/brʌʃ/",
+  "meaning": "lược, bàn chải; chải, quét",
+  "topic": "Từ vựng chung",
+  "batch": 14
+ },
+ {
+  "stt": 140,
+  "word": "budget",
+  "pos": "n, v",
+  "phonetic": "/ˈbʌdʒ.ɪt/",
+  "meaning": "ngân sách; dự thảo ngân sách",
+  "topic": "Tài chính & Kế toán",
+  "batch": 14
+ },
+ {
+  "stt": 141,
+  "word": "bulletin",
+  "pos": "n",
+  "phonetic": "/ˈbʊl.ə.t̬ɪn/",
+  "meaning": "bảng thông báo, tập san",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 15
+ },
+ {
+  "stt": 142,
+  "word": "cabin crew",
+  "pos": "n",
+  "phonetic": "/ˈkæb.ɪn ˌkruː/",
+  "meaning": "đội bay, tiếp viên hàng không",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 15
+ },
+ {
+  "stt": 143,
+  "word": "cafeteria",
+  "pos": "n",
+  "phonetic": "/ˌkæf.əˈtɪr.i.ə/",
+  "meaning": "quán ăn tự phục vụ, phòng cà phê",
+  "topic": "Từ vựng chung",
+  "batch": 15
+ },
+ {
+  "stt": 144,
+  "word": "calculate",
+  "pos": "v",
+  "phonetic": "/ˈkæl.kjə.leɪt/",
+  "meaning": "tính toán, suy tính",
+  "topic": "Từ vựng chung",
+  "batch": 15
+ },
+ {
+  "stt": 145,
+  "word": "calculation",
+  "pos": "n",
+  "phonetic": "/ˌkæl.kjəˈleɪ.ʃən/",
+  "meaning": "sự tính toán",
+  "topic": "Từ vựng chung",
+  "batch": 15
+ },
+ {
+  "stt": 146,
+  "word": "calculator",
+  "pos": "n",
+  "phonetic": "/ˈkæl.kjə.leɪ.t̬ɚ/",
+  "meaning": "máy tính bỏ túi",
+  "topic": "Công nghệ",
+  "batch": 15
+ },
+ {
+  "stt": 147,
+  "word": "campaign",
+  "pos": "n",
+  "phonetic": "/kæmˈpeɪn/",
+  "meaning": "chiến dịch, cuộc vận động",
+  "topic": "Marketing & Bán hàng",
+  "batch": 15
+ },
+ {
+  "stt": 148,
+  "word": "cancel",
+  "pos": "v",
+  "phonetic": "/ˈkæn.səl/",
+  "meaning": "hủy bỏ, xóa",
+  "topic": "Từ vựng chung",
+  "batch": 15
+ },
+ {
+  "stt": 149,
+  "word": "cancellation",
+  "pos": "n",
+  "phonetic": "/ˌkæn.səlˈeɪ.ʃən/",
+  "meaning": "sự xóa bỏ, bãi bỏ",
+  "topic": "Từ vựng chung",
+  "batch": 15
+ },
+ {
+  "stt": 150,
+  "word": "candidacy",
+  "pos": "n",
+  "phonetic": "/ˈkæn.dɪ.də.si/",
+  "meaning": "sự ứng cử",
+  "topic": "Từ vựng chung",
+  "batch": 15
+ },
+ {
+  "stt": 151,
+  "word": "candidate",
+  "pos": "n",
+  "phonetic": "/ˈkæn.dɪ.dət/ /ˈkæn.dɪ.deɪt/",
+  "meaning": "ứng cử viên",
+  "topic": "Từ vựng chung",
+  "batch": 16
+ },
+ {
+  "stt": 152,
+  "word": "capacity",
+  "pos": "n",
+  "phonetic": "/kəˈpæs.ə.t̬i/",
+  "meaning": "năng lực, sức chứa",
+  "topic": "Từ vựng chung",
+  "batch": 16
+ },
+ {
+  "stt": 153,
+  "word": "capital",
+  "pos": "n",
+  "phonetic": "/ˈkæp.ə.t̬əl/",
+  "meaning": "thủ đô, nguồn vốn, chữ viết hoa",
+  "topic": "Tài chính & Kế toán",
+  "batch": 16
+ },
+ {
+  "stt": 154,
+  "word": "career",
+  "pos": "n",
+  "phonetic": "/kəˈrɪr/",
+  "meaning": "sự nghiệp",
+  "topic": "Từ vựng chung",
+  "batch": 16
+ },
+ {
+  "stt": 155,
+  "word": "careless",
+  "pos": "adj",
+  "phonetic": "/ˈker.ləs/",
+  "meaning": "bất cẩn, cẩu thả",
+  "topic": "Từ vựng chung",
+  "batch": 16
+ },
+ {
+  "stt": 156,
+  "word": "cash",
+  "pos": "n",
+  "phonetic": "/kæʃ/",
+  "meaning": "tiền mặt",
+  "topic": "Tài chính & Kế toán",
+  "batch": 16
+ },
+ {
+  "stt": 157,
+  "word": "cashier",
+  "pos": "n",
+  "phonetic": "/kæʃˈɪr/",
+  "meaning": "nhân viên thu ngân",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 16
+ },
+ {
+  "stt": 158,
+  "word": "cause",
+  "pos": "n, v",
+  "phonetic": "/kɑːz/",
+  "meaning": "nguyên nhân, lý do; gây ra",
+  "topic": "Từ vựng chung",
+  "batch": 16
+ },
+ {
+  "stt": 159,
+  "word": "cautious",
+  "pos": "adj",
+  "phonetic": "/ˈkɑː.ʃəs/",
+  "meaning": "thận trọng, cẩn thận",
+  "topic": "Từ vựng chung",
+  "batch": 16
+ },
+ {
+  "stt": 160,
+  "word": "celebrate",
+  "pos": "v",
+  "phonetic": "/ˈsel.ə.breɪt/",
+  "meaning": "kỉ niệm, tán dương",
+  "topic": "Từ vựng chung",
+  "batch": 16
+ },
+ {
+  "stt": 161,
+  "word": "celebration",
+  "pos": "n",
+  "phonetic": "/ˌsel.əˈbreɪ.ʃən/",
+  "meaning": "lễ kỉ niệm",
+  "topic": "Từ vựng chung",
+  "batch": 17
+ },
+ {
+  "stt": 162,
+  "word": "certificate",
+  "pos": "n",
+  "phonetic": "/sɚˈtɪf.ə.kət/",
+  "meaning": "giấy chứng nhận",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 17
+ },
+ {
+  "stt": 163,
+  "word": "certification",
+  "pos": "n",
+  "phonetic": "/ˌsɜ˞ː.t̬ə.fɪˈkeɪ.ʃən/",
+  "meaning": "sự cấp giấy chứng nhận",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 17
+ },
+ {
+  "stt": 164,
+  "word": "chain",
+  "pos": "n",
+  "phonetic": "/tʃeɪn/",
+  "meaning": "dây xích, chuỗi",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 17
+ },
+ {
+  "stt": 165,
+  "word": "chain store",
+  "pos": "n",
+  "phonetic": "/ˈtʃeɪn ˌstɔːr/",
+  "meaning": "cửa hàng theo chuỗi, hệ thống cửa hàng",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 17
+ },
+ {
+  "stt": 166,
+  "word": "chair",
+  "pos": "n",
+  "phonetic": "/tʃer/",
+  "meaning": "ghế ngồi",
+  "topic": "Từ vựng chung",
+  "batch": 17
+ },
+ {
+  "stt": 167,
+  "word": "chairperson",
+  "pos": "n",
+  "phonetic": "/ˈtʃerˌpɝː.sən/",
+  "meaning": "chủ tịch",
+  "topic": "Từ vựng chung",
+  "batch": 17
+ },
+ {
+  "stt": 168,
+  "word": "characteristic",
+  "pos": "n",
+  "phonetic": "/ˌker.ək.təˈrɪs.tɪk/",
+  "meaning": "đặc điểm, tính cách",
+  "topic": "Từ vựng chung",
+  "batch": 17
+ },
+ {
+  "stt": 169,
+  "word": "characterize",
+  "pos": "v",
+  "phonetic": "/ˈker.ək.tɚ.aɪz/",
+  "meaning": "biểu thị đặc điểm, mô tả đặc điểm",
+  "topic": "Từ vựng chung",
+  "batch": 17
+ },
+ {
+  "stt": 170,
+  "word": "charge",
+  "pos": "n, v",
+  "phonetic": "/tʃɑːrdʒ/",
+  "meaning": "chi phí, tiền công; tính giá, đòi trả",
+  "topic": "Tài chính & Kế toán",
+  "batch": 17
+ },
+ {
+  "stt": 171,
+  "word": "charity",
+  "pos": "n",
+  "phonetic": "/ˈtʃer.ə.t̬i/",
+  "meaning": "lòng từ bi, tổ chức từ thiện",
+  "topic": "Từ vựng chung",
+  "batch": 18
+ },
+ {
+  "stt": 172,
+  "word": "cheap",
+  "pos": "adj",
+  "phonetic": "/tʃiːp/",
+  "meaning": "rẻ tiền, xấu",
+  "topic": "Tài chính & Kế toán",
+  "batch": 18
+ },
+ {
+  "stt": 173,
+  "word": "check in",
+  "pos": "v",
+  "phonetic": "/tʃek ɪn/",
+  "meaning": "đăng ký phòng, vé máy bay...",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 18
+ },
+ {
+  "stt": 174,
+  "word": "check out",
+  "pos": "v",
+  "phonetic": "/tʃek aʊt/",
+  "meaning": "trả phòng, thanh toán",
+  "topic": "Từ vựng chung",
+  "batch": 18
+ },
+ {
+  "stt": 175,
+  "word": "chef",
+  "pos": "n",
+  "phonetic": "/ʃef/",
+  "meaning": "đầu bếp",
+  "topic": "Từ vựng chung",
+  "batch": 18
+ },
+ {
+  "stt": 176,
+  "word": "circumstances",
+  "pos": "n",
+  "phonetic": "/ˈsɝː.kəm.stæns/",
+  "meaning": "hoàn cảnh, tình huống",
+  "topic": "Từ vựng chung",
+  "batch": 18
+ },
+ {
+  "stt": 177,
+  "word": "claim",
+  "pos": "n, v",
+  "phonetic": "/kleɪm/",
+  "meaning": "quyền đòi sở hữu; đòi hỏi, nhận",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 18
+ },
+ {
+  "stt": 178,
+  "word": "claimant",
+  "pos": "n",
+  "phonetic": "/ˈkleɪ.mənt/",
+  "meaning": "người thỉnh cầu, người đòi hỏi",
+  "topic": "Từ vựng chung",
+  "batch": 18
+ },
+ {
+  "stt": 179,
+  "word": "classify",
+  "pos": "v",
+  "phonetic": "/ˈklæs.ə.faɪ/",
+  "meaning": "phân loại",
+  "topic": "Từ vựng chung",
+  "batch": 18
+ },
+ {
+  "stt": 180,
+  "word": "client",
+  "pos": "n",
+  "phonetic": "/ˈklaɪ.ənt/",
+  "meaning": "khách hàng (của luật sư, cửa hàng...)",
+  "topic": "Marketing & Bán hàng",
+  "batch": 18
+ },
+ {
+  "stt": 181,
+  "word": "climate",
+  "pos": "n",
+  "phonetic": "/ˈklaɪ.mət/",
+  "meaning": "khí hậu, thời tiết",
+  "topic": "Từ vựng chung",
+  "batch": 19
+ },
+ {
+  "stt": 182,
+  "word": "commence",
+  "pos": "v",
+  "phonetic": "/kəˈmens/",
+  "meaning": "bắt đầu, mở đầu, khởi đầu",
+  "topic": "Từ vựng chung",
+  "batch": 19
+ },
+ {
+  "stt": 183,
+  "word": "commission",
+  "pos": "n",
+  "phonetic": "/kəˈmɪʃ.ən/",
+  "meaning": "hội đồng, ủy ban, tiền hoa hồng",
+  "topic": "Tài chính & Kế toán",
+  "batch": 19
+ },
+ {
+  "stt": 184,
+  "word": "committee",
+  "pos": "n",
+  "phonetic": "/kəˈmɪt̬.i/",
+  "meaning": "ủy ban",
+  "topic": "Từ vựng chung",
+  "batch": 19
+ },
+ {
+  "stt": 185,
+  "word": "commonly",
+  "pos": "adv",
+  "phonetic": "/ˈkɑː.mən.li/",
+  "meaning": "thông thường, bình thường",
+  "topic": "Từ vựng chung",
+  "batch": 19
+ },
+ {
+  "stt": 186,
+  "word": "commute",
+  "pos": "v",
+  "phonetic": "/kəˈmjuːt/",
+  "meaning": "thay đổi cho nhau, di chuyển đều đặn bằng tàu,; xe...",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 19
+ },
+ {
+  "stt": 187,
+  "word": "commuter",
+  "pos": "n",
+  "phonetic": "/kəˈmjuː.t̬ɚ/",
+  "meaning": "người đi lại bằng vé tháng trên tàu, xe...",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 19
+ },
+ {
+  "stt": 188,
+  "word": "company",
+  "pos": "n",
+  "phonetic": "/ˈkʌm.pə.ni/",
+  "meaning": "công ty, bạn bè, bằng hữu",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 19
+ },
+ {
+  "stt": 189,
+  "word": "compare",
+  "pos": "v",
+  "phonetic": "/kəmˈper/",
+  "meaning": "so sánh, đối chiếu",
+  "topic": "Từ vựng chung",
+  "batch": 19
+ },
+ {
+  "stt": 190,
+  "word": "compatible",
+  "pos": "adj",
+  "phonetic": "/kəmˈpæt̬.ə.bəl/",
+  "meaning": "tương thích, phù hợp",
+  "topic": "Từ vựng chung",
+  "batch": 19
+ },
+ {
+  "stt": 191,
+  "word": "compensate",
+  "pos": "v",
+  "phonetic": "/ˈkɑːm.pən.seɪt/",
+  "meaning": "đền bù, bồi thường",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 20
+ },
+ {
+  "stt": 192,
+  "word": "compensation",
+  "pos": "n",
+  "phonetic": "/ˌkɑːm.penˈseɪ.ʃən/",
+  "meaning": "sự đền bù, vật bồi thường",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 20
+ },
+ {
+  "stt": 193,
+  "word": "competent",
+  "pos": "adj",
+  "phonetic": "/ˈkɑːm.pə.t̬ənt/",
+  "meaning": "có khả năng, đủ trình độ",
+  "topic": "Từ vựng chung",
+  "batch": 20
+ },
+ {
+  "stt": 194,
+  "word": "competitive",
+  "pos": "adj",
+  "phonetic": "/kəmˈpet̬.ə.t̬ɪv/",
+  "meaning": "có tính cạnh tranh, ganh đua",
+  "topic": "Marketing & Bán hàng",
+  "batch": 20
+ },
+ {
+  "stt": 195,
+  "word": "competitor",
+  "pos": "n",
+  "phonetic": "/kəmˈpet̬.ə.t̬ɚ/",
+  "meaning": "người cạnh tranh, đối thủ",
+  "topic": "Marketing & Bán hàng",
+  "batch": 20
+ },
+ {
+  "stt": 196,
+  "word": "complain",
+  "pos": "v",
+  "phonetic": "/kəmˈpleɪn/",
+  "meaning": "kêu ca, phàn nàn, oán trách",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 20
+ },
+ {
+  "stt": 197,
+  "word": "complaint",
+  "pos": "n",
+  "phonetic": "/kəmˈpleɪnt/",
+  "meaning": "lời than phiền, lời phàn nàn",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 20
+ },
+ {
+  "stt": 198,
+  "word": "complete",
+  "pos": "adj",
+  "phonetic": "/kəmˈpliːt/",
+  "meaning": "đầy đủ, hoàn thiện",
+  "topic": "Từ vựng chung",
+  "batch": 20
+ },
+ {
+  "stt": 199,
+  "word": "complex",
+  "pos": "n, adj",
+  "phonetic": "/ˈkɑːm.pleks/ /kɑːmˈpleks/",
+  "meaning": "khu phức hợp; phức tạp",
+  "topic": "Từ vựng chung",
+  "batch": 20
+ },
+ {
+  "stt": 200,
+  "word": "complexity",
+  "pos": "n",
+  "phonetic": "/kəmˈplek.sə.t̬i/",
+  "meaning": "sự phức tạp",
+  "topic": "Từ vựng chung",
+  "batch": 20
+ },
+ {
+  "stt": 201,
+  "word": "compliment",
+  "pos": "n",
+  "phonetic": "/ˈkɑːm.plə.mənt/",
+  "meaning": "lời khen, sự ca tụng",
+  "topic": "Từ vựng chung",
+  "batch": 21
+ },
+ {
+  "stt": 202,
+  "word": "complimentary",
+  "pos": "adj",
+  "phonetic": "/ˌkɑːm.pləˈmen.t̬ɚ.i/",
+  "meaning": "ngợi khen, đánh giá cao",
+  "topic": "Từ vựng chung",
+  "batch": 21
+ },
+ {
+  "stt": 203,
+  "word": "comply",
+  "pos": "v",
+  "phonetic": "/kəmˈplaɪ/",
+  "meaning": "tuân theo, làm theo",
+  "topic": "Từ vựng chung",
+  "batch": 21
+ },
+ {
+  "stt": 204,
+  "word": "comprehensive",
+  "pos": "adj",
+  "phonetic": "/ˌkɑːm.prəˈhen.sɪv/",
+  "meaning": "toàn diện, thông minh",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 21
+ },
+ {
+  "stt": 205,
+  "word": "compromise",
+  "pos": "n, v",
+  "phonetic": "/ˈkɑːm.prə.maɪz/",
+  "meaning": "sự thỏa hiệp; dàn xếp, thỏa hiệp",
+  "topic": "Từ vựng chung",
+  "batch": 21
+ },
+ {
+  "stt": 206,
+  "word": "compulsory",
+  "pos": "adj",
+  "phonetic": "/kəmˈpʌl.sɚ.i/",
+  "meaning": "bắt buộc, ép buộc",
+  "topic": "Từ vựng chung",
+  "batch": 21
+ },
+ {
+  "stt": 207,
+  "word": "concede",
+  "pos": "v",
+  "phonetic": "/kənˈsiːd/",
+  "meaning": "thừa nhận",
+  "topic": "Từ vựng chung",
+  "batch": 21
+ },
+ {
+  "stt": 208,
+  "word": "concern",
+  "pos": "n, v",
+  "phonetic": "/kənˈsɝːn/",
+  "meaning": "mối bận tâm, chuyện đáng lo; liên quan, dính líu; tới",
+  "topic": "Từ vựng chung",
+  "batch": 21
+ },
+ {
+  "stt": 209,
+  "word": "conclude",
+  "pos": "v",
+  "phonetic": "/kənˈkluːd/",
+  "meaning": "kết thúc, chấm dứt, kết luận",
+  "topic": "Từ vựng chung",
+  "batch": 21
+ },
+ {
+  "stt": 210,
+  "word": "conclusion",
+  "pos": "n",
+  "phonetic": "/kənˈkluː.ʒən/",
+  "meaning": "kết luận",
+  "topic": "Từ vựng chung",
+  "batch": 21
+ },
+ {
+  "stt": 211,
+  "word": "concourse",
+  "pos": "n",
+  "phonetic": "/ˈkɑːn.kɔːrs/",
+  "meaning": "đám đông, sự tụ họp",
+  "topic": "Từ vựng chung",
+  "batch": 22
+ },
+ {
+  "stt": 212,
+  "word": "condition",
+  "pos": "n, v",
+  "phonetic": "/kənˈdɪʃ.ən/",
+  "meaning": "điều kiện, tình cảnh, tình trạng; là điều kiện của,; tùy thuộc vào",
+  "topic": "Từ vựng chung",
+  "batch": 22
+ },
+ {
+  "stt": 213,
+  "word": "conduct",
+  "pos": "n, v",
+  "phonetic": "/ˈkɑːn.dʌkt/ /kənˈdʌkt/",
+  "meaning": "hạnh kiểm, đạo đức; tiến hành, chỉ đạo",
+  "topic": "Từ vựng chung",
+  "batch": 22
+ },
+ {
+  "stt": 214,
+  "word": "confirmation",
+  "pos": "n",
+  "phonetic": "/ˌkɑːn.fɚˈmeɪ.ʃən/",
+  "meaning": "sự xác nhận, chứng thực",
+  "topic": "Từ vựng chung",
+  "batch": 22
+ },
+ {
+  "stt": 215,
+  "word": "confusion",
+  "pos": "n",
+  "phonetic": "/kənˈfjuː.ʒən/",
+  "meaning": "sự bối rối, khó hiểu",
+  "topic": "Từ vựng chung",
+  "batch": 22
+ },
+ {
+  "stt": 216,
+  "word": "connect",
+  "pos": "v",
+  "phonetic": "/kəˈnekt/",
+  "meaning": "nối lại, kết nối",
+  "topic": "Công nghệ",
+  "batch": 22
+ },
+ {
+  "stt": 217,
+  "word": "consequence",
+  "pos": "n",
+  "phonetic": "/ˈkɑːn.sə.kwəns/",
+  "meaning": "hậu quả, kết quả",
+  "topic": "Từ vựng chung",
+  "batch": 22
+ },
+ {
+  "stt": 218,
+  "word": "considerable",
+  "pos": "adj",
+  "phonetic": "/kənˈsɪd.ɚ.ə.bəl/",
+  "meaning": "đáng kể, lớn lao",
+  "topic": "Từ vựng chung",
+  "batch": 22
+ },
+ {
+  "stt": 219,
+  "word": "consignment",
+  "pos": "n",
+  "phonetic": "/kənˈsaɪn.mənt/",
+  "meaning": "hoạt động gửi hàng để bán",
+  "topic": "Marketing & Bán hàng",
+  "batch": 22
+ },
+ {
+  "stt": 220,
+  "word": "consistently",
+  "pos": "adv",
+  "phonetic": "/kənˈsɪs.tənt.li/",
+  "meaning": "kiên định, trước sau như một, đồng nhất",
+  "topic": "Từ vựng chung",
+  "batch": 22
+ },
+ {
+  "stt": 221,
+  "word": "constant",
+  "pos": "adj",
+  "phonetic": "/ˈkɑːn.stənt/",
+  "meaning": "liên tục, liên tiếp, kiên trì",
+  "topic": "Từ vựng chung",
+  "batch": 23
+ },
+ {
+  "stt": 222,
+  "word": "consultant",
+  "pos": "n",
+  "phonetic": "/kənˈsʌl.tənt/",
+  "meaning": "tư vấn viên, cố vấn",
+  "topic": "Từ vựng chung",
+  "batch": 23
+ },
+ {
+  "stt": 223,
+  "word": "consume",
+  "pos": "v",
+  "phonetic": "/kənˈsuːm/",
+  "meaning": "sử dụng, tiêu dùng, tiêu thụ",
+  "topic": "Từ vựng chung",
+  "batch": 23
+ },
+ {
+  "stt": 224,
+  "word": "consumer",
+  "pos": "n",
+  "phonetic": "/kənˈsuː.mɚ/",
+  "meaning": "người tiêu dùng",
+  "topic": "Marketing & Bán hàng",
+  "batch": 23
+ },
+ {
+  "stt": 225,
+  "word": "continual",
+  "pos": "adj",
+  "phonetic": "/kənˈtɪn.ju.əl/",
+  "meaning": "liên tục, liên miên",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 23
+ },
+ {
+  "stt": 226,
+  "word": "continue",
+  "pos": "v",
+  "phonetic": "/kənˈtɪn.juː/",
+  "meaning": "tiếp tục, duy trì",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 23
+ },
+ {
+  "stt": 227,
+  "word": "contribute",
+  "pos": "v",
+  "phonetic": "/kənˈtrɪb.juːt/",
+  "meaning": "đóng góp, góp phần",
+  "topic": "Từ vựng chung",
+  "batch": 23
+ },
+ {
+  "stt": 228,
+  "word": "control",
+  "pos": "n, v",
+  "phonetic": "/kənˈtroʊl/",
+  "meaning": "sự điều khiển, cầm lái; điều khiển, chỉ huy,; kiểm soát",
+  "topic": "Từ vựng chung",
+  "batch": 23
+ },
+ {
+  "stt": 229,
+  "word": "control panel",
+  "pos": "n",
+  "phonetic": "/kənˈtroʊl ˌpæn.əl/",
+  "meaning": "bảng điều khiển",
+  "topic": "Từ vựng chung",
+  "batch": 23
+ },
+ {
+  "stt": 230,
+  "word": "conveniently",
+  "pos": "adv",
+  "phonetic": "/kənˈviː.ni.ənt.li/",
+  "meaning": "thuận tiện, tiện lợi",
+  "topic": "Từ vựng chung",
+  "batch": 23
+ },
+ {
+  "stt": 231,
+  "word": "convince",
+  "pos": "v",
+  "phonetic": "/kənˈvɪns/",
+  "meaning": "thuyết phục",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 24
+ },
+ {
+  "stt": 232,
+  "word": "corporate",
+  "pos": "n, v",
+  "phonetic": "/ˈkɔːr.pɚ.ət/",
+  "meaning": "công ty, tập đoàn; (thuộc) đoàn thể",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 24
+ },
+ {
+  "stt": 233,
+  "word": "corporation",
+  "pos": "n",
+  "phonetic": "corporation",
+  "meaning": "đoàn thể, tập đoàn",
+  "topic": "Từ vựng chung",
+  "batch": 24
+ },
+ {
+  "stt": 234,
+  "word": "cost",
+  "pos": "n, v",
+  "phonetic": "/kɑːst/",
+  "meaning": "giá, chi phí; định giá, trả giá",
+  "topic": "Tài chính & Kế toán",
+  "batch": 24
+ },
+ {
+  "stt": 235,
+  "word": "counter",
+  "pos": "n, v",
+  "phonetic": "/ˈkaʊn.t̬ɚ/",
+  "meaning": "quầy hàng, quầy thu ngân; phản đối, chống lại",
+  "topic": "Từ vựng chung",
+  "batch": 24
+ },
+ {
+  "stt": 236,
+  "word": "courier",
+  "pos": "n",
+  "phonetic": "/ˈkʊr.i.ɚ/",
+  "meaning": "người đưa thư, đưa tin",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 24
+ },
+ {
+  "stt": 237,
+  "word": "cover letter",
+  "pos": "n",
+  "phonetic": "/ˈkʌv.ə ˌlet.ər/",
+  "meaning": "thư trình bày thông tin, nguyện vọng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 24
+ },
+ {
+  "stt": 238,
+  "word": "coverage",
+  "pos": "n",
+  "phonetic": "/ˈkʌv.ɚ.ɪdʒ/",
+  "meaning": "mức độ bao phủ, che phủ; bản tin sự kiện",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 24
+ },
+ {
+  "stt": 239,
+  "word": "coworker",
+  "pos": "n",
+  "phonetic": "/ˌkoʊˈwɝː.kɚ/",
+  "meaning": "đồng nghiệp",
+  "topic": "Từ vựng chung",
+  "batch": 24
+ },
+ {
+  "stt": 240,
+  "word": "crash",
+  "pos": "n, v",
+  "phonetic": "/kræʃ/",
+  "meaning": "sự va đập, sụp đổ; rơi vỡ, va đập",
+  "topic": "Từ vựng chung",
+  "batch": 24
+ },
+ {
+  "stt": 241,
+  "word": "credentials",
+  "pos": "n",
+  "phonetic": "/krɪˈden·ʃəlz/",
+  "meaning": "giấy ủy nhiệm, chứng chỉ",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 25
+ },
+ {
+  "stt": 242,
+  "word": "credit",
+  "pos": "n",
+  "phonetic": "/ˈkred.ɪt/",
+  "meaning": "danh tiếng, tín dụng, tín chỉ",
+  "topic": "Tài chính & Kế toán",
+  "batch": 25
+ },
+ {
+  "stt": 243,
+  "word": "criterion",
+  "pos": "n",
+  "phonetic": "/kraɪˈtɪr.i.ən/",
+  "meaning": "tiêu chí đánh giá",
+  "topic": "Từ vựng chung",
+  "batch": 25
+ },
+ {
+  "stt": 244,
+  "word": "critical",
+  "pos": "adj",
+  "phonetic": "/ˈkrɪt̬.ɪ.kəl/",
+  "meaning": "phê bình, phê phán; nguy kịch",
+  "topic": "Từ vựng chung",
+  "batch": 25
+ },
+ {
+  "stt": 245,
+  "word": "criticize",
+  "pos": "v",
+  "phonetic": "/ˈkrɪt̬.ɪ.saɪz/",
+  "meaning": "phê bình, chỉ trích",
+  "topic": "Từ vựng chung",
+  "batch": 25
+ },
+ {
+  "stt": 246,
+  "word": "crowd",
+  "pos": "n, v",
+  "phonetic": "/kraʊd/",
+  "meaning": "đám đông, đống; xúm lại, tụ tập",
+  "topic": "Từ vựng chung",
+  "batch": 25
+ },
+ {
+  "stt": 247,
+  "word": "crowded",
+  "pos": "adj",
+  "phonetic": "/ˈkraʊ.dɪd/",
+  "meaning": "đông đúc; nhiều, đầy",
+  "topic": "Từ vựng chung",
+  "batch": 25
+ },
+ {
+  "stt": 248,
+  "word": "crucial",
+  "pos": "adj",
+  "phonetic": "/ˈkruː.ʃəl/",
+  "meaning": "có tính quyết định, trọng yếu",
+  "topic": "Từ vựng chung",
+  "batch": 25
+ },
+ {
+  "stt": 249,
+  "word": "cruise",
+  "pos": "n, v",
+  "phonetic": "/kruːz/",
+  "meaning": "chuyến du lịch, đi chơi trên biển; đi chơi bằng; tàu thủy",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 25
+ },
+ {
+  "stt": 250,
+  "word": "currency",
+  "pos": "n",
+  "phonetic": "/ˈkɝː.ən.si/",
+  "meaning": "tiền tệ",
+  "topic": "Tài chính & Kế toán",
+  "batch": 25
+ },
+ {
+  "stt": 251,
+  "word": "current",
+  "pos": "n, adj",
+  "phonetic": "/ˈkɝː.ənt/",
+  "meaning": "dòng, luồng; hiện tại, hiện thời",
+  "topic": "Từ vựng chung",
+  "batch": 26
+ },
+ {
+  "stt": 252,
+  "word": "custom",
+  "pos": "n",
+  "phonetic": "/ˈkʌs.təm/",
+  "meaning": "phong tục, tục lệ",
+  "topic": "Từ vựng chung",
+  "batch": 26
+ },
+ {
+  "stt": 253,
+  "word": "customer",
+  "pos": "n",
+  "phonetic": "/ˈkʌs.tə.mɚ/",
+  "meaning": "khách hàng",
+  "topic": "Marketing & Bán hàng",
+  "batch": 26
+ },
+ {
+  "stt": 254,
+  "word": "cutting edge",
+  "pos": "adj",
+  "phonetic": "/ˌkʌt̬.ɪŋ ˈedʒ/",
+  "meaning": "đột phá, vượt trội",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 26
+ },
+ {
+  "stt": 255,
+  "word": "cycle",
+  "pos": "n",
+  "phonetic": "/ˈsaɪ.kəl/",
+  "meaning": "chu kỳ, chu trình",
+  "topic": "Từ vựng chung",
+  "batch": 26
+ },
+ {
+  "stt": 256,
+  "word": "daily",
+  "pos": "adj",
+  "phonetic": "/ˈdeɪ.li/",
+  "meaning": "hằng ngày",
+  "topic": "Từ vựng chung",
+  "batch": 26
+ },
+ {
+  "stt": 257,
+  "word": "damage",
+  "pos": "n",
+  "phonetic": "/ˈdæm.ɪdʒ/",
+  "meaning": "mối gây hại; làm hại, hư hỏng",
+  "topic": "Từ vựng chung",
+  "batch": 26
+ },
+ {
+  "stt": 258,
+  "word": "deadline",
+  "pos": "n",
+  "phonetic": "/ˈded.laɪn/",
+  "meaning": "hạn cuối, hạn hoàn thành",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 26
+ },
+ {
+  "stt": 259,
+  "word": "deal",
+  "pos": "n, v",
+  "phonetic": "/diːl/",
+  "meaning": "thỏa thuận mua bán; giải quyết, đối phó",
+  "topic": "Marketing & Bán hàng",
+  "batch": 26
+ },
+ {
+  "stt": 260,
+  "word": "debit",
+  "pos": "n",
+  "phonetic": "/ˈdeb.ɪt/",
+  "meaning": "món nợ; ghi nợ",
+  "topic": "Tài chính & Kế toán",
+  "batch": 26
+ },
+ {
+  "stt": 261,
+  "word": "debt",
+  "pos": "n",
+  "phonetic": "/det/",
+  "meaning": "khoản nợ",
+  "topic": "Tài chính & Kế toán",
+  "batch": 27
+ },
+ {
+  "stt": 262,
+  "word": "decision",
+  "pos": "n",
+  "phonetic": "/dɪˈsɪʒ.ən/",
+  "meaning": "quyết định",
+  "topic": "Từ vựng chung",
+  "batch": 27
+ },
+ {
+  "stt": 263,
+  "word": "decorate",
+  "pos": "v",
+  "phonetic": "/ˈdek.ər.eɪt/",
+  "meaning": "trang trí, trang hoàng",
+  "topic": "Từ vựng chung",
+  "batch": 27
+ },
+ {
+  "stt": 264,
+  "word": "decrease",
+  "pos": "n",
+  "phonetic": "/ˈdiː.kriːs/",
+  "meaning": "sự sụt giảm; làm giảm đi",
+  "topic": "Từ vựng chung",
+  "batch": 27
+ },
+ {
+  "stt": 265,
+  "word": "dedicate",
+  "pos": "v",
+  "phonetic": "/ˈded.ə.keɪt/",
+  "meaning": "cống hiến, tận hiến",
+  "topic": "Từ vựng chung",
+  "batch": 27
+ },
+ {
+  "stt": 266,
+  "word": "deduct",
+  "pos": "v",
+  "phonetic": "/dɪˈdʌkt/",
+  "meaning": "khấu trừ, trừ đi",
+  "topic": "Từ vựng chung",
+  "batch": 27
+ },
+ {
+  "stt": 267,
+  "word": "definite",
+  "pos": "adj",
+  "phonetic": "/ˈdef.ən.ət/",
+  "meaning": "xác định rõ, rõ ràng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 27
+ },
+ {
+  "stt": 268,
+  "word": "definitely",
+  "pos": "adv",
+  "phonetic": "/ˈdef.ən.ət.li/",
+  "meaning": "rõ ràng, dứt khoát, chắc chắn",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 27
+ },
+ {
+  "stt": 269,
+  "word": "degree",
+  "pos": "n",
+  "phonetic": "/dɪˈɡriː/",
+  "meaning": "mức độ, trình độ, cấp bậc; độ, nhiệt độ",
+  "topic": "Từ vựng chung",
+  "batch": 27
+ },
+ {
+  "stt": 270,
+  "word": "delay",
+  "pos": "n, v",
+  "phonetic": "/dɪˈleɪ/",
+  "meaning": "sự chậm trễ, trì hoãn; làm chậm, hoãn lại",
+  "topic": "Từ vựng chung",
+  "batch": 27
+ },
+ {
+  "stt": 271,
+  "word": "delighted",
+  "pos": "adj",
+  "phonetic": "/dɪˈlaɪ.t̬ɪd/",
+  "meaning": "hài lòng, vui mừng",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 28
+ },
+ {
+  "stt": 272,
+  "word": "deliver",
+  "pos": "v",
+  "phonetic": "/dɪˈlɪv.ɚ/",
+  "meaning": "phân phối, giao hàng, đem tới; phát biểu",
+  "topic": "Từ vựng chung",
+  "batch": 28
+ },
+ {
+  "stt": 273,
+  "word": "delivery",
+  "pos": "n",
+  "phonetic": "/dɪˈlɪv.ɚ.i/",
+  "meaning": "sự phân phát, giao hàng; sự phát biểu",
+  "topic": "Từ vựng chung",
+  "batch": 28
+ },
+ {
+  "stt": 274,
+  "word": "demand",
+  "pos": "n, v",
+  "phonetic": "/dɪˈmænd/",
+  "meaning": "sự đòi hỏi; yêu cầu",
+  "topic": "Từ vựng chung",
+  "batch": 28
+ },
+ {
+  "stt": 275,
+  "word": "demanding",
+  "pos": "adj",
+  "phonetic": "/dɪˈmæn.dɪŋ/",
+  "meaning": "yêu cầu cao, đòi hỏi khắt khe",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 28
+ },
+ {
+  "stt": 276,
+  "word": "demonstrate",
+  "pos": "v",
+  "phonetic": "/ˈdem.ən.streɪt/",
+  "meaning": "làm mẫu, giải thích; biểu tình",
+  "topic": "Từ vựng chung",
+  "batch": 28
+ },
+ {
+  "stt": 277,
+  "word": "depart",
+  "pos": "v",
+  "phonetic": "/dɪˈpɑːrt/",
+  "meaning": "rời đi; từ giã",
+  "topic": "Từ vựng chung",
+  "batch": 28
+ },
+ {
+  "stt": 278,
+  "word": "department",
+  "pos": "n",
+  "phonetic": "/dɪˈpɑːrt.mənt/",
+  "meaning": "khoa, bộ",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 28
+ },
+ {
+  "stt": 279,
+  "word": "depend",
+  "pos": "v",
+  "phonetic": "/dɪˈpend/",
+  "meaning": "phụ thuộc, lệ thuộc",
+  "topic": "Từ vựng chung",
+  "batch": 28
+ },
+ {
+  "stt": 280,
+  "word": "dependence",
+  "pos": "n",
+  "phonetic": "/dɪˈpen.dəns/",
+  "meaning": "sự phụ thuộc",
+  "topic": "Từ vựng chung",
+  "batch": 28
+ },
+ {
+  "stt": 281,
+  "word": "deposit",
+  "pos": "n, v",
+  "phonetic": "/dɪˈpɑː.zɪt/",
+  "meaning": "tiền cọc; đặt cọc",
+  "topic": "Tài chính & Kế toán",
+  "batch": 29
+ },
+ {
+  "stt": 282,
+  "word": "description",
+  "pos": "n",
+  "phonetic": "/dɪˈskrɪp.ʃən/",
+  "meaning": "bản mô tả, sự mô tả",
+  "topic": "Từ vựng chung",
+  "batch": 29
+ },
+ {
+  "stt": 283,
+  "word": "designate",
+  "pos": "v",
+  "phonetic": "/ˈdez.ɪɡ.neɪt/",
+  "meaning": "chỉ định, bổ nhiệm",
+  "topic": "Từ vựng chung",
+  "batch": 29
+ },
+ {
+  "stt": 284,
+  "word": "dessert",
+  "pos": "n",
+  "phonetic": "/dɪˈzɝːt/",
+  "meaning": "món tráng miệng",
+  "topic": "Từ vựng chung",
+  "batch": 29
+ },
+ {
+  "stt": 285,
+  "word": "destination",
+  "pos": "n",
+  "phonetic": "/ˌdes.təˈneɪ.ʃən/",
+  "meaning": "đích đến, điểm đến; dự định",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 29
+ },
+ {
+  "stt": 286,
+  "word": "detail",
+  "pos": "n, v",
+  "phonetic": "/ˈdiː.teɪl/",
+  "meaning": "chi tiết, tiểu tiết; trình bày chi tiết, làm rõ",
+  "topic": "Từ vựng chung",
+  "batch": 29
+ },
+ {
+  "stt": 287,
+  "word": "detailed",
+  "pos": "adj",
+  "phonetic": "/ˈdiː.teɪld/",
+  "meaning": "chi tiết, cụ thể",
+  "topic": "Từ vựng chung",
+  "batch": 29
+ },
+ {
+  "stt": 288,
+  "word": "detect",
+  "pos": "v",
+  "phonetic": "/dɪˈtekt/",
+  "meaning": "dò ra, tìm ra, phát hiện",
+  "topic": "Từ vựng chung",
+  "batch": 29
+ },
+ {
+  "stt": 289,
+  "word": "deterioration",
+  "pos": "n",
+  "phonetic": "/dɪˌtɪr.i.əˈreɪ.ʃən/",
+  "meaning": "sự hư hại, xuống cấp, sa đọa",
+  "topic": "Từ vựng chung",
+  "batch": 29
+ },
+ {
+  "stt": 290,
+  "word": "determine",
+  "pos": "v",
+  "phonetic": "/dɪˈtɝː.mɪn/",
+  "meaning": "xác định rõ, định rõ; quyết định, quyết tâm",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 29
+ },
+ {
+  "stt": 291,
+  "word": "determined",
+  "pos": "adj",
+  "phonetic": "/dɪˈtɝː.mɪnd/",
+  "meaning": "quyết tâm, kiên quyết",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 30
+ },
+ {
+  "stt": 292,
+  "word": "develop",
+  "pos": "v",
+  "phonetic": "/dɪˈvel.əp/",
+  "meaning": "phát triển, tiến triển",
+  "topic": "Từ vựng chung",
+  "batch": 30
+ },
+ {
+  "stt": 293,
+  "word": "developer",
+  "pos": "n",
+  "phonetic": "/dɪˈvel.ə.pɚ/",
+  "meaning": "người phát triển, lập trình viên",
+  "topic": "Từ vựng chung",
+  "batch": 30
+ },
+ {
+  "stt": 294,
+  "word": "development",
+  "pos": "n",
+  "phonetic": "/dɪˈvel.əp.mənt/",
+  "meaning": "sự phát triển",
+  "topic": "Từ vựng chung",
+  "batch": 30
+ },
+ {
+  "stt": 295,
+  "word": "device",
+  "pos": "n",
+  "phonetic": "/dɪˈvaɪs/",
+  "meaning": "thiết bị, máy móc; phương sách",
+  "topic": "Công nghệ",
+  "batch": 30
+ },
+ {
+  "stt": 296,
+  "word": "diagnose",
+  "pos": "v",
+  "phonetic": "/ˌdaɪ.əɡˈnoʊz/",
+  "meaning": "chẩn đoán",
+  "topic": "Từ vựng chung",
+  "batch": 30
+ },
+ {
+  "stt": 297,
+  "word": "differential",
+  "pos": "adj",
+  "phonetic": "/ˌdɪf.əˈren.ʃəl/",
+  "meaning": "khác biệt, chênh lệch",
+  "topic": "Từ vựng chung",
+  "batch": 30
+ },
+ {
+  "stt": 298,
+  "word": "diligent",
+  "pos": "adj",
+  "phonetic": "/ˈdɪl.ə.dʒənt/",
+  "meaning": "chăm chỉ, cần cù",
+  "topic": "Từ vựng chung",
+  "batch": 30
+ },
+ {
+  "stt": 299,
+  "word": "director",
+  "pos": "n",
+  "phonetic": "/daɪˈrek.tɚ/ /dɪˈrek.tɚ/",
+  "meaning": "giám đốc, người điều hành, đạo diễn",
+  "topic": "Từ vựng chung",
+  "batch": 30
+ },
+ {
+  "stt": 300,
+  "word": "disagree",
+  "pos": "v",
+  "phonetic": "/ˌdɪs.əˈɡriː/",
+  "meaning": "bất đồng, không khớp với nhau",
+  "topic": "Từ vựng chung",
+  "batch": 30
+ },
+ {
+  "stt": 301,
+  "word": "disagreement",
+  "pos": "n",
+  "phonetic": "/ˌdɪs.əˈɡriː.mənt/",
+  "meaning": "sự bất đồng, mối bất hòa, mâu thuẫn",
+  "topic": "Từ vựng chung",
+  "batch": 31
+ },
+ {
+  "stt": 302,
+  "word": "disappointing",
+  "pos": "adj",
+  "phonetic": "/ˌdɪs.əˈpɔɪn.t̬ɪŋ/",
+  "meaning": "đáng thất vọng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 31
+ },
+ {
+  "stt": 303,
+  "word": "disconnect",
+  "pos": "v",
+  "phonetic": "/ˌdɪs.kəˈnekt/",
+  "meaning": "ngắt kết nối",
+  "topic": "Công nghệ",
+  "batch": 31
+ },
+ {
+  "stt": 304,
+  "word": "discount",
+  "pos": "n, v",
+  "phonetic": "/ˈdɪs.kaʊnt/",
+  "meaning": "sự giảm giá, chiết khấu; giảm giá, bớt giá",
+  "topic": "Tài chính & Kế toán",
+  "batch": 31
+ },
+ {
+  "stt": 305,
+  "word": "discrepancy",
+  "pos": "n",
+  "phonetic": "/dɪˈskrep.ən.si/",
+  "meaning": "khác biệt, chênh lệch, điểm không đồng nhất",
+  "topic": "Từ vựng chung",
+  "batch": 31
+ },
+ {
+  "stt": 306,
+  "word": "discrimination",
+  "pos": "n",
+  "phonetic": "/dɪˌskrɪm.əˈneɪ.ʃən/",
+  "meaning": "sự phân biệt đối xử",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 31
+ },
+ {
+  "stt": 307,
+  "word": "discuss",
+  "pos": "v",
+  "phonetic": "/dɪˈskʌs/",
+  "meaning": "thảo luận, tranh luận",
+  "topic": "Từ vựng chung",
+  "batch": 31
+ },
+ {
+  "stt": 308,
+  "word": "discussion",
+  "pos": "n",
+  "phonetic": "/dɪˈskʌʃ.ən/",
+  "meaning": "cuộc tranh luận, thảo luận",
+  "topic": "Từ vựng chung",
+  "batch": 31
+ },
+ {
+  "stt": 309,
+  "word": "dish",
+  "pos": "n",
+  "phonetic": "/dɪʃ/",
+  "meaning": "đĩa đựng thức ăn, món ăn",
+  "topic": "Từ vựng chung",
+  "batch": 31
+ },
+ {
+  "stt": 310,
+  "word": "dismiss",
+  "pos": "v",
+  "phonetic": "/dɪˈsmɪs/",
+  "meaning": "giải tán, thải hồi",
+  "topic": "Từ vựng chung",
+  "batch": 31
+ },
+ {
+  "stt": 311,
+  "word": "dismissive",
+  "pos": "adj",
+  "phonetic": "/dɪˈsmɪs.ɪv/",
+  "meaning": "thô bạo, tùy tiện",
+  "topic": "Từ vựng chung",
+  "batch": 32
+ },
+ {
+  "stt": 312,
+  "word": "display",
+  "pos": "n, v",
+  "phonetic": "/dɪˈspleɪ/",
+  "meaning": "sự bày biện; trưng bày, phô diễn",
+  "topic": "Từ vựng chung",
+  "batch": 32
+ },
+ {
+  "stt": 313,
+  "word": "disposable",
+  "pos": "adj",
+  "phonetic": "/dɪˈspoʊ.zə.bəl/",
+  "meaning": "dùng một lần, sẵn có để dùng",
+  "topic": "Từ vựng chung",
+  "batch": 32
+ },
+ {
+  "stt": 314,
+  "word": "dispose",
+  "pos": "v",
+  "phonetic": "/dɪˈspoʊz/",
+  "meaning": "vứt bỏ, giải quyết",
+  "topic": "Từ vựng chung",
+  "batch": 32
+ },
+ {
+  "stt": 315,
+  "word": "dispute",
+  "pos": "n, v",
+  "phonetic": "/dɪˈspjuːt/ /ˈdɪs.pjuːt/",
+  "meaning": "cuộc bàn cãi, cuộc tranh luận; tranh luận",
+  "topic": "Từ vựng chung",
+  "batch": 32
+ },
+ {
+  "stt": 316,
+  "word": "disruption",
+  "pos": "n",
+  "phonetic": "/dɪsˈrʌp.ʃən/",
+  "meaning": "sự phá vỡ, đập gãy",
+  "topic": "Từ vựng chung",
+  "batch": 32
+ },
+ {
+  "stt": 317,
+  "word": "distinctive",
+  "pos": "adj",
+  "phonetic": "/dɪˈstɪŋk.tɪv/",
+  "meaning": "đặc biệt, độc đáo",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 32
+ },
+ {
+  "stt": 318,
+  "word": "distinguish",
+  "pos": "v",
+  "phonetic": "/dɪˈstɪŋ.ɡwɪʃ/",
+  "meaning": "phân biệt, nhận ra",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 32
+ },
+ {
+  "stt": 319,
+  "word": "distribute",
+  "pos": "v",
+  "phonetic": "/dɪˈstrɪb.juːt/",
+  "meaning": "phân phát, phân bổ",
+  "topic": "Từ vựng chung",
+  "batch": 32
+ },
+ {
+  "stt": 320,
+  "word": "distribution",
+  "pos": "n",
+  "phonetic": "/ˌdɪs.trɪˈbjuː.ʃən/",
+  "meaning": "sự phân phát",
+  "topic": "Từ vựng chung",
+  "batch": 32
+ },
+ {
+  "stt": 321,
+  "word": "dividend",
+  "pos": "n",
+  "phonetic": "/ˈdɪv.ə.dend/ /ˈdɪv.ə.dənd/",
+  "meaning": "số bị chia",
+  "topic": "Từ vựng chung",
+  "batch": 33
+ },
+ {
+  "stt": 322,
+  "word": "document",
+  "pos": "n",
+  "phonetic": "/ˈdɑː.kjə.mənt/",
+  "meaning": "văn kiện, tài liệu; dẫn chứng tư liệu",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 33
+ },
+ {
+  "stt": 323,
+  "word": "donate",
+  "pos": "v",
+  "phonetic": "/ˈdoʊ.neɪt/",
+  "meaning": "quyên góp, đóng góp",
+  "topic": "Từ vựng chung",
+  "batch": 33
+ },
+ {
+  "stt": 324,
+  "word": "donation",
+  "pos": "n",
+  "phonetic": "/doʊˈneɪ.ʃən/",
+  "meaning": "sự quyên góp, sự hiến tặng",
+  "topic": "Từ vựng chung",
+  "batch": 33
+ },
+ {
+  "stt": 325,
+  "word": "double",
+  "pos": "n, adj, adv",
+  "phonetic": "/ˈdʌb.əl/",
+  "meaning": "nhân đôi, gấp dôi",
+  "topic": "Từ vựng chung",
+  "batch": 33
+ },
+ {
+  "stt": 326,
+  "word": "download",
+  "pos": "v",
+  "phonetic": "/ˈdaʊn.loʊd/",
+  "meaning": "tải xuống",
+  "topic": "Công nghệ",
+  "batch": 33
+ },
+ {
+  "stt": 327,
+  "word": "downsize",
+  "pos": "v",
+  "phonetic": "/ˈdaʊn.saɪz/",
+  "meaning": "cắt giảm",
+  "topic": "Từ vựng chung",
+  "batch": 33
+ },
+ {
+  "stt": 328,
+  "word": "downturn",
+  "pos": "n",
+  "phonetic": "/ˈdaʊn.tɝːn/",
+  "meaning": "sự suy sụp",
+  "topic": "Từ vựng chung",
+  "batch": 33
+ },
+ {
+  "stt": 329,
+  "word": "downward",
+  "pos": "adv",
+  "phonetic": "/ˈdaʊn.wɚd/",
+  "meaning": "trở xuống, trở về sau",
+  "topic": "Từ vựng chung",
+  "batch": 33
+ },
+ {
+  "stt": 330,
+  "word": "drastically",
+  "pos": "adv",
+  "phonetic": "/ˈdræs.tɪ.kəl.i/",
+  "meaning": "mạnh mẽ, quyết liệt",
+  "topic": "Từ vựng chung",
+  "batch": 33
+ },
+ {
+  "stt": 331,
+  "word": "draw",
+  "pos": "v",
+  "phonetic": "/drɑː/",
+  "meaning": "kéo, lôi, thu hút; vẽ",
+  "topic": "Từ vựng chung",
+  "batch": 34
+ },
+ {
+  "stt": 332,
+  "word": "drawer",
+  "pos": "n",
+  "phonetic": "/drɑː/",
+  "meaning": "ngăn kéo",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 34
+ },
+ {
+  "stt": 333,
+  "word": "drive",
+  "pos": "n, v",
+  "phonetic": "/draɪv/",
+  "meaning": "cuộc đua; lái xe",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 34
+ },
+ {
+  "stt": 334,
+  "word": "dull",
+  "pos": "adj",
+  "phonetic": "/dʌl/",
+  "meaning": "chậm hiểu, đần độn; cùn",
+  "topic": "Từ vựng chung",
+  "batch": 34
+ },
+ {
+  "stt": 335,
+  "word": "duration",
+  "pos": "n",
+  "phonetic": "/djʊəˈreɪ.ʃən/",
+  "meaning": "khoảng thời gian, thời hạn",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 34
+ },
+ {
+  "stt": 336,
+  "word": "duty-free",
+  "pos": "adj, adv",
+  "phonetic": "/ˌduː.t̬iˈfriː/",
+  "meaning": "miễn thuế",
+  "topic": "Tài chính & Kế toán",
+  "batch": 34
+ },
+ {
+  "stt": 337,
+  "word": "earn",
+  "pos": "v",
+  "phonetic": "/ɝːn/",
+  "meaning": "kiếm được, giành được",
+  "topic": "Từ vựng chung",
+  "batch": 34
+ },
+ {
+  "stt": 338,
+  "word": "earnings",
+  "pos": "n",
+  "phonetic": "/ˈɝː.nɪŋz/",
+  "meaning": "số tiền kiếm được",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 34
+ },
+ {
+  "stt": 339,
+  "word": "economical",
+  "pos": "adj",
+  "phonetic": "/ˌiː.kəˈnɑː.mɪ.kəl/ /ek.əˈnɑː.mɪ.kəl/",
+  "meaning": "tiết kiệm, kinh tế",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 34
+ },
+ {
+  "stt": 340,
+  "word": "economize",
+  "pos": "v",
+  "phonetic": "/iˈkɑː.nə.maɪz/",
+  "meaning": "tiết kiệm",
+  "topic": "Từ vựng chung",
+  "batch": 34
+ },
+ {
+  "stt": 341,
+  "word": "economy",
+  "pos": "n",
+  "phonetic": "/iˈkɑː.nə.mi/",
+  "meaning": "nền kinh tế",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 35
+ },
+ {
+  "stt": 342,
+  "word": "effective",
+  "pos": "adj",
+  "phonetic": "/əˈfek.tɪv/",
+  "meaning": "hiệu quả, có hiệu lực",
+  "topic": "Từ vựng chung",
+  "batch": 35
+ },
+ {
+  "stt": 343,
+  "word": "effectively",
+  "pos": "adv",
+  "phonetic": "/əˈfek.tɪv.li/",
+  "meaning": "có hiệu quả",
+  "topic": "Từ vựng chung",
+  "batch": 35
+ },
+ {
+  "stt": 344,
+  "word": "effectiveness",
+  "pos": "n",
+  "phonetic": "/əˈfek.tɪv.nəs/",
+  "meaning": "sự hiệu quả",
+  "topic": "Từ vựng chung",
+  "batch": 35
+ },
+ {
+  "stt": 345,
+  "word": "efficiency",
+  "pos": "n",
+  "phonetic": "/ɪˈfɪʃ.ən.si/",
+  "meaning": "năng lực, hiệu suất, năng suất",
+  "topic": "Từ vựng chung",
+  "batch": 35
+ },
+ {
+  "stt": 346,
+  "word": "efficient",
+  "pos": "adj",
+  "phonetic": "/ɪˈfɪʃ.ənt/",
+  "meaning": "năng suất cao, hiệu suất tốt",
+  "topic": "Từ vựng chung",
+  "batch": 35
+ },
+ {
+  "stt": 347,
+  "word": "efficiently",
+  "pos": "adv",
+  "phonetic": "/ɪˈfɪʃ.ənt.li/",
+  "meaning": "có hiệu nghiệm",
+  "topic": "Từ vựng chung",
+  "batch": 35
+ },
+ {
+  "stt": 348,
+  "word": "elderly",
+  "pos": "adj",
+  "phonetic": "/ˈel.dɚ.li/",
+  "meaning": "có tuổi, lớn tuổi",
+  "topic": "Từ vựng chung",
+  "batch": 35
+ },
+ {
+  "stt": 349,
+  "word": "elevator",
+  "pos": "n",
+  "phonetic": "/ˈel.ə.veɪ.t̬ɚ/",
+  "meaning": "thang máy, máy nâng",
+  "topic": "Từ vựng chung",
+  "batch": 35
+ },
+ {
+  "stt": 350,
+  "word": "embark",
+  "pos": "v",
+  "phonetic": "/ɪmˈbɑːrk/",
+  "meaning": "bắt đầu, lên đường, dấn thân vào",
+  "topic": "Từ vựng chung",
+  "batch": 35
+ },
+ {
+  "stt": 351,
+  "word": "emergency",
+  "pos": "n",
+  "phonetic": "/ɪˈmɝː.dʒən.si/",
+  "meaning": "trường hợp khẩn cấp",
+  "topic": "Sức khỏe & An toàn",
+  "batch": 36
+ },
+ {
+  "stt": 352,
+  "word": "emphasize",
+  "pos": "v",
+  "phonetic": "/ˈem.fə.saɪz/",
+  "meaning": "nhấn mạnh",
+  "topic": "Từ vựng chung",
+  "batch": 36
+ },
+ {
+  "stt": 353,
+  "word": "employer",
+  "pos": "n",
+  "phonetic": "/ɪmˈplɔɪ.ɚ/",
+  "meaning": "người làm chủ, người sử dụng lao động",
+  "topic": "Từ vựng chung",
+  "batch": 36
+ },
+ {
+  "stt": 354,
+  "word": "employment",
+  "pos": "n",
+  "phonetic": "/ɪmˈplɔɪ.mənt/",
+  "meaning": "việc làm, sự thuê người làm",
+  "topic": "Từ vựng chung",
+  "batch": 36
+ },
+ {
+  "stt": 355,
+  "word": "enable",
+  "pos": "v",
+  "phonetic": "/ɪˈneɪ.bəl/",
+  "meaning": "cho phép, làm cho có khả năng làm gì đó",
+  "topic": "Từ vựng chung",
+  "batch": 36
+ },
+ {
+  "stt": 356,
+  "word": "enclose",
+  "pos": "v",
+  "phonetic": "/ɪnˈkloʊz/",
+  "meaning": "vây quanh, rào quanh, gửi kèm",
+  "topic": "Từ vựng chung",
+  "batch": 36
+ },
+ {
+  "stt": 357,
+  "word": "encourage",
+  "pos": "v",
+  "phonetic": "/ɪnˈkɝː.ɪdʒ/",
+  "meaning": "động viên, cổ vũ",
+  "topic": "Từ vựng chung",
+  "batch": 36
+ },
+ {
+  "stt": 358,
+  "word": "endure",
+  "pos": "v",
+  "phonetic": "/ɪnˈdʊr/",
+  "meaning": "chịu đựng, cam chịu",
+  "topic": "Từ vựng chung",
+  "batch": 36
+ },
+ {
+  "stt": 359,
+  "word": "engineer",
+  "pos": "n",
+  "phonetic": "/ˌen.dʒɪˈnɪr/",
+  "meaning": "kỹ sư",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 36
+ },
+ {
+  "stt": 360,
+  "word": "engineering",
+  "pos": "n",
+  "phonetic": "/ˌen.dʒɪˈnɪr.ɪŋ/",
+  "meaning": "công việc kỹ sư",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 36
+ },
+ {
+  "stt": 361,
+  "word": "enhance",
+  "pos": "v",
+  "phonetic": "/ɪnˈhæns/",
+  "meaning": "làm tăng thêm, đề cao, đẩy mạnh",
+  "topic": "Từ vựng chung",
+  "batch": 37
+ },
+ {
+  "stt": 362,
+  "word": "enlighten",
+  "pos": "v",
+  "phonetic": "/ɪnˈlaɪ.t̬ən/",
+  "meaning": "làm sáng tỏ, khai sáng",
+  "topic": "Từ vựng chung",
+  "batch": 37
+ },
+ {
+  "stt": 363,
+  "word": "enroll",
+  "pos": "v",
+  "phonetic": "/ɪnˈrəʊl/",
+  "meaning": "đăng ký, ghi tên",
+  "topic": "Từ vựng chung",
+  "batch": 37
+ },
+ {
+  "stt": 364,
+  "word": "ensure",
+  "pos": "v",
+  "phonetic": "/ɪnˈʃʊr/",
+  "meaning": "bảo đảm, chắc chắn",
+  "topic": "Từ vựng chung",
+  "batch": 37
+ },
+ {
+  "stt": 365,
+  "word": "enterprise",
+  "pos": "n",
+  "phonetic": "/ˈen.t̬ɚ.praɪz/",
+  "meaning": "xí nghiệp, doanh nghiệp",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 37
+ },
+ {
+  "stt": 366,
+  "word": "enthusiastic",
+  "pos": "adj",
+  "phonetic": "/ɪnˌθuː.ziˈæs.tɪk/",
+  "meaning": "nhiệt tình, hứng khởi",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 37
+ },
+ {
+  "stt": 367,
+  "word": "enthusiastically",
+  "pos": "adv",
+  "phonetic": "/ɪnˌθuː.ziˈæs.tɪ.kəl.i/",
+  "meaning": "hăng say, nhiệt tình",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 37
+ },
+ {
+  "stt": 368,
+  "word": "entitlement",
+  "pos": "n",
+  "phonetic": "/ɪnˈtaɪ.t̬əl.mənt/",
+  "meaning": "quyền hạn, sự được phép làm",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 37
+ },
+ {
+  "stt": 369,
+  "word": "entrée",
+  "pos": "n",
+  "phonetic": "/ˈɑːn.treɪ/",
+  "meaning": "món chính; sự gia nhập, thâm nhập, tiến vào",
+  "topic": "Từ vựng chung",
+  "batch": 37
+ },
+ {
+  "stt": 370,
+  "word": "environment",
+  "pos": "n",
+  "phonetic": "/ɪnˈvaɪ.rən.mənt/",
+  "meaning": "môi trường",
+  "topic": "Từ vựng chung",
+  "batch": 37
+ },
+ {
+  "stt": 371,
+  "word": "environmental",
+  "pos": "adj",
+  "phonetic": "/ɪnˌvaɪ.rənˈmen.t̬əl/",
+  "meaning": "(thuộc) môi trường",
+  "topic": "Từ vựng chung",
+  "batch": 38
+ },
+ {
+  "stt": 372,
+  "word": "equivalent",
+  "pos": "adj, n",
+  "phonetic": "/ɪˈkwɪv.əl.ənt/",
+  "meaning": "tương đương; vật tương đương",
+  "topic": "Từ vựng chung",
+  "batch": 38
+ },
+ {
+  "stt": 373,
+  "word": "essential",
+  "pos": "adj",
+  "phonetic": "/ɪˈsen.ʃəl/",
+  "meaning": "(thuộc) bản chất, cốt lõi",
+  "topic": "Từ vựng chung",
+  "batch": 38
+ },
+ {
+  "stt": 374,
+  "word": "estimate",
+  "pos": "v",
+  "phonetic": "/ˈes.tə.meɪt/",
+  "meaning": "ước tính, dự đoán",
+  "topic": "Từ vựng chung",
+  "batch": 38
+ },
+ {
+  "stt": 375,
+  "word": "evaluate",
+  "pos": "v",
+  "phonetic": "/ɪˈvæl.ju.eɪt/",
+  "meaning": "ước lượng, đánh giá",
+  "topic": "Từ vựng chung",
+  "batch": 38
+ },
+ {
+  "stt": 376,
+  "word": "evolve",
+  "pos": "v",
+  "phonetic": "/ɪˈvɑːlv/",
+  "meaning": "tiến hóa",
+  "topic": "Từ vựng chung",
+  "batch": 38
+ },
+ {
+  "stt": 377,
+  "word": "event",
+  "pos": "n",
+  "phonetic": "/ɪˈvent/",
+  "meaning": "sự kiện, sự việc",
+  "topic": "Từ vựng chung",
+  "batch": 38
+ },
+ {
+  "stt": 378,
+  "word": "evidence",
+  "pos": "n",
+  "phonetic": "/ˈev.ə.dəns/",
+  "meaning": "bằng chứng, chứng cớ",
+  "topic": "Từ vựng chung",
+  "batch": 38
+ },
+ {
+  "stt": 379,
+  "word": "exact",
+  "pos": "adj",
+  "phonetic": "/ɪɡˈzækt/",
+  "meaning": "chính xác, đúng",
+  "topic": "Từ vựng chung",
+  "batch": 38
+ },
+ {
+  "stt": 380,
+  "word": "examination",
+  "pos": "n",
+  "phonetic": "/ɪɡˌzæm.əˈneɪ.ʃən/",
+  "meaning": "sự khám xét, kỳ thi",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 38
+ },
+ {
+  "stt": 381,
+  "word": "examine",
+  "pos": "v",
+  "phonetic": "/ɪɡˈzæm.ɪn/",
+  "meaning": "khảo sát, kiểm tra",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 39
+ },
+ {
+  "stt": 382,
+  "word": "excel",
+  "pos": "v",
+  "phonetic": "/ɪkˈsel/",
+  "meaning": "hơn, vượt trội",
+  "topic": "Từ vựng chung",
+  "batch": 39
+ },
+ {
+  "stt": 383,
+  "word": "excellent",
+  "pos": "adj",
+  "phonetic": "/ˈek.səl.ənt/",
+  "meaning": "xuất sắc, ưu tú",
+  "topic": "Từ vựng chung",
+  "batch": 39
+ },
+ {
+  "stt": 384,
+  "word": "executive",
+  "pos": "adj, n",
+  "phonetic": "/ɪɡˈzek.jə.t̬ɪv/",
+  "meaning": "(thuộc) chấp hành, sự thi hành; tổ chức hành; pháp",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 39
+ },
+ {
+  "stt": 385,
+  "word": "exhibit",
+  "pos": "v",
+  "phonetic": "/ɪɡˈzɪb.ɪt/",
+  "meaning": "trưng bày, triển lãm",
+  "topic": "Từ vựng chung",
+  "batch": 39
+ },
+ {
+  "stt": 386,
+  "word": "expand",
+  "pos": "v",
+  "phonetic": "/ɪkˈspænd/",
+  "meaning": "mở rộng, nở phồng",
+  "topic": "Từ vựng chung",
+  "batch": 39
+ },
+ {
+  "stt": 387,
+  "word": "expansion",
+  "pos": "n",
+  "phonetic": "/ɪkˈspæn.ʃən/",
+  "meaning": "sử mở rộng, giãn nở",
+  "topic": "Từ vựng chung",
+  "batch": 39
+ },
+ {
+  "stt": 388,
+  "word": "expect",
+  "pos": "v",
+  "phonetic": "/ɪkˈspekt/",
+  "meaning": "chờ đợi, trông chờ",
+  "topic": "Từ vựng chung",
+  "batch": 39
+ },
+ {
+  "stt": 389,
+  "word": "expectation",
+  "pos": "n",
+  "phonetic": "/ˌek.spekˈteɪ.ʃən/",
+  "meaning": "sự mong chờ, ngóng đợi",
+  "topic": "Từ vựng chung",
+  "batch": 39
+ },
+ {
+  "stt": 390,
+  "word": "expenditure",
+  "pos": "n",
+  "phonetic": "/ɪkˈspen.də.tʃɚ/",
+  "meaning": "sự tiêu dùng, phí tổn",
+  "topic": "Từ vựng chung",
+  "batch": 39
+ },
+ {
+  "stt": 391,
+  "word": "expense",
+  "pos": "n",
+  "phonetic": "/ɪkˈspens/",
+  "meaning": "chi phí, sự tiêu dùng",
+  "topic": "Tài chính & Kế toán",
+  "batch": 40
+ },
+ {
+  "stt": 392,
+  "word": "expensive",
+  "pos": "adj",
+  "phonetic": "/ɪkˈspen.sɪv/",
+  "meaning": "đắt tiền, đắt đỏ",
+  "topic": "Tài chính & Kế toán",
+  "batch": 40
+ },
+ {
+  "stt": 393,
+  "word": "experience",
+  "pos": "n",
+  "phonetic": "/ɪkˈspɪr.i.əns/",
+  "meaning": "trải nghiệm, kinh nghiệm",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 40
+ },
+ {
+  "stt": 394,
+  "word": "experienced",
+  "pos": "adj",
+  "phonetic": "/ɪkˈspɪə.ri.ənst/",
+  "meaning": "người từng trải, người có kinh nghiệm",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 40
+ },
+ {
+  "stt": 395,
+  "word": "experiment",
+  "pos": "n, v",
+  "phonetic": "/ɪkˈsper.ə.mənt/",
+  "meaning": "thí nghiệm, thử nghiệm",
+  "topic": "Từ vựng chung",
+  "batch": 40
+ },
+ {
+  "stt": 396,
+  "word": "exploration",
+  "pos": "n",
+  "phonetic": "/ˌek.spləˈreɪ.ʃən/",
+  "meaning": "cuộc thăm dò, thám hiểm",
+  "topic": "Từ vựng chung",
+  "batch": 40
+ },
+ {
+  "stt": 397,
+  "word": "express",
+  "pos": "n, v",
+  "phonetic": "/ɪkˈspres/",
+  "meaning": "công văn hỏa tốc; trình bày, diễn đạt",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 40
+ },
+ {
+  "stt": 398,
+  "word": "extend",
+  "pos": "v",
+  "phonetic": "/ɪkˈstend/",
+  "meaning": "duỗi thẳng, nới rộng, gia hạn",
+  "topic": "Từ vựng chung",
+  "batch": 40
+ },
+ {
+  "stt": 399,
+  "word": "extension",
+  "pos": "n",
+  "phonetic": "/ɪkˈsten.ʃən/",
+  "meaning": "sự mở rộng, gia hạn",
+  "topic": "Từ vựng chung",
+  "batch": 40
+ },
+ {
+  "stt": 400,
+  "word": "external",
+  "pos": "adj",
+  "phonetic": "/ɪkˈstɝː.nəl/",
+  "meaning": "bên ngoài, đối ngoại",
+  "topic": "Từ vựng chung",
+  "batch": 40
+ },
+ {
+  "stt": 401,
+  "word": "facility",
+  "pos": "n",
+  "phonetic": "/fəˈsɪl.ə.t̬i/",
+  "meaning": "điều kiện thuận lợi, sự dễ dàng, thuận lợi",
+  "topic": "Từ vựng chung",
+  "batch": 41
+ },
+ {
+  "stt": 402,
+  "word": "factor",
+  "pos": "n",
+  "phonetic": "/ˈfæk.tɚ/",
+  "meaning": "nhân tố",
+  "topic": "Từ vựng chung",
+  "batch": 41
+ },
+ {
+  "stt": 403,
+  "word": "factory",
+  "pos": "n",
+  "phonetic": "/ˈfæk.tɚ.i/",
+  "meaning": "nhà máy, xí nghiệp",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 41
+ },
+ {
+  "stt": 404,
+  "word": "fail",
+  "pos": "v",
+  "phonetic": "/feɪl/",
+  "meaning": "thất bại, trượt (kì thi)",
+  "topic": "Từ vựng chung",
+  "batch": 41
+ },
+ {
+  "stt": 405,
+  "word": "failure",
+  "pos": "n",
+  "phonetic": "/ˈfeɪ.ljɚ/",
+  "meaning": "sự thất bại",
+  "topic": "Từ vựng chung",
+  "batch": 41
+ },
+ {
+  "stt": 406,
+  "word": "fair",
+  "pos": "n, adj",
+  "phonetic": "/fer/",
+  "meaning": "hội chợ, phiên chợ; công bằng, không thiên vị",
+  "topic": "Từ vựng chung",
+  "batch": 41
+ },
+ {
+  "stt": 407,
+  "word": "famed",
+  "pos": "adj",
+  "phonetic": "/feɪmd/",
+  "meaning": "nổi tiếng, lừng danh",
+  "topic": "Từ vựng chung",
+  "batch": 41
+ },
+ {
+  "stt": 408,
+  "word": "fare",
+  "pos": "n, v",
+  "phonetic": "/fer/",
+  "meaning": "tiền xe, tiền vé; đi đường, đi du lịch",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 41
+ },
+ {
+  "stt": 409,
+  "word": "fault",
+  "pos": "n",
+  "phonetic": "/fɑːlt/",
+  "meaning": "lỗi, sai lầm",
+  "topic": "Từ vựng chung",
+  "batch": 41
+ },
+ {
+  "stt": 410,
+  "word": "faulty",
+  "pos": "adj",
+  "phonetic": "/ˈfɑːl.t̬i/",
+  "meaning": "có thiếu sót, mắc khuyết điểm",
+  "topic": "Từ vựng chung",
+  "batch": 41
+ },
+ {
+  "stt": 411,
+  "word": "favor",
+  "pos": "n, v",
+  "phonetic": "/ˈfeɪ.vɚ/",
+  "meaning": "thiện ý, sự yêu mến; ưu đãi, thiên vị",
+  "topic": "Từ vựng chung",
+  "batch": 42
+ },
+ {
+  "stt": 412,
+  "word": "fax",
+  "pos": "n",
+  "phonetic": "/fæks/",
+  "meaning": "bản fax",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 42
+ },
+ {
+  "stt": 413,
+  "word": "feature",
+  "pos": "n",
+  "phonetic": "/ˈfiː.tʃɚ/",
+  "meaning": "nét, đặc điểm",
+  "topic": "Từ vựng chung",
+  "batch": 42
+ },
+ {
+  "stt": 414,
+  "word": "fee",
+  "pos": "n",
+  "phonetic": "/fiː/",
+  "meaning": "lệ phí, tiền thù lao",
+  "topic": "Tài chính & Kế toán",
+  "batch": 42
+ },
+ {
+  "stt": 415,
+  "word": "feedback",
+  "pos": "n, v",
+  "phonetic": "/ˈfiːd.bæk/",
+  "meaning": "phản hồi, góp ý",
+  "topic": "Từ vựng chung",
+  "batch": 42
+ },
+ {
+  "stt": 416,
+  "word": "figure",
+  "pos": "n, v",
+  "phonetic": "/ˈfɪɡ.jɚ/",
+  "meaning": "hình dáng, nhân vật; đánh giá, tính toán",
+  "topic": "Từ vựng chung",
+  "batch": 42
+ },
+ {
+  "stt": 417,
+  "word": "file",
+  "pos": "n",
+  "phonetic": "/faɪl/",
+  "meaning": "hồ sơ, túi đựng tài liệu",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 42
+ },
+ {
+  "stt": 418,
+  "word": "fill",
+  "pos": "v",
+  "phonetic": "/fɪl/",
+  "meaning": "làm đầy, nhồi nhét",
+  "topic": "Từ vựng chung",
+  "batch": 42
+ },
+ {
+  "stt": 419,
+  "word": "final",
+  "pos": "adj",
+  "phonetic": "/ˈfaɪ.nəl/",
+  "meaning": "cuối cùng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 42
+ },
+ {
+  "stt": 420,
+  "word": "finance",
+  "pos": "n, v",
+  "phonetic": "/ˈfaɪ.næns/",
+  "meaning": "tài chính; hỗ trợ tài chính",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 42
+ },
+ {
+  "stt": 421,
+  "word": "financial",
+  "pos": "adj",
+  "phonetic": "/faɪˈnæn.ʃəl/ /fəˈnæn.ʃəl/",
+  "meaning": "(thuộc) tài chính",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 43
+ },
+ {
+  "stt": 422,
+  "word": "fix",
+  "pos": "n, v",
+  "phonetic": "/fɪks/",
+  "meaning": "sửa chữa; gắn chặt, cố định",
+  "topic": "Từ vựng chung",
+  "batch": 43
+ },
+ {
+  "stt": 423,
+  "word": "flexible",
+  "pos": "adj",
+  "phonetic": "/ˈflek.sə.bəl/",
+  "meaning": "linh hoạt, không cố định",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 43
+ },
+ {
+  "stt": 424,
+  "word": "flight",
+  "pos": "n",
+  "phonetic": "/flaɪt/",
+  "meaning": "chuyến bay, sự rút chạy",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 43
+ },
+ {
+  "stt": 425,
+  "word": "flight attendant",
+  "pos": "n",
+  "phonetic": "/ˈflaɪt əˌten.dənt/",
+  "meaning": "tiếp viên hàng không",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 43
+ },
+ {
+  "stt": 426,
+  "word": "fluctuate",
+  "pos": "v",
+  "phonetic": "/ˈflʌk.tʃu.eɪt/",
+  "meaning": "dao động, lên xuống",
+  "topic": "Từ vựng chung",
+  "batch": 43
+ },
+ {
+  "stt": 427,
+  "word": "fluctuation",
+  "pos": "n",
+  "phonetic": "/ˌflʌk.tʃuˈeɪ.ʃən/",
+  "meaning": "sự dao động",
+  "topic": "Từ vựng chung",
+  "batch": 43
+ },
+ {
+  "stt": 428,
+  "word": "focus",
+  "pos": "v, n",
+  "phonetic": "/ˈfoʊ.kəs/",
+  "meaning": "tập trung",
+  "topic": "Từ vựng chung",
+  "batch": 43
+ },
+ {
+  "stt": 429,
+  "word": "focused",
+  "pos": "adj",
+  "phonetic": "/ˈfoʊ.kəst/",
+  "meaning": "tập trung, chú ý",
+  "topic": "Từ vựng chung",
+  "batch": 43
+ },
+ {
+  "stt": 430,
+  "word": "fold",
+  "pos": "v, n",
+  "phonetic": "/foʊld/",
+  "meaning": "gấp, vén; nếp gấp",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 43
+ },
+ {
+  "stt": 431,
+  "word": "folder",
+  "pos": "n",
+  "phonetic": "/ˈfoʊl.dɚ/",
+  "meaning": "bìa cứng, xấp tài liệu",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 44
+ },
+ {
+  "stt": 432,
+  "word": "force",
+  "pos": "n",
+  "phonetic": "/fɔːrs/",
+  "meaning": "sức mạnh, quyền lực",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 44
+ },
+ {
+  "stt": 433,
+  "word": "forecast",
+  "pos": "n, v",
+  "phonetic": "/ˈfɔːr.kæst/",
+  "meaning": "dự đoán, tiên đoán",
+  "topic": "Từ vựng chung",
+  "batch": 44
+ },
+ {
+  "stt": 434,
+  "word": "foreign",
+  "pos": "adj",
+  "phonetic": "/ˈfɔːr.ən/",
+  "meaning": "nước ngoài, ngoại quốc",
+  "topic": "Từ vựng chung",
+  "batch": 44
+ },
+ {
+  "stt": 435,
+  "word": "forget",
+  "pos": "v",
+  "phonetic": "/fɚˈɡet/",
+  "meaning": "quên",
+  "topic": "Từ vựng chung",
+  "batch": 44
+ },
+ {
+  "stt": 436,
+  "word": "forgetful",
+  "pos": "adj",
+  "phonetic": "/fɚˈɡet.fəl/",
+  "meaning": "tính hay quên, có trí nhớ tồi",
+  "topic": "Từ vựng chung",
+  "batch": 44
+ },
+ {
+  "stt": 437,
+  "word": "form",
+  "pos": "n",
+  "phonetic": "/fɔːrm/",
+  "meaning": "dáng hình; tạo hình",
+  "topic": "Từ vựng chung",
+  "batch": 44
+ },
+ {
+  "stt": 438,
+  "word": "forward",
+  "pos": "adv",
+  "phonetic": "/ˈfɔːr.wɚd/",
+  "meaning": "về phía trước, tiến lên",
+  "topic": "Từ vựng chung",
+  "batch": 44
+ },
+ {
+  "stt": 439,
+  "word": "frank",
+  "pos": "adj",
+  "phonetic": "/fræŋk/",
+  "meaning": "ngay thẳng, bộc trực",
+  "topic": "Từ vựng chung",
+  "batch": 44
+ },
+ {
+  "stt": 440,
+  "word": "frankly",
+  "pos": "adv",
+  "phonetic": "/ˈfræŋ.kli/",
+  "meaning": "thẳng thắn",
+  "topic": "Từ vựng chung",
+  "batch": 44
+ },
+ {
+  "stt": 441,
+  "word": "fuel",
+  "pos": "n",
+  "phonetic": "/ˈfjuː.əl/",
+  "meaning": "chất đốt, nhiên liệu",
+  "topic": "Từ vựng chung",
+  "batch": 45
+ },
+ {
+  "stt": 442,
+  "word": "fulfill",
+  "pos": "v",
+  "phonetic": "/fʊlˈfɪl/",
+  "meaning": "làm đầy",
+  "topic": "Từ vựng chung",
+  "batch": 45
+ },
+ {
+  "stt": 443,
+  "word": "function",
+  "pos": "v, n",
+  "phonetic": "/ˈfʌŋk.ʃən/",
+  "meaning": "hoạt động; chức năng",
+  "topic": "Từ vựng chung",
+  "batch": 45
+ },
+ {
+  "stt": 444,
+  "word": "functional",
+  "pos": "adj",
+  "phonetic": "/ˈfʌŋk.ʃən.əl/",
+  "meaning": "(thuộc) chức năng",
+  "topic": "Từ vựng chung",
+  "batch": 45
+ },
+ {
+  "stt": 445,
+  "word": "fundraising",
+  "pos": "n",
+  "phonetic": "/ˈfʌndˌreɪ.zɪŋ/",
+  "meaning": "sự huy động vốn",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 45
+ },
+ {
+  "stt": 446,
+  "word": "furniture",
+  "pos": "n",
+  "phonetic": "/ˈfɝː.nɪ.tʃɚ/",
+  "meaning": "đồ đạc",
+  "topic": "Từ vựng chung",
+  "batch": 45
+ },
+ {
+  "stt": 447,
+  "word": "further",
+  "pos": "adj, adv",
+  "phonetic": "/ˈfɝː.ðɚ/",
+  "meaning": "xa hơn, kỹ hơn",
+  "topic": "Từ vựng chung",
+  "batch": 45
+ },
+ {
+  "stt": 448,
+  "word": "gesture",
+  "pos": "n",
+  "phonetic": "/ˈdʒes.tʃɚ/",
+  "meaning": "điệu bộ, cử chỉ",
+  "topic": "Từ vựng chung",
+  "batch": 45
+ },
+ {
+  "stt": 449,
+  "word": "goal",
+  "pos": "n",
+  "phonetic": "/ɡoʊl/",
+  "meaning": "khung thành, cầu môn; mục tiêu",
+  "topic": "Từ vựng chung",
+  "batch": 45
+ },
+ {
+  "stt": 450,
+  "word": "goods",
+  "pos": "n",
+  "phonetic": "/ɡʊdz/",
+  "meaning": "của cải, hàng hóa",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 45
+ },
+ {
+  "stt": 451,
+  "word": "gradually",
+  "pos": "adv",
+  "phonetic": "/ˈɡrædʒ.u.ə.li/",
+  "meaning": "dần dần, từ từ",
+  "topic": "Từ vựng chung",
+  "batch": 46
+ },
+ {
+  "stt": 452,
+  "word": "grievance",
+  "pos": "n",
+  "phonetic": "/ˈɡriː.vəns/",
+  "meaning": "lời than trách",
+  "topic": "Từ vựng chung",
+  "batch": 46
+ },
+ {
+  "stt": 453,
+  "word": "grill",
+  "pos": "n, v",
+  "phonetic": "/ɡrɪl/",
+  "meaning": "chả nướng; nướng, thiêu đốt",
+  "topic": "Từ vựng chung",
+  "batch": 46
+ },
+ {
+  "stt": 454,
+  "word": "growth",
+  "pos": "n",
+  "phonetic": "/ɡroʊθ/",
+  "meaning": "sự tăng trưởng, mức độ tăng trưởng",
+  "topic": "Từ vựng chung",
+  "batch": 46
+ },
+ {
+  "stt": 455,
+  "word": "guarantee",
+  "pos": "n, v",
+  "phonetic": "/ˌɡer.ənˈtiː/",
+  "meaning": "sự đảm bảo; cam kết",
+  "topic": "Từ vựng chung",
+  "batch": 46
+ },
+ {
+  "stt": 456,
+  "word": "guideline",
+  "pos": "n",
+  "phonetic": "/ˈɡaɪd.laɪn/",
+  "meaning": "quy tắc, nguyên tắc",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 46
+ },
+ {
+  "stt": 457,
+  "word": "haggle",
+  "pos": "n, v",
+  "phonetic": "/ˈhæɡ.əl/",
+  "meaning": "sự mặc cả; tranh cãi",
+  "topic": "Từ vựng chung",
+  "batch": 46
+ },
+ {
+  "stt": 458,
+  "word": "handle",
+  "pos": "n, v",
+  "phonetic": "/ˈhæn.dəl/",
+  "meaning": "cán cầm, tay cầm; xử lý",
+  "topic": "Từ vựng chung",
+  "batch": 46
+ },
+ {
+  "stt": 459,
+  "word": "handy",
+  "pos": "adj",
+  "phonetic": "/ˈhæn.di/",
+  "meaning": "thuận tiện, sẵn tiện",
+  "topic": "Từ vựng chung",
+  "batch": 46
+ },
+ {
+  "stt": 460,
+  "word": "harbor",
+  "pos": "n, v",
+  "phonetic": "/ˈhɑː.bər/",
+  "meaning": "bến cảng; che giấu; nuôi dưỡng",
+  "topic": "Từ vựng chung",
+  "batch": 46
+ },
+ {
+  "stt": 461,
+  "word": "harmful",
+  "pos": "adj",
+  "phonetic": "/ˈhɑːrm.fəl/",
+  "meaning": "gây tai hại, có hại",
+  "topic": "Từ vựng chung",
+  "batch": 47
+ },
+ {
+  "stt": 462,
+  "word": "hazardous",
+  "pos": "adj",
+  "phonetic": "/ˈhæz.ɚ.dəs/",
+  "meaning": "mạo hiểm, nguy hiểm",
+  "topic": "Sức khỏe & An toàn",
+  "batch": 47
+ },
+ {
+  "stt": 463,
+  "word": "head office",
+  "pos": "n",
+  "phonetic": "/ˌhed ˈɑː.fɪs/",
+  "meaning": "cơ quan đầu não, tổng công ty",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 47
+ },
+ {
+  "stt": 464,
+  "word": "headquarters",
+  "pos": "n",
+  "phonetic": "/ˈhedˌkwɔːr.t̬ɚz/",
+  "meaning": "sở chỉ huy, bộ chỉ huy",
+  "topic": "Từ vựng chung",
+  "batch": 47
+ },
+ {
+  "stt": 465,
+  "word": "hesitate",
+  "pos": "v",
+  "phonetic": "/ˈhez.ə.teɪt/",
+  "meaning": "do dự, ngập ngừng",
+  "topic": "Từ vựng chung",
+  "batch": 47
+ },
+ {
+  "stt": 466,
+  "word": "hesitation",
+  "pos": "n",
+  "phonetic": "/ˌhez.əˈteɪ.ʃən/",
+  "meaning": "sự ngập ngừng, do dự",
+  "topic": "Từ vựng chung",
+  "batch": 47
+ },
+ {
+  "stt": 467,
+  "word": "hide",
+  "pos": "n, v",
+  "phonetic": "/haɪd/",
+  "meaning": "che giấu, che đậy",
+  "topic": "Từ vựng chung",
+  "batch": 47
+ },
+ {
+  "stt": 468,
+  "word": "highlight",
+  "pos": "n, v",
+  "phonetic": "/ˈhaɪ.laɪt/",
+  "meaning": "điểm nổi bật; làm nổi bật",
+  "topic": "Từ vựng chung",
+  "batch": 47
+ },
+ {
+  "stt": 469,
+  "word": "highly",
+  "pos": "adv",
+  "phonetic": "/ˈhaɪ.li/",
+  "meaning": "rất, lắm, tốt",
+  "topic": "Từ vựng chung",
+  "batch": 47
+ },
+ {
+  "stt": 470,
+  "word": "hike",
+  "pos": "n",
+  "phonetic": "/haɪk/",
+  "meaning": "cuộc đi bộ, cuộc hành quân; đi bộ đường dài",
+  "topic": "Từ vựng chung",
+  "batch": 47
+ },
+ {
+  "stt": 471,
+  "word": "hire",
+  "pos": "n, v",
+  "phonetic": "/haɪr/",
+  "meaning": "sự thuê; thuê, mướn",
+  "topic": "Từ vựng chung",
+  "batch": 48
+ },
+ {
+  "stt": 472,
+  "word": "hold",
+  "pos": "n, v",
+  "phonetic": "/hoʊld/",
+  "meaning": "sự cầm, nắm; cầm, giữ",
+  "topic": "Từ vựng chung",
+  "batch": 48
+ },
+ {
+  "stt": 473,
+  "word": "host",
+  "pos": "n, v",
+  "phonetic": "/hoʊst/",
+  "meaning": "chủ nhà, người chủ trì; tổ chức, đăng cai",
+  "topic": "Từ vựng chung",
+  "batch": 48
+ },
+ {
+  "stt": 474,
+  "word": "identification",
+  "pos": "n",
+  "phonetic": "/aɪˌden.t̬ə.fəˈkeɪ.ʃən/",
+  "meaning": "sự phát hiện, nhận diện",
+  "topic": "Từ vựng chung",
+  "batch": 48
+ },
+ {
+  "stt": 475,
+  "word": "identify",
+  "pos": "v",
+  "phonetic": "/aɪˈden.t̬ə.faɪ/",
+  "meaning": "nhận diện, nhận biết",
+  "topic": "Từ vựng chung",
+  "batch": 48
+ },
+ {
+  "stt": 476,
+  "word": "imaginative",
+  "pos": "adj",
+  "phonetic": "/ɪˈmædʒ.ə.nə.t̬ɪv/",
+  "meaning": "tưởng tượng, không có thực",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 48
+ },
+ {
+  "stt": 477,
+  "word": "immediate",
+  "pos": "adj",
+  "phonetic": "/ɪˈmiː.di.ət/",
+  "meaning": "ngay lập tức, trực tiếp",
+  "topic": "Từ vựng chung",
+  "batch": 48
+ },
+ {
+  "stt": 478,
+  "word": "immediately",
+  "pos": "adv",
+  "phonetic": "/ɪˈmiː.di.ət.li/",
+  "meaning": "ngay lập tức, tức thì",
+  "topic": "Từ vựng chung",
+  "batch": 48
+ },
+ {
+  "stt": 479,
+  "word": "impact",
+  "pos": "n, v",
+  "phonetic": "/ˈɪm.pækt/",
+  "meaning": "tác động, ảnh hưởng",
+  "topic": "Từ vựng chung",
+  "batch": 48
+ },
+ {
+  "stt": 480,
+  "word": "impatient",
+  "pos": "adj",
+  "phonetic": "/ɪmˈpeɪ.ʃənt/",
+  "meaning": "thiếu kiên nhẫn",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 48
+ },
+ {
+  "stt": 481,
+  "word": "impersonate",
+  "pos": "v",
+  "phonetic": "/ɪmˈpɝː.sən.eɪt/",
+  "meaning": "mạo danh, đóng vai, nhại lại",
+  "topic": "Từ vựng chung",
+  "batch": 49
+ },
+ {
+  "stt": 482,
+  "word": "implement",
+  "pos": "n, v",
+  "phonetic": "/ˈɪm.plə.ment/",
+  "meaning": "dụng cụ, phương tiện; thi hành, thực hiện, áp; dụng",
+  "topic": "Từ vựng chung",
+  "batch": 49
+ },
+ {
+  "stt": 483,
+  "word": "imply",
+  "pos": "v",
+  "phonetic": "/ɪmˈplaɪ/",
+  "meaning": "ngụ ý, ý nói",
+  "topic": "Từ vựng chung",
+  "batch": 49
+ },
+ {
+  "stt": 484,
+  "word": "impression",
+  "pos": "n",
+  "phonetic": "/ɪmˈpreʃ.ən/",
+  "meaning": "ấn tượng; dấu vết",
+  "topic": "Từ vựng chung",
+  "batch": 49
+ },
+ {
+  "stt": 485,
+  "word": "improper",
+  "pos": "adj",
+  "phonetic": "/ɪmˈprɑː.pɚ/",
+  "meaning": "không thích hợp, không phù hợp",
+  "topic": "Từ vựng chung",
+  "batch": 49
+ },
+ {
+  "stt": 486,
+  "word": "improve",
+  "pos": "v",
+  "phonetic": "/ɪmˈpruːv/",
+  "meaning": "cải thiện",
+  "topic": "Từ vựng chung",
+  "batch": 49
+ },
+ {
+  "stt": 487,
+  "word": "improvement",
+  "pos": "n",
+  "phonetic": "/ɪmˈpruːv.mənt/",
+  "meaning": "sự cải thiện, cải tiến",
+  "topic": "Từ vựng chung",
+  "batch": 49
+ },
+ {
+  "stt": 488,
+  "word": "incentive",
+  "pos": "adj, n",
+  "phonetic": "/ɪnˈsen.t̬ɪv/",
+  "meaning": "khuyến khích; sự khích lệ, thúc đẩy",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 49
+ },
+ {
+  "stt": 489,
+  "word": "inclined",
+  "pos": "adj",
+  "phonetic": "/ɪnˈklaɪnd/",
+  "meaning": "có thiên hướng, khuynh hướng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 49
+ },
+ {
+  "stt": 490,
+  "word": "include",
+  "pos": "v",
+  "phonetic": "/ɪnˈkluːd/",
+  "meaning": "bao gồm, gồm có",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 49
+ },
+ {
+  "stt": 491,
+  "word": "inclusion",
+  "pos": "n",
+  "phonetic": "/ɪnˈkluː.ʒən/",
+  "meaning": "sự bao gồm, tính vào",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 50
+ },
+ {
+  "stt": 492,
+  "word": "income",
+  "pos": "n",
+  "phonetic": "/ˈɪn.kʌm/",
+  "meaning": "thu nhập, lợi tức",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 50
+ },
+ {
+  "stt": 493,
+  "word": "inconvenience",
+  "pos": "n",
+  "phonetic": "/ˌɪn.kənˈviːn.jəns/",
+  "meaning": "sự bất tiện, phiền hà",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 50
+ },
+ {
+  "stt": 494,
+  "word": "increase",
+  "pos": "v, n",
+  "phonetic": "/ɪnˈkriːs/",
+  "meaning": "sự tăng lên; tăng thêm",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 50
+ },
+ {
+  "stt": 495,
+  "word": "indicate",
+  "pos": "v",
+  "phonetic": "/ˈɪn.də.keɪt/",
+  "meaning": "chỉ ra, chứng tỏ, biểu thị",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 50
+ },
+ {
+  "stt": 496,
+  "word": "indication",
+  "pos": "n",
+  "phonetic": "/ˌɪn.dəˈkeɪ.ʃən/",
+  "meaning": "sự biểu thị, biểu lộ",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 50
+ },
+ {
+  "stt": 497,
+  "word": "individual",
+  "pos": "n, v",
+  "phonetic": "/ˌɪn.dəˈvɪdʒ.u.əl/",
+  "meaning": "cá nhân; riêng lẻ, tách biệt",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 50
+ },
+ {
+  "stt": 498,
+  "word": "individually",
+  "pos": "adv",
+  "phonetic": "/ˌɪn.dəˈvɪdʒ.u.ə.li/",
+  "meaning": "riêng lẻ",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 50
+ },
+ {
+  "stt": 499,
+  "word": "inexperienced",
+  "pos": "adj",
+  "phonetic": "/ˌɪn.ɪkˈspɪr.i.ənst/",
+  "meaning": "thiếu kinh nghiệm",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 50
+ },
+ {
+  "stt": 500,
+  "word": "infer",
+  "pos": "v",
+  "phonetic": "/-ˈfɝː/",
+  "meaning": "suy ra, kết luận",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 50
+ },
+ {
+  "stt": 501,
+  "word": "inflate",
+  "pos": "v",
+  "phonetic": "/ɪnˈfleɪt/",
+  "meaning": "bơm phồng, thổi phồng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 51
+ },
+ {
+  "stt": 502,
+  "word": "inflation",
+  "pos": "n",
+  "phonetic": "/ɪnˈfleɪ.ʃən/",
+  "meaning": "sự bơm phồng, lạm phát",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 51
+ },
+ {
+  "stt": 503,
+  "word": "influence",
+  "pos": "v",
+  "phonetic": "/ˈɪn.flu.əns/",
+  "meaning": "ảnh hưởng, uy lực; chi phối, tác động",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 51
+ },
+ {
+  "stt": 504,
+  "word": "influential",
+  "pos": "adj",
+  "phonetic": "/ˌɪn.fluˈen.ʃəl/",
+  "meaning": "có ảnh hưởng, có tác dụng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 51
+ },
+ {
+  "stt": 505,
+  "word": "information",
+  "pos": "n",
+  "phonetic": "/ˌɪn.fɚˈmeɪ.ʃən/",
+  "meaning": "thông tin",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 51
+ },
+ {
+  "stt": 506,
+  "word": "input",
+  "pos": "n",
+  "phonetic": "/ˈɪn.pʊt/",
+  "meaning": "dữ liệu đầu vào",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 51
+ },
+ {
+  "stt": 507,
+  "word": "inquiry",
+  "pos": "n",
+  "phonetic": "/ˈɪŋ.kwɚ.i/",
+  "meaning": "sự điều tra, thẩm vấn",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 51
+ },
+ {
+  "stt": 508,
+  "word": "install",
+  "pos": "v",
+  "phonetic": "/ɪnˈstɑːl/",
+  "meaning": "cài đặt, tải xuống",
+  "topic": "Công nghệ",
+  "batch": 51
+ },
+ {
+  "stt": 509,
+  "word": "installation",
+  "pos": "n",
+  "phonetic": "/ˌɪn.stəˈleɪ.ʃən/",
+  "meaning": "sự cài đặt",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 51
+ },
+ {
+  "stt": 510,
+  "word": "insurance",
+  "pos": "n",
+  "phonetic": "/ɪnˈʃɜ.r.əns/",
+  "meaning": "sự bảo hiểm, hợp đồng bảo hiểm",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 51
+ },
+ {
+  "stt": 511,
+  "word": "insure",
+  "pos": "v",
+  "phonetic": "/ɪnˈʃʊr/",
+  "meaning": "bảo hiểm, đảm bảo",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 52
+ },
+ {
+  "stt": 512,
+  "word": "intend",
+  "pos": "v",
+  "phonetic": "/ɪnˈtend/",
+  "meaning": "định, có ý định",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 52
+ },
+ {
+  "stt": 513,
+  "word": "intention",
+  "pos": "n",
+  "phonetic": "/ɪnˈten.ʃən/",
+  "meaning": "dự định, ý định",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 52
+ },
+ {
+  "stt": 514,
+  "word": "intently",
+  "pos": "adv",
+  "phonetic": "/ɪnˈtent.li/",
+  "meaning": "chăm chú, chú ý",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 52
+ },
+ {
+  "stt": 515,
+  "word": "intern",
+  "pos": "n",
+  "phonetic": "/ɪnˈtɝːn/",
+  "meaning": "thực tập sinh",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 52
+ },
+ {
+  "stt": 516,
+  "word": "internal",
+  "pos": "adj",
+  "phonetic": "/ɪnˈtɝː.nəl/",
+  "meaning": "bên trong, nội bộ",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 52
+ },
+ {
+  "stt": 517,
+  "word": "international",
+  "pos": "adj",
+  "phonetic": "/ˌɪn.t̬ɚˈnæʃ.ən.əl/",
+  "meaning": "quốc tế, đa quốc gia",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 52
+ },
+ {
+  "stt": 518,
+  "word": "internship",
+  "pos": "n",
+  "phonetic": "/ˈɪn.tɝːn.ʃɪp/",
+  "meaning": "kỳ thực tập",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 52
+ },
+ {
+  "stt": 519,
+  "word": "interrupt",
+  "pos": "v",
+  "phonetic": "/ˌɪn.t̬əˈrʌpt/",
+  "meaning": "làm gián đoạn, ngắt quãng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 52
+ },
+ {
+  "stt": 520,
+  "word": "interview",
+  "pos": "n, v",
+  "phonetic": "/ˈɪn.t̬ɚ.vjuː/",
+  "meaning": "phỏng vấn",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 52
+ },
+ {
+  "stt": 521,
+  "word": "invaluable",
+  "pos": "adj",
+  "phonetic": "/ɪnˈvæl.jə.bəl/",
+  "meaning": "vô giá",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 53
+ },
+ {
+  "stt": 522,
+  "word": "invent",
+  "pos": "v",
+  "phonetic": "/ɪnˈvent/",
+  "meaning": "phát minh, sáng chế",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 53
+ },
+ {
+  "stt": 523,
+  "word": "invention",
+  "pos": "n",
+  "phonetic": "/ɪnˈven.ʃən/",
+  "meaning": "sự phát minh, sáng kiến, sáng chế",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 53
+ },
+ {
+  "stt": 524,
+  "word": "inventory",
+  "pos": "n",
+  "phonetic": "/ˈɪn.vən.tɔːr.i/",
+  "meaning": "sự kiểm kê, bản kiểm kê",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 53
+ },
+ {
+  "stt": 525,
+  "word": "invest",
+  "pos": "v",
+  "phonetic": "/ɪnˈvest/",
+  "meaning": "đầu tư",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 53
+ },
+ {
+  "stt": 526,
+  "word": "investigation",
+  "pos": "n",
+  "phonetic": "/ɪnˌves.təˈɡeɪ.ʃən/",
+  "meaning": "sự điều tra, nghiên cứu",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 53
+ },
+ {
+  "stt": 527,
+  "word": "investment",
+  "pos": "n",
+  "phonetic": "/ɪnˈvest.mənt/",
+  "meaning": "sự đầu tư, vốn đầu tư",
+  "topic": "Tài chính & Kế toán",
+  "batch": 53
+ },
+ {
+  "stt": 528,
+  "word": "invite",
+  "pos": "v",
+  "phonetic": "/ɪnˈvaɪt/",
+  "meaning": "mời, rủ; lôi cuốn, hấp dẫn",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 53
+ },
+ {
+  "stt": 529,
+  "word": "invoice",
+  "pos": "n",
+  "phonetic": "/ˈɪn.vɔɪs/",
+  "meaning": "hóa đơn",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 53
+ },
+ {
+  "stt": 530,
+  "word": "isolate",
+  "pos": "v",
+  "phonetic": "/ˈaɪ.sə.leɪt/",
+  "meaning": "cô lập, cách ly",
+  "topic": "Từ vựng chung",
+  "batch": 53
+ },
+ {
+  "stt": 531,
+  "word": "item",
+  "pos": "n",
+  "phonetic": "/ˈaɪ.t̬əm/",
+  "meaning": "món đồ; tin tức",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 54
+ },
+ {
+  "stt": 532,
+  "word": "itemize",
+  "pos": "v",
+  "phonetic": "/ˈaɪ.t̬ə.maɪz/",
+  "meaning": "trình bày thành từng khoản, từng món",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 54
+ },
+ {
+  "stt": 533,
+  "word": "itinerary",
+  "pos": "n",
+  "phonetic": "/aɪˈtɪn.ə.rer.i/",
+  "meaning": "hành trình, lịch trình",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 54
+ },
+ {
+  "stt": 534,
+  "word": "jealous",
+  "pos": "adj",
+  "phonetic": "/ˈdʒel.əs/",
+  "meaning": "ghen ghét, đố kỵ",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 54
+ },
+ {
+  "stt": 535,
+  "word": "jeopardize",
+  "pos": "v",
+  "phonetic": "/ˈdʒep.ɚ.daɪz/",
+  "meaning": "gây nguy hại, đe dọa",
+  "topic": "Từ vựng chung",
+  "batch": 54
+ },
+ {
+  "stt": 536,
+  "word": "jeopardy",
+  "pos": "n",
+  "phonetic": "/ˈdʒep.ɚ.di/",
+  "meaning": "nguy cơ, sự nguy hiểm",
+  "topic": "Sức khỏe & An toàn",
+  "batch": 54
+ },
+ {
+  "stt": 537,
+  "word": "jobless",
+  "pos": "adj",
+  "phonetic": "/ˈdʒɑːb.ləs/",
+  "meaning": "thất nghiệp, không có việc làm",
+  "topic": "Từ vựng chung",
+  "batch": 54
+ },
+ {
+  "stt": 538,
+  "word": "join",
+  "pos": "v",
+  "phonetic": "/dʒɔɪn/",
+  "meaning": "nối, ghép; tham gia",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 54
+ },
+ {
+  "stt": 539,
+  "word": "joint",
+  "pos": "n, adj",
+  "phonetic": "/dʒɔɪnt/",
+  "meaning": "mối nối, khớp; chung",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 54
+ },
+ {
+  "stt": 540,
+  "word": "journal",
+  "pos": "n",
+  "phonetic": "/ˈdʒɝː.nəl/",
+  "meaning": "báo, tạp chí",
+  "topic": "Từ vựng chung",
+  "batch": 54
+ },
+ {
+  "stt": 541,
+  "word": "journey",
+  "pos": "n",
+  "phonetic": "/ˈdʒɝː.ni/",
+  "meaning": "cuộc hành trình",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 55
+ },
+ {
+  "stt": 542,
+  "word": "judge",
+  "pos": "n, v",
+  "phonetic": "/dʒʌdʒ/",
+  "meaning": "quan toàn, thẩm phán, người phán xử; xét xử,; phân xử",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 55
+ },
+ {
+  "stt": 543,
+  "word": "justice",
+  "pos": "n",
+  "phonetic": "/ˈdʒʌs.tɪs/",
+  "meaning": "sự công bằng, luật pháp",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 55
+ },
+ {
+  "stt": 544,
+  "word": "justification",
+  "pos": "n",
+  "phonetic": "/ˌdʒʌs.tə.fəˈkeɪ.ʃən/",
+  "meaning": "sự bào chữa, biện hộ",
+  "topic": "Từ vựng chung",
+  "batch": 55
+ },
+ {
+  "stt": 545,
+  "word": "justify",
+  "pos": "v",
+  "phonetic": "/ˈdʒʌs.tə.faɪ/",
+  "meaning": "bào chữa, phân bua, biện hộ",
+  "topic": "Từ vựng chung",
+  "batch": 55
+ },
+ {
+  "stt": 546,
+  "word": "keen",
+  "pos": "adj",
+  "phonetic": "/kiːn/",
+  "meaning": "say mê, ham thích",
+  "topic": "Từ vựng chung",
+  "batch": 55
+ },
+ {
+  "stt": 547,
+  "word": "keep",
+  "pos": "v",
+  "phonetic": "/kiːp/",
+  "meaning": "giữ lại, giam giữ",
+  "topic": "Từ vựng chung",
+  "batch": 55
+ },
+ {
+  "stt": 548,
+  "word": "knowledge",
+  "pos": "n",
+  "phonetic": "/ˈnɑː.lɪdʒ/",
+  "meaning": "kiến thức, sự hiểu biết",
+  "topic": "Từ vựng chung",
+  "batch": 55
+ },
+ {
+  "stt": 549,
+  "word": "knowledgeable",
+  "pos": "adj",
+  "phonetic": "/´nɔlidʒəbl/",
+  "meaning": "thông thạo, thành thạo, am tường",
+  "topic": "Từ vựng chung",
+  "batch": 55
+ },
+ {
+  "stt": 550,
+  "word": "label",
+  "pos": "n",
+  "phonetic": "/'leɪbl/",
+  "meaning": "nhãn, nhãn hiệu",
+  "topic": "Từ vựng chung",
+  "batch": 55
+ },
+ {
+  "stt": 551,
+  "word": "labor",
+  "pos": "n",
+  "phonetic": "/'leibə/",
+  "meaning": "lao động, công việc chân tay",
+  "topic": "Từ vựng chung",
+  "batch": 56
+ },
+ {
+  "stt": 552,
+  "word": "lack",
+  "pos": "n, v",
+  "phonetic": "/læk/",
+  "meaning": "sự thiếu, thiếu sót",
+  "topic": "Từ vựng chung",
+  "batch": 56
+ },
+ {
+  "stt": 553,
+  "word": "landlord",
+  "pos": "n",
+  "phonetic": "/'lændlɔ:d/",
+  "meaning": "chủ nhà (nhà cho thuê)",
+  "topic": "Từ vựng chung",
+  "batch": 56
+ },
+ {
+  "stt": 554,
+  "word": "laptop",
+  "pos": "n",
+  "phonetic": "/´læp¸tɔp/",
+  "meaning": "máy tính",
+  "topic": "Công nghệ",
+  "batch": 56
+ },
+ {
+  "stt": 555,
+  "word": "launch",
+  "pos": "n",
+  "phonetic": "/lɔ:ntʃ/",
+  "meaning": "Xuồng lớn",
+  "topic": "Từ vựng chung",
+  "batch": 56
+ },
+ {
+  "stt": 556,
+  "word": "law",
+  "pos": "n",
+  "phonetic": "/lɑː/",
+  "meaning": "luật, nội quy, quy định",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 56
+ },
+ {
+  "stt": 557,
+  "word": "lay",
+  "pos": "n",
+  "phonetic": "/lei/",
+  "meaning": "bài thơ ngắn, bài vè ngắn",
+  "topic": "Từ vựng chung",
+  "batch": 56
+ },
+ {
+  "stt": 558,
+  "word": "leak",
+  "pos": "n",
+  "phonetic": "/li:k/",
+  "meaning": "lỗ thủng, lỗ rò, khe hở",
+  "topic": "Từ vựng chung",
+  "batch": 56
+ },
+ {
+  "stt": 559,
+  "word": "lean",
+  "pos": "n",
+  "phonetic": "/li:n/",
+  "meaning": "độ nghiêng, độ dốc",
+  "topic": "Từ vựng chung",
+  "batch": 56
+ },
+ {
+  "stt": 560,
+  "word": "lease",
+  "pos": "n",
+  "phonetic": "/li:s/",
+  "meaning": "hợp đồng cho thuê (bất động sản)",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 56
+ },
+ {
+  "stt": 561,
+  "word": "leisure",
+  "pos": "n",
+  "phonetic": "/ˈliʒər , ˈlɛʒər/",
+  "meaning": "thì giờ rỗi rãi, lúc thư nhàn",
+  "topic": "Từ vựng chung",
+  "batch": 57
+ },
+ {
+  "stt": 562,
+  "word": "lend",
+  "pos": "v",
+  "phonetic": "/lend/",
+  "meaning": "cho vay, cho mượn",
+  "topic": "Tài chính & Kế toán",
+  "batch": 57
+ },
+ {
+  "stt": 563,
+  "word": "liability",
+  "pos": "n",
+  "phonetic": "/,laiə'biliti/",
+  "meaning": "trách nhiệm pháp lý, nghĩa vụ pháp lý",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 57
+ },
+ {
+  "stt": 564,
+  "word": "license",
+  "pos": "n",
+  "phonetic": "/lái:sn/",
+  "meaning": "bản quyền",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 57
+ },
+ {
+  "stt": 565,
+  "word": "licensing",
+  "pos": "n",
+  "phonetic": "/ˈlaɪ.sən.sɪŋ/",
+  "meaning": "sự cấp giấy phép",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 57
+ },
+ {
+  "stt": 566,
+  "word": "lie",
+  "pos": "n",
+  "phonetic": "/lai/",
+  "meaning": "sự nói dối, sự nói láo, sự nói điêu, sự dối trá",
+  "topic": "Từ vựng chung",
+  "batch": 57
+ },
+ {
+  "stt": 567,
+  "word": "limited",
+  "pos": "adj",
+  "phonetic": "/ˈlɪmɪtɪd/",
+  "meaning": "hạn chế, có giới hạn",
+  "topic": "Từ vựng chung",
+  "batch": 57
+ },
+ {
+  "stt": 568,
+  "word": "limousine",
+  "pos": "n",
+  "phonetic": "/´limə¸zi:n/",
+  "meaning": "xe hơi",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 57
+ },
+ {
+  "stt": 569,
+  "word": "list",
+  "pos": "n",
+  "phonetic": "/list/",
+  "meaning": "danh sách, sổ, bản kê khai",
+  "topic": "Từ vựng chung",
+  "batch": 57
+ },
+ {
+  "stt": 570,
+  "word": "livestock",
+  "pos": "n",
+  "phonetic": "/´laiv¸stɔk/",
+  "meaning": "vật nuôi, thú nuôi",
+  "topic": "Từ vựng chung",
+  "batch": 57
+ },
+ {
+  "stt": 571,
+  "word": "loan",
+  "pos": "n",
+  "phonetic": "/ləʊn/",
+  "meaning": "sự vay nợ",
+  "topic": "Tài chính & Kế toán",
+  "batch": 58
+ },
+ {
+  "stt": 572,
+  "word": "lobby",
+  "pos": "n",
+  "phonetic": "/lɒb.i/",
+  "meaning": "hành lang",
+  "topic": "Từ vựng chung",
+  "batch": 58
+ },
+ {
+  "stt": 573,
+  "word": "local",
+  "pos": "adj",
+  "phonetic": "/'ləʊk(ə)l/",
+  "meaning": "địa phương",
+  "topic": "Từ vựng chung",
+  "batch": 58
+ },
+ {
+  "stt": 574,
+  "word": "locate",
+  "pos": "v",
+  "phonetic": "/loʊˈkeɪt/",
+  "meaning": "trụ sở ở, nằm ở",
+  "topic": "Từ vựng chung",
+  "batch": 58
+ },
+ {
+  "stt": 575,
+  "word": "log on",
+  "pos": "v",
+  "phonetic": "/lɔg/",
+  "meaning": "kết nối với hệ thống",
+  "topic": "Công nghệ",
+  "batch": 58
+ },
+ {
+  "stt": 576,
+  "word": "log",
+  "pos": "n",
+  "phonetic": "/lɔg/",
+  "meaning": "khúc gỗ mới đốn hạ",
+  "topic": "Từ vựng chung",
+  "batch": 58
+ },
+ {
+  "stt": 577,
+  "word": "loyal",
+  "pos": "adj",
+  "phonetic": "/'lɔiəl/",
+  "meaning": "trung thành, trung nghĩa, trung kiên",
+  "topic": "Từ vựng chung",
+  "batch": 58
+ },
+ {
+  "stt": 578,
+  "word": "luggage",
+  "pos": "n",
+  "phonetic": "/'lʌgiʤ/",
+  "meaning": "hành lý",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 58
+ },
+ {
+  "stt": 579,
+  "word": "luxurious",
+  "pos": "adj",
+  "phonetic": "/lʌg´zjuəriəs/",
+  "meaning": "sang trọng, lộng lẫy; xa hoa",
+  "topic": "Từ vựng chung",
+  "batch": 58
+ },
+ {
+  "stt": 580,
+  "word": "luxury",
+  "pos": "n",
+  "phonetic": "/lʌk.ʃər.i/",
+  "meaning": "sự xa xỉ, sự xa hoa",
+  "topic": "Từ vựng chung",
+  "batch": 58
+ },
+ {
+  "stt": 581,
+  "word": "maintain",
+  "pos": "v",
+  "phonetic": "/mein´tein/",
+  "meaning": "giữ gìn, duy trì; bảo vệ",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 59
+ },
+ {
+  "stt": 582,
+  "word": "maintenance",
+  "pos": "n",
+  "phonetic": "/´meintənəns/",
+  "meaning": "sự giữ gìn, sự duy trì; sự bảo vệ",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 59
+ },
+ {
+  "stt": 583,
+  "word": "major",
+  "pos": "n",
+  "phonetic": "/ˈmeɪdʒər/",
+  "meaning": "chuyên đề",
+  "topic": "Từ vựng chung",
+  "batch": 59
+ },
+ {
+  "stt": 584,
+  "word": "manage",
+  "pos": "v",
+  "phonetic": "/'mænɪʤ/",
+  "meaning": "quản lý",
+  "topic": "Từ vựng chung",
+  "batch": 59
+ },
+ {
+  "stt": 585,
+  "word": "managerial",
+  "pos": "adj",
+  "phonetic": "/¸mæni´dʒiəriəl/",
+  "meaning": "(thuộc) người quản lý, (thuộc) giám đốc",
+  "topic": "Từ vựng chung",
+  "batch": 59
+ },
+ {
+  "stt": 586,
+  "word": "mandatory",
+  "pos": "adj",
+  "phonetic": "/'mændətəri/",
+  "meaning": "có tính cách bắt buộc",
+  "topic": "Từ vựng chung",
+  "batch": 59
+ },
+ {
+  "stt": 587,
+  "word": "manufacture",
+  "pos": "n",
+  "phonetic": "/,mænju'fæktʃə/",
+  "meaning": "sự chế tạo, sự sản xuất",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 59
+ },
+ {
+  "stt": 588,
+  "word": "manufacturing",
+  "pos": "n",
+  "phonetic": "/¸mænju´fæktʃəriη/",
+  "meaning": "sự sản xuất; sự chế tạo; sự gia công",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 59
+ },
+ {
+  "stt": 589,
+  "word": "marketing",
+  "pos": "n",
+  "phonetic": "/'mɑ:kitiɳ/",
+  "meaning": "tiếp thị",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 59
+ },
+ {
+  "stt": 590,
+  "word": "mechanic",
+  "pos": "n",
+  "phonetic": "/məˈkænɪk/",
+  "meaning": "thợ máy, công nhân cơ khí",
+  "topic": "Từ vựng chung",
+  "batch": 59
+ },
+ {
+  "stt": 591,
+  "word": "medical",
+  "pos": "adj",
+  "phonetic": "/'medikə/",
+  "meaning": "(thuộc) y học",
+  "topic": "Sức khỏe & An toàn",
+  "batch": 60
+ },
+ {
+  "stt": 592,
+  "word": "medication",
+  "pos": "n",
+  "phonetic": "/ˌmɛdɪˈkeɪʃən/",
+  "meaning": "sự bốc thuốc, sự cho thuốc",
+  "topic": "Sức khỏe & An toàn",
+  "batch": 60
+ },
+ {
+  "stt": 593,
+  "word": "medicine",
+  "pos": "n",
+  "phonetic": "/'medisn/",
+  "meaning": "y học",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 60
+ },
+ {
+  "stt": 594,
+  "word": "meeting",
+  "pos": "n",
+  "phonetic": "/'mi:tiɳ/",
+  "meaning": "(chính trị) cuộc mít tinh, cuộc biểu tình",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 60
+ },
+ {
+  "stt": 595,
+  "word": "membership",
+  "pos": "n",
+  "phonetic": "/'membəʃip/",
+  "meaning": "tư cách hội viên, địa vị hội viên",
+  "topic": "Từ vựng chung",
+  "batch": 60
+ },
+ {
+  "stt": 596,
+  "word": "memorandum",
+  "pos": "n",
+  "phonetic": "/¸memə´rændəm/",
+  "meaning": "bản ghi nhớ",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 60
+ },
+ {
+  "stt": 597,
+  "word": "mention",
+  "pos": "n",
+  "phonetic": "/'menʃn/",
+  "meaning": "sự kể ra, sự nói đến, sự đề cập",
+  "topic": "Từ vựng chung",
+  "batch": 60
+ },
+ {
+  "stt": 598,
+  "word": "merchandise",
+  "pos": "n",
+  "phonetic": "/´mə:tʃən¸daiz/",
+  "meaning": "hàng hóa",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 60
+ },
+ {
+  "stt": 599,
+  "word": "mere",
+  "pos": "n",
+  "phonetic": "/miə/",
+  "meaning": "ao hồ",
+  "topic": "Từ vựng chung",
+  "batch": 60
+ },
+ {
+  "stt": 600,
+  "word": "merge",
+  "pos": "v",
+  "phonetic": "/mə:dʤ/",
+  "meaning": "hoà vào; kết hợp; hợp nhất",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 60
+ },
+ {
+  "stt": 601,
+  "word": "merger",
+  "pos": "n",
+  "phonetic": "/´mə:dʒə/",
+  "meaning": "sự liên doanh liên kết",
+  "topic": "Từ vựng chung",
+  "batch": 61
+ },
+ {
+  "stt": 602,
+  "word": "mileage",
+  "pos": "n",
+  "phonetic": "/´mailidʒ/",
+  "meaning": "tổng số dặm đã đi được",
+  "topic": "Từ vựng chung",
+  "batch": 61
+ },
+ {
+  "stt": 603,
+  "word": "million",
+  "pos": "n",
+  "phonetic": "/´miljən/",
+  "meaning": "một triệu",
+  "topic": "Từ vựng chung",
+  "batch": 61
+ },
+ {
+  "stt": 604,
+  "word": "mimic",
+  "pos": "adj",
+  "phonetic": "/´mimik/",
+  "meaning": "giả; bắt chước",
+  "topic": "Từ vựng chung",
+  "batch": 61
+ },
+ {
+  "stt": 605,
+  "word": "mishear",
+  "pos": "v",
+  "phonetic": "/¸mis´hiə/",
+  "meaning": "nghe lầm",
+  "topic": "Từ vựng chung",
+  "batch": 61
+ },
+ {
+  "stt": 606,
+  "word": "misleading",
+  "pos": "adj",
+  "phonetic": "/mis´li:diη/",
+  "meaning": "làm cho lạc đường, làm cho lạc lối",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 61
+ },
+ {
+  "stt": 607,
+  "word": "misrepresent",
+  "pos": "v",
+  "phonetic": "/¸misrepri´zent/",
+  "meaning": "trình bày sai, miêu tả sai",
+  "topic": "Từ vựng chung",
+  "batch": 61
+ },
+ {
+  "stt": 608,
+  "word": "monitor",
+  "pos": "n",
+  "phonetic": "/'mɔnitə/",
+  "meaning": "lớp trưởng, cán bộ lớp (ở trường học)",
+  "topic": "Từ vựng chung",
+  "batch": 61
+ },
+ {
+  "stt": 609,
+  "word": "monument",
+  "pos": "n",
+  "phonetic": "/'mɔnjumənt/",
+  "meaning": "vật kỷ niệm, đài kỷ niệm, bia kỷ niệm",
+  "topic": "Từ vựng chung",
+  "batch": 61
+ },
+ {
+  "stt": 610,
+  "word": "moral",
+  "pos": "adj",
+  "phonetic": "/ˈmɔːr.əl/",
+  "meaning": "(thuộc) đạo đức, phẩm hạnh; tinh thần; bài học, lời răn dạy",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 61
+ },
+ {
+  "stt": 611,
+  "word": "mortgage",
+  "pos": "n",
+  "phonetic": "/'mɔ:gidʤ/",
+  "meaning": "cầm cố, thế chấp",
+  "topic": "Từ vựng chung",
+  "batch": 62
+ },
+ {
+  "stt": 612,
+  "word": "motivate",
+  "pos": "v",
+  "phonetic": "/´mouti¸veit/",
+  "meaning": "thúc đẩy, làm động cơ thúc đẩy",
+  "topic": "Từ vựng chung",
+  "batch": 62
+ },
+ {
+  "stt": 613,
+  "word": "motivation",
+  "pos": "n",
+  "phonetic": "/,mouti'veiʃn/",
+  "meaning": "sự thúc đẩy, động cơ thúc đẩy",
+  "topic": "Từ vựng chung",
+  "batch": 62
+ },
+ {
+  "stt": 614,
+  "word": "napkin",
+  "pos": "n",
+  "phonetic": "/'næpkin/",
+  "meaning": "khăn ăn",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 62
+ },
+ {
+  "stt": 615,
+  "word": "narrow",
+  "pos": "adj",
+  "phonetic": "/'nærou/",
+  "meaning": "hẹp, chật hẹp, eo hẹp",
+  "topic": "Từ vựng chung",
+  "batch": 62
+ },
+ {
+  "stt": 616,
+  "word": "narrowing",
+  "pos": "n",
+  "phonetic": "/'nærouwiŋ/",
+  "meaning": "sự thu hẹp, sự co hẹp",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 62
+ },
+ {
+  "stt": 617,
+  "word": "neighborhood",
+  "pos": "n",
+  "phonetic": "/ˈneɪbərˌhʊd/",
+  "meaning": "hàng xóm",
+  "topic": "Từ vựng chung",
+  "batch": 62
+ },
+ {
+  "stt": 618,
+  "word": "network",
+  "pos": "n",
+  "phonetic": "/'netwə:k/",
+  "meaning": "lưới, đồ dùng kiểu lưới",
+  "topic": "Từ vựng chung",
+  "batch": 62
+ },
+ {
+  "stt": 619,
+  "word": "nominate",
+  "pos": "v",
+  "phonetic": "/'nɔmineit/",
+  "meaning": "chỉ định, chọn, bổ nhiệm",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 62
+ },
+ {
+  "stt": 620,
+  "word": "nomination",
+  "pos": "n",
+  "phonetic": "/,nɔmi'neiʃn/",
+  "meaning": "sự chỉ định, sự bổ nhiệm",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 62
+ },
+ {
+  "stt": 621,
+  "word": "notice",
+  "pos": "n",
+  "phonetic": "/'nəƱtis/",
+  "meaning": "thông tri, yết thị, thông báo",
+  "topic": "Từ vựng chung",
+  "batch": 63
+ },
+ {
+  "stt": 622,
+  "word": "notify",
+  "pos": "v",
+  "phonetic": "/nəʊ.tɪ.faɪ/",
+  "meaning": "báo, khai báo; thông báo",
+  "topic": "Từ vựng chung",
+  "batch": 63
+ },
+ {
+  "stt": 623,
+  "word": "objection",
+  "pos": "n",
+  "phonetic": "/əb'ʤekʃn/",
+  "meaning": "sự phản đối, sự chống đối",
+  "topic": "Từ vựng chung",
+  "batch": 63
+ },
+ {
+  "stt": 624,
+  "word": "objective",
+  "pos": "adj",
+  "phonetic": "/əb´dʒektiv/",
+  "meaning": "khách quan",
+  "topic": "Từ vựng chung",
+  "batch": 63
+ },
+ {
+  "stt": 625,
+  "word": "obligation",
+  "pos": "n",
+  "phonetic": "/,ɔbli'geiʃn/",
+  "meaning": "nghĩa vụ; bổn phận",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 63
+ },
+ {
+  "stt": 626,
+  "word": "oblige",
+  "pos": "v",
+  "phonetic": "/ə'blaiʤ/",
+  "meaning": "bắt buộc, cưỡng bách; đặt nghĩa vụ cho",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 63
+ },
+ {
+  "stt": 627,
+  "word": "obtain",
+  "pos": "v",
+  "phonetic": "/əb'teɪn/",
+  "meaning": "đạt được, giành được, thu được",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 63
+ },
+ {
+  "stt": 628,
+  "word": "obviously",
+  "pos": "adv",
+  "phonetic": "/'ɔbviəsli/",
+  "meaning": "một cách rõ ràng; có thể thấy được",
+  "topic": "Từ vựng chung",
+  "batch": 63
+ },
+ {
+  "stt": 629,
+  "word": "occupation",
+  "pos": "n",
+  "phonetic": "/,ɔkju'peiʃn/",
+  "meaning": "sự chiếm giữ, sự chiếm đóng",
+  "topic": "Từ vựng chung",
+  "batch": 63
+ },
+ {
+  "stt": 630,
+  "word": "occur",
+  "pos": "v",
+  "phonetic": "/ə'kə:/",
+  "meaning": "xảy ra, xảy đến, xuất hiện, tìm thấy",
+  "topic": "Từ vựng chung",
+  "batch": 63
+ },
+ {
+  "stt": 631,
+  "word": "officer",
+  "pos": "n",
+  "phonetic": "/´ɔfisə/",
+  "meaning": "sĩ quan",
+  "topic": "Từ vựng chung",
+  "batch": 64
+ },
+ {
+  "stt": 632,
+  "word": "official",
+  "pos": "adj",
+  "phonetic": "/ə'fiʃəl/",
+  "meaning": "(thuộc) chính quyền; (thuộc) văn phòng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 64
+ },
+ {
+  "stt": 633,
+  "word": "onward",
+  "pos": "adj",
+  "phonetic": "/'ɔnwəd/",
+  "meaning": "về phía trước, tiến lên, hướng tới",
+  "topic": "Từ vựng chung",
+  "batch": 64
+ },
+ {
+  "stt": 634,
+  "word": "operate",
+  "pos": "v",
+  "phonetic": "/'ɔpəreit/",
+  "meaning": "hoạt động; đang làm việc, thi hành (máy...)",
+  "topic": "Từ vựng chung",
+  "batch": 64
+ },
+ {
+  "stt": 635,
+  "word": "operation",
+  "pos": "n",
+  "phonetic": "/,ɔpə'reiʃn/",
+  "meaning": "sự hoạt động; quá trình hoạt động",
+  "topic": "Từ vựng chung",
+  "batch": 64
+ },
+ {
+  "stt": 636,
+  "word": "opinion",
+  "pos": "n",
+  "phonetic": "/ə'pinjən/",
+  "meaning": "ý kiến, quan điểm",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 64
+ },
+ {
+  "stt": 637,
+  "word": "opportunity",
+  "pos": "n",
+  "phonetic": "/ɒpərˈtyunɪti/",
+  "meaning": "cơ hội, thời cơ, dịp may",
+  "topic": "Từ vựng chung",
+  "batch": 64
+ },
+ {
+  "stt": 638,
+  "word": "optimistic",
+  "pos": "adj",
+  "phonetic": "/¸ɔpti´mistik/",
+  "meaning": "lạc quan, yêu đời",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 64
+ },
+ {
+  "stt": 639,
+  "word": "order",
+  "pos": "n",
+  "phonetic": "/'ɔ:də/",
+  "meaning": "thứ, bậc, ngôi, hàng, cấp, loại, giai cấp",
+  "topic": "Từ vựng chung",
+  "batch": 64
+ },
+ {
+  "stt": 640,
+  "word": "organization",
+  "pos": "n",
+  "phonetic": "/,ɔ:gənai'zeiʃn/",
+  "meaning": "sự tổ chức, sự cấu tạo",
+  "topic": "Từ vựng chung",
+  "batch": 64
+ },
+ {
+  "stt": 641,
+  "word": "organize",
+  "pos": "v",
+  "phonetic": "/´ɔ:gə¸naiz/",
+  "meaning": "tổ chức, cấu tạo, thiết lập",
+  "topic": "Từ vựng chung",
+  "batch": 65
+ },
+ {
+  "stt": 642,
+  "word": "organized",
+  "pos": "adj",
+  "phonetic": "/ˈɔːr.ɡən.aɪzd/",
+  "meaning": "có trật tự, ngăn nắp, hữu hiệu",
+  "topic": "Từ vựng chung",
+  "batch": 65
+ },
+ {
+  "stt": 643,
+  "word": "outline",
+  "pos": "n",
+  "phonetic": "/´aut¸lain/",
+  "meaning": "nét phác thảo, đề cương; sự vạch ra những nét; chính",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 65
+ },
+ {
+  "stt": 644,
+  "word": "outlook",
+  "pos": "n",
+  "phonetic": "/´aut¸luk/",
+  "meaning": "quang cảnh, viễn cảnh",
+  "topic": "Từ vựng chung",
+  "batch": 65
+ },
+ {
+  "stt": 645,
+  "word": "outstanding",
+  "pos": "adj",
+  "phonetic": "/¸aut´stændiη/",
+  "meaning": "nổi bật, đáng chú ý; nổi tiếng, vượt trội",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 65
+ },
+ {
+  "stt": 646,
+  "word": "overall",
+  "pos": "adj",
+  "phonetic": "/ˈoʊvərˌɔl/",
+  "meaning": "toàn bộ, toàn thể, bao gồm mọi thứ",
+  "topic": "Từ vựng chung",
+  "batch": 65
+ },
+ {
+  "stt": 647,
+  "word": "overdraft",
+  "pos": "n",
+  "phonetic": "/´ouvə¸dra:ft/",
+  "meaning": "số tiền chi trội; số tiền rút quá số tiền gửi",
+  "topic": "Tài chính & Kế toán",
+  "batch": 65
+ },
+ {
+  "stt": 648,
+  "word": "overtime",
+  "pos": "adj",
+  "phonetic": "/´ouvətaim/",
+  "meaning": "quá giờ, ngoài giờ (quy định)",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 65
+ },
+ {
+  "stt": 649,
+  "word": "overview",
+  "pos": "n",
+  "phonetic": "/´ouvə¸vju:/",
+  "meaning": "sự khái quát; miêu tả chung, ngắn gọn",
+  "topic": "Từ vựng chung",
+  "batch": 65
+ },
+ {
+  "stt": 650,
+  "word": "owe",
+  "pos": "v",
+  "phonetic": "/ou/",
+  "meaning": "nợ, hàm ơn",
+  "topic": "Tài chính & Kế toán",
+  "batch": 65
+ },
+ {
+  "stt": 651,
+  "word": "package",
+  "pos": "v",
+  "phonetic": "/pæk.ɪdʒ/",
+  "meaning": "đóng gói, đóng kiện, xếp vào bao bì",
+  "topic": "Từ vựng chung",
+  "batch": 66
+ },
+ {
+  "stt": 652,
+  "word": "package",
+  "pos": "n",
+  "phonetic": "/pæk.ɪdʒ/",
+  "meaning": "gói đồ, bưu kiện; hộp để đóng hàng, thùng hàng",
+  "topic": "Từ vựng chung",
+  "batch": 66
+ },
+ {
+  "stt": 653,
+  "word": "parcel",
+  "pos": "n",
+  "phonetic": "/'pɑ:s(ə)l/",
+  "meaning": "gói; bưu kiện",
+  "topic": "Từ vựng chung",
+  "batch": 66
+ },
+ {
+  "stt": 654,
+  "word": "parking",
+  "pos": "n",
+  "phonetic": "/ˈpɑːr.kɪŋ/",
+  "meaning": "bãi đỗ xe",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 66
+ },
+ {
+  "stt": 655,
+  "word": "participant",
+  "pos": "n",
+  "phonetic": "/pa:´tisipənt/",
+  "meaning": "người tham gia, người tham dự",
+  "topic": "Từ vựng chung",
+  "batch": 66
+ },
+ {
+  "stt": 656,
+  "word": "particularly",
+  "pos": "adv",
+  "phonetic": "/pə´tikjuləli/",
+  "meaning": "đặc biệt, đặc thù; cá biệt, riêng biệt",
+  "topic": "Từ vựng chung",
+  "batch": 66
+ },
+ {
+  "stt": 657,
+  "word": "passenger",
+  "pos": "n",
+  "phonetic": "/'pæsindʤə/",
+  "meaning": "hành khách (đi tàu xe...)",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 66
+ },
+ {
+  "stt": 658,
+  "word": "patent",
+  "pos": "adj",
+  "phonetic": "/'peitənt/",
+  "meaning": "tài tình, khéo léo, tinh xảo",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 66
+ },
+ {
+  "stt": 659,
+  "word": "patented",
+  "pos": "adj",
+  "phonetic": "/ˈpeɪtəntɪd, ˈpætəntɪd/",
+  "meaning": "đã có bằng sáng chế, môn bài",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 66
+ },
+ {
+  "stt": 660,
+  "word": "patience",
+  "pos": "n",
+  "phonetic": "/´peiʃəns/",
+  "meaning": "tính kiên nhẫn, tính nhẫn nại; sự bền chí",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 66
+ },
+ {
+  "stt": 661,
+  "word": "payment",
+  "pos": "n",
+  "phonetic": "/'peim(ə)nt/",
+  "meaning": "sự trả tiền, số tiền trả; sự bồi thường, tiền bồi; thường",
+  "topic": "Tài chính & Kế toán",
+  "batch": 67
+ },
+ {
+  "stt": 662,
+  "word": "perform",
+  "pos": "v",
+  "phonetic": "/pə´fɔ:m/",
+  "meaning": "biểu diễn, trình diễn (kịch, điệu nhảy...); đóng",
+  "topic": "Từ vựng chung",
+  "batch": 67
+ },
+ {
+  "stt": 663,
+  "word": "performance",
+  "pos": "n",
+  "phonetic": "/pə'fɔ:məns/",
+  "meaning": "sự biểu diễn, việc đóng (phim, kịch...); cuộc; biểu diễn",
+  "topic": "Từ vựng chung",
+  "batch": 67
+ },
+ {
+  "stt": 664,
+  "word": "permanent",
+  "pos": "adj",
+  "phonetic": "/'pə:mənənt/",
+  "meaning": "lâu dài, vĩnh cửu; thường xuyên",
+  "topic": "Từ vựng chung",
+  "batch": 67
+ },
+ {
+  "stt": 665,
+  "word": "permission",
+  "pos": "n",
+  "phonetic": "/pə'miʃn/",
+  "meaning": "sự cho phép, sự chấp nhận; giấy phép",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 67
+ },
+ {
+  "stt": 666,
+  "word": "permit",
+  "pos": "v",
+  "phonetic": "/'pər'mɪt/",
+  "meaning": "cho phép, cho cơ hội; thừa nhận",
+  "topic": "Từ vựng chung",
+  "batch": 67
+ },
+ {
+  "stt": 667,
+  "word": "personal",
+  "pos": "adj",
+  "phonetic": "/'pə:snl/",
+  "meaning": "cá nhân, tư, riêng",
+  "topic": "Từ vựng chung",
+  "batch": 67
+ },
+ {
+  "stt": 668,
+  "word": "personalized",
+  "pos": "v",
+  "phonetic": "/´pə:sənə¸laiz/",
+  "meaning": "cá nhân hoá",
+  "topic": "Từ vựng chung",
+  "batch": 67
+ },
+ {
+  "stt": 669,
+  "word": "personnel",
+  "pos": "n",
+  "phonetic": "/¸pə:sə´nel/",
+  "meaning": "nhân viên, công chức (cơ quan, nhà máy...)",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 67
+ },
+ {
+  "stt": 670,
+  "word": "persuade",
+  "pos": "v",
+  "phonetic": "/pə'sweid/",
+  "meaning": "thuyết phục",
+  "topic": "Từ vựng chung",
+  "batch": 67
+ },
+ {
+  "stt": 671,
+  "word": "pessimistic",
+  "pos": "adj",
+  "phonetic": "/¸pesi´mistik/",
+  "meaning": "bi quan, yếm thế",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 68
+ },
+ {
+  "stt": 672,
+  "word": "plant",
+  "pos": "n",
+  "phonetic": "/plænt , plɑnt/",
+  "meaning": "thực vật",
+  "topic": "Từ vựng chung",
+  "batch": 68
+ },
+ {
+  "stt": 673,
+  "word": "platform",
+  "pos": "n",
+  "phonetic": "/'plætfɔ:m/",
+  "meaning": "nền, bục, bệ",
+  "topic": "Từ vựng chung",
+  "batch": 68
+ },
+ {
+  "stt": 674,
+  "word": "pleasant",
+  "pos": "adj",
+  "phonetic": "/'plezənt/",
+  "meaning": "vui vẻ, dễ thương (người...)",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 68
+ },
+ {
+  "stt": 675,
+  "word": "plow",
+  "pos": "n",
+  "phonetic": "/plau/",
+  "meaning": "cái cày; công cụ giống như cái cày",
+  "topic": "Từ vựng chung",
+  "batch": 68
+ },
+ {
+  "stt": 676,
+  "word": "plug",
+  "pos": "n",
+  "phonetic": "/plʌg/",
+  "meaning": "phích cắm; ổ cắm điện",
+  "topic": "Từ vựng chung",
+  "batch": 68
+ },
+ {
+  "stt": 677,
+  "word": "plumber",
+  "pos": "n",
+  "phonetic": "/´plʌmə/",
+  "meaning": "thợ hàn chì, thợ ống nước",
+  "topic": "Từ vựng chung",
+  "batch": 68
+ },
+ {
+  "stt": 678,
+  "word": "point",
+  "pos": "n",
+  "phonetic": "/pɔint/",
+  "meaning": "điểm",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 68
+ },
+ {
+  "stt": 679,
+  "word": "pointless",
+  "pos": "adj",
+  "phonetic": "/´pɔintlis/",
+  "meaning": "vô nghĩa, không ý vị, lạc lõng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 68
+ },
+ {
+  "stt": 680,
+  "word": "policy",
+  "pos": "n",
+  "phonetic": "/pɔlisi/",
+  "meaning": "chính sách (của chính phủ, đảng...)",
+  "topic": "Từ vựng chung",
+  "batch": 68
+ },
+ {
+  "stt": 681,
+  "word": "polite",
+  "pos": "adj",
+  "phonetic": "/pəˈlaɪt/",
+  "meaning": "lễ phép, có lễ độ; lịch sự, lịch thiệp",
+  "topic": "Từ vựng chung",
+  "batch": 69
+ },
+ {
+  "stt": 682,
+  "word": "politician",
+  "pos": "n",
+  "phonetic": "/,pɒlə'tɪʃn/",
+  "meaning": "nhà chính trị; chính khách",
+  "topic": "Từ vựng chung",
+  "batch": 69
+ },
+ {
+  "stt": 683,
+  "word": "politics",
+  "pos": "n",
+  "phonetic": "/'pɔlitiks/",
+  "meaning": "hoạt động chính trị, công việc chính trị",
+  "topic": "Từ vựng chung",
+  "batch": 69
+ },
+ {
+  "stt": 684,
+  "word": "poll",
+  "pos": "n",
+  "phonetic": "/poul/",
+  "meaning": "sự bầu cử; số phiếu bầu",
+  "topic": "Từ vựng chung",
+  "batch": 69
+ },
+ {
+  "stt": 685,
+  "word": "pollute",
+  "pos": "v",
+  "phonetic": "/pəˈlut/",
+  "meaning": "làm ô nhiễm, làm nhơ bẩn (nước...)",
+  "topic": "Từ vựng chung",
+  "batch": 69
+ },
+ {
+  "stt": 686,
+  "word": "popular",
+  "pos": "adj",
+  "phonetic": "/ˈpɑːpjələr/",
+  "meaning": "được nhiều người ưa chuộng, được nhiều người; ngưỡng mộ",
+  "topic": "Từ vựng chung",
+  "batch": 69
+ },
+ {
+  "stt": 687,
+  "word": "popularity",
+  "pos": "n",
+  "phonetic": "/ˌpɒpyəˈlærɪti/",
+  "meaning": "tính đại chúng; tính phổ biến",
+  "topic": "Từ vựng chung",
+  "batch": 69
+ },
+ {
+  "stt": 688,
+  "word": "position",
+  "pos": "n",
+  "phonetic": "/pəˈzɪʃən/",
+  "meaning": "vị trí, chỗ (của một vật gì)",
+  "topic": "Từ vựng chung",
+  "batch": 69
+ },
+ {
+  "stt": 689,
+  "word": "postpone",
+  "pos": "v",
+  "phonetic": "/pəʊst pəʊn/",
+  "meaning": "hoãn lại, trì hoãn",
+  "topic": "Từ vựng chung",
+  "batch": 69
+ },
+ {
+  "stt": 690,
+  "word": "postponement",
+  "pos": "n",
+  "phonetic": "/poust´pounmənt/",
+  "meaning": "sự trì hoãn; trường hợp bị trì hoãn",
+  "topic": "Từ vựng chung",
+  "batch": 69
+ },
+ {
+  "stt": 691,
+  "word": "potential",
+  "pos": "adj",
+  "phonetic": "/pəˈtenʃl/",
+  "meaning": "tiềm năng; tiềm tàng",
+  "topic": "Từ vựng chung",
+  "batch": 70
+ },
+ {
+  "stt": 692,
+  "word": "power",
+  "pos": "n",
+  "phonetic": "/ˈpauə(r)/",
+  "meaning": "khả năng; tài năng, năng lực",
+  "topic": "Từ vựng chung",
+  "batch": 70
+ },
+ {
+  "stt": 693,
+  "word": "practical",
+  "pos": "adj",
+  "phonetic": "/ˈpræktɪkəl/",
+  "meaning": "thực hành (đối với lý thuyết)",
+  "topic": "Từ vựng chung",
+  "batch": 70
+ },
+ {
+  "stt": 694,
+  "word": "practically",
+  "pos": "adv",
+  "phonetic": "/´præktikəli/",
+  "meaning": "về mặt thực hành (đối với lý thuyết)",
+  "topic": "Từ vựng chung",
+  "batch": 70
+ },
+ {
+  "stt": 695,
+  "word": "predict",
+  "pos": "v",
+  "phonetic": "/pri'dikt/",
+  "meaning": "nói trước, tiên đoán, dự đoán",
+  "topic": "Từ vựng chung",
+  "batch": 70
+ },
+ {
+  "stt": 696,
+  "word": "predictable",
+  "pos": "adj",
+  "phonetic": "/pri'diktəbl/",
+  "meaning": "có thể đoán trước, có thể dự đoán, dự báo",
+  "topic": "Từ vựng chung",
+  "batch": 70
+ },
+ {
+  "stt": 697,
+  "word": "prefer",
+  "pos": "v",
+  "phonetic": "/pri'fə:/",
+  "meaning": "thích hơn, ưa hơn",
+  "topic": "Từ vựng chung",
+  "batch": 70
+ },
+ {
+  "stt": 698,
+  "word": "preference",
+  "pos": "n",
+  "phonetic": "/'prefərəns/",
+  "meaning": "sở thích; sự thích hơn, sự ưa hơn",
+  "topic": "Từ vựng chung",
+  "batch": 70
+ },
+ {
+  "stt": 699,
+  "word": "premises",
+  "pos": "n",
+  "phonetic": "/'premis/",
+  "meaning": "biệt thự",
+  "topic": "Từ vựng chung",
+  "batch": 70
+ },
+ {
+  "stt": 700,
+  "word": "present",
+  "pos": "n",
+  "phonetic": "prezənt",
+  "meaning": "hiện tại, hiện thời, hiện giờ, hiện nay",
+  "topic": "Từ vựng chung",
+  "batch": 70
+ },
+ {
+  "stt": 701,
+  "word": "press",
+  "pos": "n",
+  "phonetic": "/pres/",
+  "meaning": "sự ép, sự nén, sự bóp, sự ấn",
+  "topic": "Từ vựng chung",
+  "batch": 71
+ },
+ {
+  "stt": 702,
+  "word": "prevent",
+  "pos": "v",
+  "phonetic": "/pri'vent/",
+  "meaning": "ngăn cản; ngăn chặn, ngăn ngừa",
+  "topic": "Từ vựng chung",
+  "batch": 71
+ },
+ {
+  "stt": 703,
+  "word": "prevention",
+  "pos": "n",
+  "phonetic": "/pri'ven∫n/",
+  "meaning": "sự ngăn cản, sự ngăn trở",
+  "topic": "Từ vựng chung",
+  "batch": 71
+ },
+ {
+  "stt": 704,
+  "word": "priceless",
+  "pos": "adj",
+  "phonetic": "/ˈpraɪslɪs/",
+  "meaning": "vô giá; không định giá được",
+  "topic": "Từ vựng chung",
+  "batch": 71
+ },
+ {
+  "stt": 705,
+  "word": "principle",
+  "pos": "n",
+  "phonetic": "/ˈprɪntsɪpl/",
+  "meaning": "gốc, nguồn gốc, yếu tố cơ bản",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 71
+ },
+ {
+  "stt": 706,
+  "word": "priority",
+  "pos": "n",
+  "phonetic": "/prai´ɔriti/",
+  "meaning": "sự ưu thế (về cấp bậc); quyền ưu tiên",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 71
+ },
+ {
+  "stt": 707,
+  "word": "private",
+  "pos": "adj",
+  "phonetic": "/ˈpraɪvɪt/",
+  "meaning": "riêng, tư, cá nhân",
+  "topic": "Từ vựng chung",
+  "batch": 71
+ },
+ {
+  "stt": 708,
+  "word": "probability",
+  "pos": "n",
+  "phonetic": "/ˌprɒbəˈbɪlɪti/",
+  "meaning": "sự có thể có, khả năng có thể xảy ra",
+  "topic": "Từ vựng chung",
+  "batch": 71
+ },
+ {
+  "stt": 709,
+  "word": "probably",
+  "pos": "adv",
+  "phonetic": "/´prɔbəbli/",
+  "meaning": "có khả năng, có lẽ, có thể",
+  "topic": "Từ vựng chung",
+  "batch": 71
+ },
+ {
+  "stt": 710,
+  "word": "probationary",
+  "pos": "adj",
+  "phonetic": "/prə´beiʃənəri/",
+  "meaning": "đang trong thời gian thử thách",
+  "topic": "Từ vựng chung",
+  "batch": 71
+ },
+ {
+  "stt": 711,
+  "word": "process",
+  "pos": "n",
+  "phonetic": "/'prouses/",
+  "meaning": "quá trình, sự tiến triển",
+  "topic": "Từ vựng chung",
+  "batch": 72
+ },
+ {
+  "stt": 712,
+  "word": "profession",
+  "pos": "n",
+  "phonetic": "/prə´feʃ(ə)n/",
+  "meaning": "nghề, nghề nghiệp",
+  "topic": "Từ vựng chung",
+  "batch": 72
+ },
+ {
+  "stt": 713,
+  "word": "professional",
+  "pos": "adj",
+  "phonetic": "/prə'feʃənl/",
+  "meaning": "(thuộc) nghề, (thuộc) nghề nghiệp; có tay nghề",
+  "topic": "Từ vựng chung",
+  "batch": 72
+ },
+ {
+  "stt": 714,
+  "word": "profile",
+  "pos": "n",
+  "phonetic": "/´proufail/",
+  "meaning": "tiểu sử sơ lược; mô tả sơ lược",
+  "topic": "Từ vựng chung",
+  "batch": 72
+ },
+ {
+  "stt": 715,
+  "word": "profit",
+  "pos": "n",
+  "phonetic": "/ˈprɒfɪt/",
+  "meaning": "thuận lợi; lợi ích, bổ ích",
+  "topic": "Từ vựng chung",
+  "batch": 72
+ },
+ {
+  "stt": 716,
+  "word": "profitability",
+  "pos": "n",
+  "phonetic": "/'prɔfitə'biləti/",
+  "meaning": "sự có lợi, sự có ích; sự thuận lợi",
+  "topic": "Từ vựng chung",
+  "batch": 72
+ },
+ {
+  "stt": 717,
+  "word": "profitable",
+  "pos": "adj",
+  "phonetic": "/´prɑ:fɪtəbl/",
+  "meaning": "có lợi, có ích; thuận lợi",
+  "topic": "Từ vựng chung",
+  "batch": 72
+ },
+ {
+  "stt": 718,
+  "word": "progressive",
+  "pos": "adj",
+  "phonetic": "/prəˈgrɛsɪv/",
+  "meaning": "tiến lên, tiến tới",
+  "topic": "Từ vựng chung",
+  "batch": 72
+ },
+ {
+  "stt": 719,
+  "word": "prohibit",
+  "pos": "v",
+  "phonetic": "/proʊ'hɪbɪt/",
+  "meaning": "cấm, ngăn cấm",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 72
+ },
+ {
+  "stt": 720,
+  "word": "project",
+  "pos": "n",
+  "phonetic": "/ˈprɒdʒɛkt/",
+  "meaning": "đề án, dự án; kế hoạch",
+  "topic": "Từ vựng chung",
+  "batch": 72
+ },
+ {
+  "stt": 721,
+  "word": "promote",
+  "pos": "v",
+  "phonetic": "/prəˈmoʊt/",
+  "meaning": "thăng chức, thăng cấp; đề bạt",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 73
+ },
+ {
+  "stt": 722,
+  "word": "promotion",
+  "pos": "n",
+  "phonetic": "/prə'mou∫n/",
+  "meaning": "sự thăng chức, sự đề bạt",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 73
+ },
+ {
+  "stt": 723,
+  "word": "promptly",
+  "pos": "adv",
+  "phonetic": "/´prɔmptli/",
+  "meaning": "mau lẹ, nhanh chóng; ngay lập tức",
+  "topic": "Từ vựng chung",
+  "batch": 73
+ },
+ {
+  "stt": 724,
+  "word": "properly",
+  "pos": "adv",
+  "phonetic": "/´prɔpəli/",
+  "meaning": "đúng đắn, hợp thức, hợp lệ",
+  "topic": "Từ vựng chung",
+  "batch": 73
+ },
+ {
+  "stt": 725,
+  "word": "property",
+  "pos": "n",
+  "phonetic": "/'prɔpəti/",
+  "meaning": "tài sản, của cải, vật sở hữu, người giàu có",
+  "topic": "Từ vựng chung",
+  "batch": 73
+ },
+ {
+  "stt": 726,
+  "word": "protect",
+  "pos": "v",
+  "phonetic": "/prə'tekt/",
+  "meaning": "bảo vệ, bảo hộ, che chở",
+  "topic": "Từ vựng chung",
+  "batch": 73
+ },
+ {
+  "stt": 727,
+  "word": "protection",
+  "pos": "n",
+  "phonetic": "/prə'tek∫n/",
+  "meaning": "sự bảo vệ, sự bảo hộ, sự che chở",
+  "topic": "Từ vựng chung",
+  "batch": 73
+ },
+ {
+  "stt": 728,
+  "word": "publicity",
+  "pos": "n",
+  "phonetic": "/pʌb'lɪsətɪ /",
+  "meaning": "sự công khai",
+  "topic": "Từ vựng chung",
+  "batch": 73
+ },
+ {
+  "stt": 729,
+  "word": "publicize",
+  "pos": "v",
+  "phonetic": "/´pʌbli¸saiz/",
+  "meaning": "đưa ra công khai; làm cho thiên hạ biết đến",
+  "topic": "Từ vựng chung",
+  "batch": 73
+ },
+ {
+  "stt": 730,
+  "word": "purchase",
+  "pos": "n",
+  "phonetic": "/'pə:t∫əs/",
+  "meaning": "sự mua, tậu; vật mua được, vật tậu được",
+  "topic": "Từ vựng chung",
+  "batch": 73
+ },
+ {
+  "stt": 731,
+  "word": "purpose",
+  "pos": "n",
+  "phonetic": "/'pɜ:pəs/",
+  "meaning": "mục đích, ý định",
+  "topic": "Từ vựng chung",
+  "batch": 74
+ },
+ {
+  "stt": 732,
+  "word": "pursue",
+  "pos": "v",
+  "phonetic": "/pə'sju:/",
+  "meaning": "đuổi theo, đuổi bắt, truy nã, truy kích",
+  "topic": "Từ vựng chung",
+  "batch": 74
+ },
+ {
+  "stt": 733,
+  "word": "qualification",
+  "pos": "n",
+  "phonetic": "/,kwalifi'keiSn/",
+  "meaning": "phẩm chất, năng lực",
+  "topic": "Từ vựng chung",
+  "batch": 74
+ },
+ {
+  "stt": 734,
+  "word": "qualified",
+  "pos": "adj",
+  "phonetic": "/ˈkwɒləˌfaɪd/",
+  "meaning": "đủ tư cách, khả năng, điều kiện",
+  "topic": "Từ vựng chung",
+  "batch": 74
+ },
+ {
+  "stt": 735,
+  "word": "qualify",
+  "pos": "v",
+  "phonetic": "/'´kwɔli¸fai/",
+  "meaning": "đủ tư cách, khả năng, điều kiện",
+  "topic": "Từ vựng chung",
+  "batch": 74
+ },
+ {
+  "stt": 736,
+  "word": "questionnaire",
+  "pos": "n",
+  "phonetic": "/ˌkwɛstʃəˈnɛər/",
+  "meaning": "bản câu hỏi (để điều tra, để thăm dò ý kiến)",
+  "topic": "Từ vựng chung",
+  "batch": 74
+ },
+ {
+  "stt": 737,
+  "word": "quotation",
+  "pos": "n",
+  "phonetic": "/kwou'teiʃn/",
+  "meaning": "sự trích dẫn, sự được trích dẫn",
+  "topic": "Từ vựng chung",
+  "batch": 74
+ },
+ {
+  "stt": 738,
+  "word": "quote",
+  "pos": "n",
+  "phonetic": "/kwout/",
+  "meaning": "lời trích dẫn; đoạn trích dẫn",
+  "topic": "Từ vựng chung",
+  "batch": 74
+ },
+ {
+  "stt": 739,
+  "word": "range",
+  "pos": "n",
+  "phonetic": "/reɪndʒ/",
+  "meaning": "dãy, hàng",
+  "topic": "Từ vựng chung",
+  "batch": 74
+ },
+ {
+  "stt": 740,
+  "word": "rare",
+  "pos": "adj",
+  "phonetic": "/reə/",
+  "meaning": "hiếm, hiếm có, ít có",
+  "topic": "Từ vựng chung",
+  "batch": 74
+ },
+ {
+  "stt": 741,
+  "word": "rate",
+  "pos": "n",
+  "phonetic": "/reit/",
+  "meaning": "tỷ lệ",
+  "topic": "Từ vựng chung",
+  "batch": 75
+ },
+ {
+  "stt": 742,
+  "word": "rational",
+  "pos": "adj",
+  "phonetic": "/´ræʃənəl/",
+  "meaning": "có lý trí, dựa trên lý trí",
+  "topic": "Từ vựng chung",
+  "batch": 75
+ },
+ {
+  "stt": 743,
+  "word": "raw",
+  "pos": "adj",
+  "phonetic": "/rɔ:/",
+  "meaning": "sống, thô",
+  "topic": "Từ vựng chung",
+  "batch": 75
+ },
+ {
+  "stt": 744,
+  "word": "reach",
+  "pos": "n",
+  "phonetic": "/ri:tʃ/",
+  "meaning": "sự chìa ra, sự trải ra",
+  "topic": "Từ vựng chung",
+  "batch": 75
+ },
+ {
+  "stt": 745,
+  "word": "realize",
+  "pos": "v",
+  "phonetic": "/'riəlaiz/",
+  "meaning": "thấy rõ, hiểu rõ, nhận thức rõ (việc gì...)",
+  "topic": "Từ vựng chung",
+  "batch": 75
+ },
+ {
+  "stt": 746,
+  "word": "rearrange",
+  "pos": "v",
+  "phonetic": "/'ri:ə'reindʤ/",
+  "meaning": "sắp xếp lại, bố trí lại, sắp đặt lại",
+  "topic": "Từ vựng chung",
+  "batch": 75
+ },
+ {
+  "stt": 747,
+  "word": "reasonable",
+  "pos": "adj",
+  "phonetic": "/´ri:zənəbl/",
+  "meaning": "có lý, hợp lý",
+  "topic": "Từ vựng chung",
+  "batch": 75
+ },
+ {
+  "stt": 748,
+  "word": "reasonably",
+  "pos": "adv",
+  "phonetic": "/ˈriː.zən.ə.bli/",
+  "meaning": "hợp lý",
+  "topic": "Từ vựng chung",
+  "batch": 75
+ },
+ {
+  "stt": 749,
+  "word": "receipt",
+  "pos": "n",
+  "phonetic": "/ri´si:t/",
+  "meaning": "công thức (làm bánh, nấu món ăn...)",
+  "topic": "Marketing & Bán hàng",
+  "batch": 75
+ },
+ {
+  "stt": 750,
+  "word": "receive",
+  "pos": "v",
+  "phonetic": "/ri'si:v/",
+  "meaning": "nhận, lĩnh, thu",
+  "topic": "Từ vựng chung",
+  "batch": 75
+ },
+ {
+  "stt": 751,
+  "word": "recent",
+  "pos": "adj",
+  "phonetic": "/´ri:sənt/",
+  "meaning": "gần đây, xảy ra gần đây, mới đây",
+  "topic": "Từ vựng chung",
+  "batch": 76
+ },
+ {
+  "stt": 752,
+  "word": "reception",
+  "pos": "n",
+  "phonetic": "/ri'sep∫n/",
+  "meaning": "sự nhận, sự thu nhận, sự lĩnh",
+  "topic": "Từ vựng chung",
+  "batch": 76
+ },
+ {
+  "stt": 753,
+  "word": "receptive",
+  "pos": "adj",
+  "phonetic": "/ri'septiv/",
+  "meaning": "dễ tiếp thu, dễ lĩnh hội",
+  "topic": "Từ vựng chung",
+  "batch": 76
+ },
+ {
+  "stt": 754,
+  "word": "recipe",
+  "pos": "n",
+  "phonetic": "/´resəpi/",
+  "meaning": "công thức làm món ăn",
+  "topic": "Từ vựng chung",
+  "batch": 76
+ },
+ {
+  "stt": 755,
+  "word": "recognize",
+  "pos": "v",
+  "phonetic": "/'rekəgnaiz/",
+  "meaning": "công nhận, thừa nhận, chấp nhận",
+  "topic": "Từ vựng chung",
+  "batch": 76
+ },
+ {
+  "stt": 756,
+  "word": "recommend",
+  "pos": "v",
+  "phonetic": "/rekə'mend/",
+  "meaning": "giới thiệu, tiến cử (người, vật...)",
+  "topic": "Từ vựng chung",
+  "batch": 76
+ },
+ {
+  "stt": 757,
+  "word": "recommendation",
+  "pos": "n",
+  "phonetic": "/¸rekəmen´deiʃən/",
+  "meaning": "sự giới thiệu, sự tiến cử",
+  "topic": "Từ vựng chung",
+  "batch": 76
+ },
+ {
+  "stt": 758,
+  "word": "recruit",
+  "pos": "v",
+  "phonetic": "/ri'kru:t/",
+  "meaning": "tuyển, chiêu mộ (lính mới); tìm thêm",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 76
+ },
+ {
+  "stt": 759,
+  "word": "recruitment",
+  "pos": "n",
+  "phonetic": "/ ri'kru;tm(ə)nt/",
+  "meaning": "sự tuyển mộ (lính), sự lấy thêm",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 76
+ },
+ {
+  "stt": 760,
+  "word": "reduce",
+  "pos": "v",
+  "phonetic": "/ri'dju:s/",
+  "meaning": "thu nhỏ, làm giảm bớt",
+  "topic": "Từ vựng chung",
+  "batch": 76
+ },
+ {
+  "stt": 761,
+  "word": "reduction",
+  "pos": "n",
+  "phonetic": "/ri´dʌkʃən/",
+  "meaning": "sự thu nhỏ, sự giảm bớt",
+  "topic": "Từ vựng chung",
+  "batch": 77
+ },
+ {
+  "stt": 762,
+  "word": "redundant",
+  "pos": "adj",
+  "phonetic": "/ri'dʌndənt/",
+  "meaning": "thừa, dư",
+  "topic": "Từ vựng chung",
+  "batch": 77
+ },
+ {
+  "stt": 763,
+  "word": "refrigerator",
+  "pos": "n",
+  "phonetic": "/rɪˈfrɪdʒ.ər.eɪ.tər/",
+  "meaning": "tủ lạnh",
+  "topic": "Từ vựng chung",
+  "batch": 77
+ },
+ {
+  "stt": 764,
+  "word": "refund",
+  "pos": "n, v",
+  "phonetic": "/ˈrifʌnd/",
+  "meaning": "trả lại, sự trả lại",
+  "topic": "Từ vựng chung",
+  "batch": 77
+ },
+ {
+  "stt": 765,
+  "word": "refundable",
+  "pos": "adj",
+  "phonetic": "/ri´fʌndəbl/",
+  "meaning": "có thể được trả lại tiền",
+  "topic": "Tài chính & Kế toán",
+  "batch": 77
+ },
+ {
+  "stt": 766,
+  "word": "refusal",
+  "pos": "n",
+  "phonetic": "ri´fju:zl/",
+  "meaning": "sự từ chối, sự khước từ; sự bị từ chối",
+  "topic": "Từ vựng chung",
+  "batch": 77
+ },
+ {
+  "stt": 767,
+  "word": "refuse",
+  "pos": "v",
+  "phonetic": "/rɪˈfyuz/",
+  "meaning": "từ chối, khước từ, cự tuyệt",
+  "topic": "Từ vựng chung",
+  "batch": 77
+ },
+ {
+  "stt": 768,
+  "word": "regarding",
+  "pos": "n",
+  "phonetic": "/ri´ga:diη/",
+  "meaning": "về ( ai/cái gì), về việc, đối với (vấn đề...)",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 77
+ },
+ {
+  "stt": 769,
+  "word": "regardless",
+  "pos": "adv",
+  "phonetic": "/ri´ga:dlis/",
+  "meaning": "bất chấp, không đếm xỉa tới, không chú ý tới",
+  "topic": "Từ vựng chung",
+  "batch": 77
+ },
+ {
+  "stt": 770,
+  "word": "regional",
+  "pos": "adj",
+  "phonetic": "/ˈridʒənl/",
+  "meaning": "(thuộc) vùng; địa phương",
+  "topic": "Từ vựng chung",
+  "batch": 77
+ },
+ {
+  "stt": 771,
+  "word": "registration",
+  "pos": "n",
+  "phonetic": "/,redʤis'treiʃn/",
+  "meaning": "sự đăng ký, sự ghi vào sổ",
+  "topic": "Từ vựng chung",
+  "batch": 78
+ },
+ {
+  "stt": 772,
+  "word": "regret",
+  "pos": "n, v",
+  "phonetic": "/ri'gret/",
+  "meaning": "hối tiếc; sự ân hận",
+  "topic": "Từ vựng chung",
+  "batch": 78
+ },
+ {
+  "stt": 773,
+  "word": "regular",
+  "pos": "adj",
+  "phonetic": "/ˈreɡ.jə.lɚ/",
+  "meaning": "đều đặn, thường xuyên",
+  "topic": "Từ vựng chung",
+  "batch": 78
+ },
+ {
+  "stt": 774,
+  "word": "regularly",
+  "pos": "adv",
+  "phonetic": "/´regjuləli/",
+  "meaning": "đều đặn, thường xuyên",
+  "topic": "Từ vựng chung",
+  "batch": 78
+ },
+ {
+  "stt": 775,
+  "word": "regulate",
+  "pos": "v",
+  "phonetic": "/ˈreɡ.jə.leɪt/",
+  "meaning": "điều khiển",
+  "topic": "Từ vựng chung",
+  "batch": 78
+ },
+ {
+  "stt": 776,
+  "word": "reject",
+  "pos": "n, v",
+  "phonetic": "/'ri:ʤekt/",
+  "meaning": "vật bị loại, vật bỏ đi, vật không được chọn",
+  "topic": "Từ vựng chung",
+  "batch": 78
+ },
+ {
+  "stt": 777,
+  "word": "relax",
+  "pos": "v",
+  "phonetic": "/rɪˈlæks/",
+  "meaning": "thư giãn, nghỉ ngơi",
+  "topic": "Từ vựng chung",
+  "batch": 78
+ },
+ {
+  "stt": 778,
+  "word": "relaxation",
+  "pos": "n",
+  "phonetic": "/¸ri:læk´seiʃən/",
+  "meaning": "sự dịu đi, sự bớt căng thẳng",
+  "topic": "Từ vựng chung",
+  "batch": 78
+ },
+ {
+  "stt": 779,
+  "word": "release",
+  "pos": "v",
+  "phonetic": "/rɪˈliːs/",
+  "meaning": "thả ra, trả lại tự do",
+  "topic": "Từ vựng chung",
+  "batch": 78
+ },
+ {
+  "stt": 780,
+  "word": "relevant",
+  "pos": "adj",
+  "phonetic": "/´reləvənt/",
+  "meaning": "thích đáng, thích hợp; xác đáng",
+  "topic": "Từ vựng chung",
+  "batch": 78
+ },
+ {
+  "stt": 781,
+  "word": "remain",
+  "pos": "v",
+  "phonetic": "/rɪˈmeɪn/",
+  "meaning": "duy trì",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 79
+ },
+ {
+  "stt": 782,
+  "word": "remarkable",
+  "pos": "adj",
+  "phonetic": "/ri'ma:kəb(ə)l/",
+  "meaning": "đáng chú ý, đáng để ý",
+  "topic": "Từ vựng chung",
+  "batch": 79
+ },
+ {
+  "stt": 783,
+  "word": "remind",
+  "pos": "v",
+  "phonetic": "/rɪˈmaɪnd/",
+  "meaning": "nhắc lại, nhớ lại",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 79
+ },
+ {
+  "stt": 784,
+  "word": "reminder",
+  "pos": "n",
+  "phonetic": "/ri´maində/",
+  "meaning": "vật làm nhớ lại, cái làm nhớ lại",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 79
+ },
+ {
+  "stt": 785,
+  "word": "remittance",
+  "pos": "n",
+  "phonetic": "/ri´mitəns/",
+  "meaning": "sự gửi tiền, sự gửi hàng",
+  "topic": "Tài chính & Kế toán",
+  "batch": 79
+ },
+ {
+  "stt": 786,
+  "word": "remove",
+  "pos": "v",
+  "phonetic": "/ri'mu:v/",
+  "meaning": "dời đi, di chuyển, dọn, cất dọn",
+  "topic": "Từ vựng chung",
+  "batch": 79
+ },
+ {
+  "stt": 787,
+  "word": "remuneration",
+  "pos": "n",
+  "phonetic": "/rɪˌmjuː.nəˈreɪ.ʃən/",
+  "meaning": "tiền thù lao, tiền trả công",
+  "topic": "Tài chính & Kế toán",
+  "batch": 79
+ },
+ {
+  "stt": 788,
+  "word": "renovate",
+  "pos": "v",
+  "phonetic": "/ˈrɛnəˌveɪt/",
+  "meaning": "nâng cấp, cải tiến, đổi mới, sửa chữa lại",
+  "topic": "Công nghệ",
+  "batch": 79
+ },
+ {
+  "stt": 789,
+  "word": "renovation",
+  "pos": "n",
+  "phonetic": "/ˌren.əˈveɪ.ʃən/",
+  "meaning": "sự nâng cấp, sự cải tiến",
+  "topic": "Công nghệ",
+  "batch": 79
+ },
+ {
+  "stt": 790,
+  "word": "rent",
+  "pos": "n",
+  "phonetic": "/rent/",
+  "meaning": "sự thuê mướn",
+  "topic": "Từ vựng chung",
+  "batch": 79
+ },
+ {
+  "stt": 791,
+  "word": "repair",
+  "pos": "v",
+  "phonetic": "/rɪˈper/",
+  "meaning": "sửa chữa, sửa đổi",
+  "topic": "Từ vựng chung",
+  "batch": 80
+ },
+ {
+  "stt": 792,
+  "word": "repayment",
+  "pos": "n",
+  "phonetic": "/ri:´peimənt/",
+  "meaning": "sự trả lại",
+  "topic": "Từ vựng chung",
+  "batch": 80
+ },
+ {
+  "stt": 793,
+  "word": "repetitive",
+  "pos": "adj",
+  "phonetic": "/rɪˈpet̬.ə.t̬ɪv/",
+  "meaning": "có đặc trưng lặp đi lặp lại",
+  "topic": "Từ vựng chung",
+  "batch": 80
+ },
+ {
+  "stt": 794,
+  "word": "replace",
+  "pos": "v",
+  "phonetic": "/rɪpleɪs/",
+  "meaning": "thay thế, thay chỗ ai/cái gì",
+  "topic": "Từ vựng chung",
+  "batch": 80
+ },
+ {
+  "stt": 795,
+  "word": "replacement",
+  "pos": "n",
+  "phonetic": "/rɪˈpleɪs.mənt/",
+  "meaning": "sự thay thế, vật thay thế",
+  "topic": "Từ vựng chung",
+  "batch": 80
+ },
+ {
+  "stt": 796,
+  "word": "report",
+  "pos": "n",
+  "phonetic": "/ri'pɔ:t/",
+  "meaning": "bản báo cáo, bản tường thuật; biên bản",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 80
+ },
+ {
+  "stt": 797,
+  "word": "represent",
+  "pos": "v",
+  "phonetic": "/ˌrep.rɪˈzent/",
+  "meaning": "miêu tả, hình dung",
+  "topic": "Từ vựng chung",
+  "batch": 80
+ },
+ {
+  "stt": 798,
+  "word": "representative",
+  "pos": "adj",
+  "phonetic": "/,repri'zentətiv/",
+  "meaning": "miêu tả, biểu hiện",
+  "topic": "Từ vựng chung",
+  "batch": 80
+ },
+ {
+  "stt": 799,
+  "word": "request",
+  "pos": "n",
+  "phonetic": "/rɪˈkwest/",
+  "meaning": "yêu cầu",
+  "topic": "Từ vựng chung",
+  "batch": 80
+ },
+ {
+  "stt": 800,
+  "word": "require",
+  "pos": "v",
+  "phonetic": "/ri'kwaiə(r)/",
+  "meaning": "đòi hỏi, yêu cầu; quy định",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 80
+ },
+ {
+  "stt": 801,
+  "word": "requirement",
+  "pos": "n",
+  "phonetic": "/rɪˈkwaɪr.mənt/",
+  "meaning": "yêu cầu, cần thiết",
+  "topic": "Từ vựng chung",
+  "batch": 81
+ },
+ {
+  "stt": 802,
+  "word": "reschedule",
+  "pos": "v",
+  "phonetic": "/ˌriːˈskedʒ.uːl/",
+  "meaning": "lên lịch, sắp xếp lịch",
+  "topic": "Từ vựng chung",
+  "batch": 81
+ },
+ {
+  "stt": 803,
+  "word": "rescue",
+  "pos": "v",
+  "phonetic": "/ˈres.kjuː/",
+  "meaning": "cứu ai đó khỏi nguy hiểm",
+  "topic": "Sức khỏe & An toàn",
+  "batch": 81
+ },
+ {
+  "stt": 804,
+  "word": "resemble",
+  "pos": "v",
+  "phonetic": "/rɪˈzem.bəl/",
+  "meaning": "giống nhau, giống ai đó",
+  "topic": "Từ vựng chung",
+  "batch": 81
+ },
+ {
+  "stt": 805,
+  "word": "reservation",
+  "pos": "n",
+  "phonetic": "/ˌrez.ɚˈveɪ.ʃən/",
+  "meaning": "dự phòng",
+  "topic": "Từ vựng chung",
+  "batch": 81
+ },
+ {
+  "stt": 806,
+  "word": "resign",
+  "pos": "v",
+  "phonetic": "/rɪˈzaɪn/",
+  "meaning": "bỏ việc, từ chức",
+  "topic": "Từ vựng chung",
+  "batch": 81
+ },
+ {
+  "stt": 807,
+  "word": "resist",
+  "pos": "v",
+  "phonetic": "/rɪˈzɪst/",
+  "meaning": "chống lại",
+  "topic": "Từ vựng chung",
+  "batch": 81
+ },
+ {
+  "stt": 808,
+  "word": "resolve",
+  "pos": "n, v",
+  "phonetic": "/rɪ'zɑ:lv",
+  "meaning": "Quyết tâm, ý kiên quyết",
+  "topic": "Từ vựng chung",
+  "batch": 81
+ },
+ {
+  "stt": 809,
+  "word": "respect",
+  "pos": "n",
+  "phonetic": "/riˈspekt/",
+  "meaning": "sự kính trọng; sự ngưỡng mộ",
+  "topic": "Từ vựng chung",
+  "batch": 81
+ },
+ {
+  "stt": 810,
+  "word": "respectable",
+  "pos": "adj",
+  "phonetic": "/ris´pektəbl/",
+  "meaning": "đáng trọng; đáng kính",
+  "topic": "Từ vựng chung",
+  "batch": 81
+ },
+ {
+  "stt": 811,
+  "word": "respond",
+  "pos": "v",
+  "phonetic": "/ri'spond/",
+  "meaning": "hưởng ứng",
+  "topic": "Từ vựng chung",
+  "batch": 82
+ },
+ {
+  "stt": 812,
+  "word": "responsibility",
+  "pos": "n",
+  "phonetic": "/rɪˌspɑːn.səˈbɪl.ə.t̬i/",
+  "meaning": "trách nhiệm; sự chịu trách nhiệm; bổn phận;; nghĩa vụ",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 82
+ },
+ {
+  "stt": 813,
+  "word": "responsible",
+  "pos": "adj",
+  "phonetic": "/ri'spɔnsəbl/",
+  "meaning": "chịu trách nhiệm",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 82
+ },
+ {
+  "stt": 814,
+  "word": "restructure",
+  "pos": "v",
+  "phonetic": "/ri:´strʌktʃə/",
+  "meaning": "cơ cấu lại; tổ chức lại; sắp xếp lại",
+  "topic": "Từ vựng chung",
+  "batch": 82
+ },
+ {
+  "stt": 815,
+  "word": "resume",
+  "pos": "v",
+  "phonetic": "/ri´zju:m/",
+  "meaning": "lấy lại, chiếm lại, giành lại; hồi phục lại",
+  "topic": "Từ vựng chung",
+  "batch": 82
+ },
+ {
+  "stt": 816,
+  "word": "retail",
+  "pos": "n, adv",
+  "phonetic": "/ˈriteɪl , rɪˈteɪl/",
+  "meaning": "sự bán lẻ, việc bán lẻ",
+  "topic": "Marketing & Bán hàng",
+  "batch": 82
+ },
+ {
+  "stt": 817,
+  "word": "retire",
+  "pos": "v",
+  "phonetic": "/ri´taiə /",
+  "meaning": "rời bỏ, đi ra, rút về, lui về (một nơi nào kín; đáo...)",
+  "topic": "Từ vựng chung",
+  "batch": 82
+ },
+ {
+  "stt": 818,
+  "word": "retirement",
+  "pos": "n",
+  "phonetic": "/rɪˈtaɪərmənt/",
+  "meaning": "sự ẩn dật, sự về hưu",
+  "topic": "Từ vựng chung",
+  "batch": 82
+ },
+ {
+  "stt": 819,
+  "word": "revamp",
+  "pos": "v",
+  "phonetic": "/ˌriːˈvæmp/",
+  "meaning": "tân trang, sửa chữa",
+  "topic": "Từ vựng chung",
+  "batch": 82
+ },
+ {
+  "stt": 820,
+  "word": "revise",
+  "pos": "v, n",
+  "phonetic": "/ri'vaiz/",
+  "meaning": "đọc lại, xem lại, duyệt lại, xét lại",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 82
+ },
+ {
+  "stt": 821,
+  "word": "revised",
+  "pos": "v, n",
+  "phonetic": "/ri'vaiz/",
+  "meaning": "đọc lại, xem lại, duyệt lại, xét lại",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 83
+ },
+ {
+  "stt": 822,
+  "word": "right",
+  "pos": "n",
+  "phonetic": "/rait/",
+  "meaning": "điều tốt, điều phải, điều đứng đắn",
+  "topic": "Từ vựng chung",
+  "batch": 83
+ },
+ {
+  "stt": 823,
+  "word": "rival",
+  "pos": "n,adj",
+  "phonetic": "/raivl/",
+  "meaning": "đối thủ, địch thủ, đối địch, kình địch",
+  "topic": "Từ vựng chung",
+  "batch": 83
+ },
+ {
+  "stt": 824,
+  "word": "roadside",
+  "pos": "n,adj",
+  "phonetic": "/´roud¸said/",
+  "meaning": "bờ đường, lề đường",
+  "topic": "Từ vựng chung",
+  "batch": 83
+ },
+ {
+  "stt": 825,
+  "word": "roughly",
+  "pos": "adv",
+  "phonetic": "/'rʌfli/",
+  "meaning": "ráp, xù xì, gồ ghề, không bằng phẳng",
+  "topic": "Từ vựng chung",
+  "batch": 83
+ },
+ {
+  "stt": 826,
+  "word": "route",
+  "pos": "n",
+  "phonetic": "/raʊt/",
+  "meaning": "tuyến đường; lộ trình; đường đi",
+  "topic": "Từ vựng chung",
+  "batch": 83
+ },
+ {
+  "stt": 827,
+  "word": "runway",
+  "pos": "n",
+  "phonetic": "/´rʌn¸wei/",
+  "meaning": "đường băng",
+  "topic": "Từ vựng chung",
+  "batch": 83
+ },
+ {
+  "stt": 828,
+  "word": "salary",
+  "pos": "n",
+  "phonetic": "/ˈsæləri/",
+  "meaning": "tiền lương",
+  "topic": "Tài chính & Kế toán",
+  "batch": 83
+ },
+ {
+  "stt": 829,
+  "word": "sale",
+  "pos": "n",
+  "phonetic": "/seil/",
+  "meaning": "sự bán, việc bán",
+  "topic": "Marketing & Bán hàng",
+  "batch": 83
+ },
+ {
+  "stt": 830,
+  "word": "salvage",
+  "pos": "n",
+  "phonetic": "/´sælvidʒ/",
+  "meaning": "sự cứu hộ; sự cứu chạy (khỏi đám cháy, mưa; lũ..)",
+  "topic": "Từ vựng chung",
+  "batch": 83
+ },
+ {
+  "stt": 831,
+  "word": "sample",
+  "pos": "n",
+  "phonetic": "/´sa:mpl/",
+  "meaning": "mẫu; vật mẫu, hàng mẫu",
+  "topic": "Từ vựng chung",
+  "batch": 84
+ },
+ {
+  "stt": 832,
+  "word": "satisfactory",
+  "pos": "adj",
+  "phonetic": "/,sætis'fæktəri/",
+  "meaning": "vừa lòng, vừa ý; thoả mãn (tuy không xuất sắc; lắm)",
+  "topic": "Từ vựng chung",
+  "batch": 84
+ },
+ {
+  "stt": 833,
+  "word": "satisfied",
+  "pos": "adj",
+  "phonetic": "/'sætisfaid/",
+  "meaning": "cảm thấy hài lòng, cảm thấy vừa ý; thoả mãn",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 84
+ },
+ {
+  "stt": 834,
+  "word": "satisfy",
+  "pos": "v",
+  "phonetic": "/'sætisfai/",
+  "meaning": "làm thoả mãn, làm hài lòng",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 84
+ },
+ {
+  "stt": 835,
+  "word": "save",
+  "pos": "n",
+  "phonetic": "/seiv/",
+  "meaning": "cứu nguy, cứu vãn",
+  "topic": "Từ vựng chung",
+  "batch": 84
+ },
+ {
+  "stt": 836,
+  "word": "savvy",
+  "pos": "n",
+  "phonetic": "/ˈsæv.i/",
+  "meaning": "sự hiểu biết, nắm rõ",
+  "topic": "Từ vựng chung",
+  "batch": 84
+ },
+ {
+  "stt": 837,
+  "word": "scene",
+  "pos": "n",
+  "phonetic": "/si:n/",
+  "meaning": "quang cảnh",
+  "topic": "Từ vựng chung",
+  "batch": 84
+ },
+ {
+  "stt": 838,
+  "word": "scenery",
+  "pos": "n",
+  "phonetic": "/'si:nəri/",
+  "meaning": "phong cảnh, cảnh vật",
+  "topic": "Từ vựng chung",
+  "batch": 84
+ },
+ {
+  "stt": 839,
+  "word": "schedule",
+  "pos": "n",
+  "phonetic": "/'skedʒu:l/",
+  "meaning": "kế hoạch làm việc, tiến độ thi công",
+  "topic": "Từ vựng chung",
+  "batch": 84
+ },
+ {
+  "stt": 840,
+  "word": "scrutinize",
+  "pos": "v",
+  "phonetic": "/´skru:ti¸naiz/",
+  "meaning": "chăm chú, nhìn kỹ; xem xét kỹ lưỡng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 84
+ },
+ {
+  "stt": 841,
+  "word": "search",
+  "pos": "n,v",
+  "phonetic": "/sə:t∫/",
+  "meaning": "sự nhìn để tìm, nhìn để tìm, thăm dò",
+  "topic": "Từ vựng chung",
+  "batch": 85
+ },
+ {
+  "stt": 842,
+  "word": "secluded",
+  "pos": "adj",
+  "phonetic": "/si´klu:did/",
+  "meaning": "hẻo lánh; không có nhiều người trông thấy",
+  "topic": "Từ vựng chung",
+  "batch": 85
+ },
+ {
+  "stt": 843,
+  "word": "secretarial",
+  "pos": "adj",
+  "phonetic": "/¸sekri´tɛəriəl/",
+  "meaning": "(thuộc) thư ký",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 85
+ },
+ {
+  "stt": 844,
+  "word": "secretary",
+  "pos": "n",
+  "phonetic": "/'sekrətri/",
+  "meaning": "thư ký",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 85
+ },
+ {
+  "stt": 845,
+  "word": "select",
+  "pos": "v",
+  "phonetic": "/si´lekt/",
+  "meaning": "lựa chọn, chọn lọc, tuyển chọn",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 85
+ },
+ {
+  "stt": 846,
+  "word": "selection",
+  "pos": "n",
+  "phonetic": "/si'lekʃn/",
+  "meaning": "sự lựa chọn, sự chọn lọc, sự tuyển lựa",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 85
+ },
+ {
+  "stt": 847,
+  "word": "selective",
+  "pos": "adj",
+  "phonetic": "/si'lektiv/",
+  "meaning": "có tuyển chọn; dựa trên sự tuyển chọn",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 85
+ },
+ {
+  "stt": 848,
+  "word": "seminar",
+  "pos": "n",
+  "phonetic": "/¸semi´na:/",
+  "meaning": "hội nghị chuyên đề",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 85
+ },
+ {
+  "stt": 849,
+  "word": "senior",
+  "pos": "adj",
+  "phonetic": "/'si:niə/",
+  "meaning": "nhiều tuổi hơn; cao hơn về cấp bậc (chức; quyền..); lâu năm hơn",
+  "topic": "Pháp lý & Hợp đồng",
+  "batch": 85
+ },
+ {
+  "stt": 850,
+  "word": "sequel",
+  "pos": "n",
+  "phonetic": "/ˈsiː.kwəl/",
+  "meaning": "sự tiếp tục, nối tiếp, kết quả",
+  "topic": "Từ vựng chung",
+  "batch": 85
+ },
+ {
+  "stt": 851,
+  "word": "serious",
+  "pos": "adj",
+  "phonetic": "/'siəriəs/",
+  "meaning": "đứng đắn, nghiêm trang, nghiêm nghị",
+  "topic": "Từ vựng chung",
+  "batch": 86
+ },
+ {
+  "stt": 852,
+  "word": "service",
+  "pos": "n",
+  "phonetic": "/'sə:vis/",
+  "meaning": "sự phục vụ, sự hầu hạ",
+  "topic": "Từ vựng chung",
+  "batch": 86
+ },
+ {
+  "stt": 853,
+  "word": "several",
+  "pos": "adj",
+  "phonetic": "/'sevrəl/",
+  "meaning": "vài, riêng, cá nhân; khác nhau",
+  "topic": "Từ vựng chung",
+  "batch": 86
+ },
+ {
+  "stt": 854,
+  "word": "shape",
+  "pos": "n",
+  "phonetic": "/ʃeip/",
+  "meaning": "hình, hình dạng, hình thù",
+  "topic": "Từ vựng chung",
+  "batch": 86
+ },
+ {
+  "stt": 855,
+  "word": "sharp",
+  "pos": "adj",
+  "phonetic": "/ʃɑrp/",
+  "meaning": "sắc, nhọn, bén",
+  "topic": "Từ vựng chung",
+  "batch": 86
+ },
+ {
+  "stt": 856,
+  "word": "shift",
+  "pos": "n",
+  "phonetic": "/ʃift/",
+  "meaning": "sự thay đổi (về vị trí, bản chất, hình dáng..)",
+  "topic": "Từ vựng chung",
+  "batch": 86
+ },
+ {
+  "stt": 857,
+  "word": "shine",
+  "pos": "n",
+  "phonetic": "/ʃain/",
+  "meaning": "ánh sáng; ánh nắng; sự chói sáng, độ sáng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 86
+ },
+ {
+  "stt": 858,
+  "word": "shipment",
+  "pos": "n",
+  "phonetic": "/´ʃipmənt/",
+  "meaning": "việc gửi hàng; việc chất hàng lên tàu",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 86
+ },
+ {
+  "stt": 859,
+  "word": "shipping",
+  "pos": "n",
+  "phonetic": "/ˈʃɪp.ɪŋ/",
+  "meaning": "đang chuyển hàng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 86
+ },
+ {
+  "stt": 860,
+  "word": "shortage",
+  "pos": "n",
+  "phonetic": "/ˈʃɔːr.t̬ɪdʒ/",
+  "meaning": "sự thiếu sót",
+  "topic": "Từ vựng chung",
+  "batch": 86
+ },
+ {
+  "stt": 861,
+  "word": "shuttle",
+  "pos": "n",
+  "phonetic": "/ˈʃʌt̬.əl/",
+  "meaning": "xe đưa đón",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 87
+ },
+ {
+  "stt": 862,
+  "word": "sightseeing",
+  "pos": "n",
+  "phonetic": "/ˈsaɪtˌsiː.ɪŋ/",
+  "meaning": "tham quan",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 87
+ },
+ {
+  "stt": 863,
+  "word": "significant",
+  "pos": "adj",
+  "phonetic": "/sɪɡˈnɪf.ə.kənt/",
+  "meaning": "quan trọng",
+  "topic": "Từ vựng chung",
+  "batch": 87
+ },
+ {
+  "stt": 864,
+  "word": "simplify",
+  "pos": "v",
+  "phonetic": "/ˈsɪm.plə.faɪ/",
+  "meaning": "đơn giản hóa",
+  "topic": "Từ vựng chung",
+  "batch": 87
+ },
+ {
+  "stt": 865,
+  "word": "situation",
+  "pos": "n",
+  "phonetic": "/ˌsɪtʃ.uˈeɪ.ʃən/",
+  "meaning": "tình hình",
+  "topic": "Từ vựng chung",
+  "batch": 87
+ },
+ {
+  "stt": 866,
+  "word": "slump",
+  "pos": "v",
+  "phonetic": "/slʌmp/",
+  "meaning": "sự sụt giảm",
+  "topic": "Từ vựng chung",
+  "batch": 87
+ },
+ {
+  "stt": 867,
+  "word": "software",
+  "pos": "n",
+  "phonetic": "/ˈsɑːft.wer/",
+  "meaning": "phần mềm",
+  "topic": "Công nghệ",
+  "batch": 87
+ },
+ {
+  "stt": 868,
+  "word": "solar",
+  "pos": "adj",
+  "phonetic": "/ˈsoʊ.lɚ/",
+  "meaning": "hệ mặt trời",
+  "topic": "Từ vựng chung",
+  "batch": 87
+ },
+ {
+  "stt": 869,
+  "word": "spacious",
+  "pos": "adj",
+  "phonetic": "/ˈspeɪ.ʃəs/",
+  "meaning": "rộng rãi",
+  "topic": "Từ vựng chung",
+  "batch": 87
+ },
+ {
+  "stt": 870,
+  "word": "spare part",
+  "pos": "n",
+  "phonetic": "/ˈspeər ˈpɑrt/",
+  "meaning": "phụ tùng",
+  "topic": "Từ vựng chung",
+  "batch": 87
+ },
+ {
+  "stt": 871,
+  "word": "spare time",
+  "pos": "n",
+  "phonetic": "/ˈspeər ˈtɑɪm/",
+  "meaning": "thời gian rảnh",
+  "topic": "Từ vựng chung",
+  "batch": 88
+ },
+ {
+  "stt": 872,
+  "word": "specialize",
+  "pos": "v",
+  "phonetic": "/ˈspeʃ.ə.laɪz/",
+  "meaning": "chuyên môn hóa",
+  "topic": "Từ vựng chung",
+  "batch": 88
+ },
+ {
+  "stt": 873,
+  "word": "specialty",
+  "pos": "n",
+  "phonetic": "/ˈspeʃ.əl.ti/",
+  "meaning": "chuyên môn",
+  "topic": "Từ vựng chung",
+  "batch": 88
+ },
+ {
+  "stt": 874,
+  "word": "specification",
+  "pos": "n",
+  "phonetic": "/ˌspes.ə.fəˈkeɪ.ʃən/",
+  "meaning": "chi tiết, đặc điểm",
+  "topic": "Từ vựng chung",
+  "batch": 88
+ },
+ {
+  "stt": 875,
+  "word": "specify",
+  "pos": "v",
+  "phonetic": "/ˈspes.ə.faɪ/",
+  "meaning": "giải thích, miêu tả",
+  "topic": "Từ vựng chung",
+  "batch": 88
+ },
+ {
+  "stt": 876,
+  "word": "spectator",
+  "pos": "n",
+  "phonetic": "/spekˈteɪ.t̬ɚ/",
+  "meaning": "khán giả",
+  "topic": "Từ vựng chung",
+  "batch": 88
+ },
+ {
+  "stt": 877,
+  "word": "stable",
+  "pos": "adj",
+  "phonetic": "/ˈsteɪ.bəl/",
+  "meaning": "ổn định",
+  "topic": "Từ vựng chung",
+  "batch": 88
+ },
+ {
+  "stt": 878,
+  "word": "stadium",
+  "pos": "n",
+  "phonetic": "/ˈsteɪ.di.əm/",
+  "meaning": "sân vận động",
+  "topic": "Từ vựng chung",
+  "batch": 88
+ },
+ {
+  "stt": 879,
+  "word": "staff",
+  "pos": "n",
+  "phonetic": "/stæf/",
+  "meaning": "nhân viên",
+  "topic": "Nhân sự & Tuyển dụng",
+  "batch": 88
+ },
+ {
+  "stt": 880,
+  "word": "stapler",
+  "pos": "n",
+  "phonetic": "/ˈsteɪ.plɚ/",
+  "meaning": "người phân loại",
+  "topic": "Từ vựng chung",
+  "batch": 88
+ },
+ {
+  "stt": 881,
+  "word": "stare",
+  "pos": "v",
+  "phonetic": "/ster/",
+  "meaning": "nhìn chằm chằm",
+  "topic": "Từ vựng chung",
+  "batch": 89
+ },
+ {
+  "stt": 882,
+  "word": "starter",
+  "pos": "n",
+  "phonetic": "/ˈstɑːr.t̬ɚ/",
+  "meaning": "người ra lệnh xuất phát, món khai vị",
+  "topic": "Từ vựng chung",
+  "batch": 89
+ },
+ {
+  "stt": 883,
+  "word": "stationery",
+  "pos": "n",
+  "phonetic": "/ˈsteɪ.ʃə.ner.i/",
+  "meaning": "đồ dùng văn phòng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 89
+ },
+ {
+  "stt": 884,
+  "word": "steep",
+  "pos": "adj",
+  "phonetic": "/stiːp/",
+  "meaning": "quá quắt, không biết điều",
+  "topic": "Từ vựng chung",
+  "batch": 89
+ },
+ {
+  "stt": 885,
+  "word": "stock",
+  "pos": "n",
+  "phonetic": "/stɑːk/",
+  "meaning": "kho hàng, kho dự trữ",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 89
+ },
+ {
+  "stt": 886,
+  "word": "strategic",
+  "pos": "adj",
+  "phonetic": "/strəˈtiː.dʒɪk/",
+  "meaning": "mang tính chiến lược",
+  "topic": "Từ vựng chung",
+  "batch": 89
+ },
+ {
+  "stt": 887,
+  "word": "strategy",
+  "pos": "v",
+  "phonetic": "/'strætəʤɪ/",
+  "meaning": "chiến lược",
+  "topic": "Từ vựng chung",
+  "batch": 89
+ },
+ {
+  "stt": 888,
+  "word": "streamline",
+  "pos": "v",
+  "phonetic": "/ˈstriːm.laɪn/",
+  "meaning": "dòng nước, luồng không khí",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 89
+ },
+ {
+  "stt": 889,
+  "word": "strike",
+  "pos": "v",
+  "phonetic": "/straɪk/",
+  "meaning": "đánh đập",
+  "topic": "Từ vựng chung",
+  "batch": 89
+ },
+ {
+  "stt": 890,
+  "word": "studio",
+  "pos": "n",
+  "phonetic": "/ˈstuː.di.oʊ/",
+  "meaning": "phòng thu âm",
+  "topic": "Từ vựng chung",
+  "batch": 89
+ },
+ {
+  "stt": 891,
+  "word": "stunning",
+  "pos": "adj",
+  "phonetic": "/ˈstʌn.ɪŋ/",
+  "meaning": "tuyệt vời, lộng lẫy",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 90
+ },
+ {
+  "stt": 892,
+  "word": "submit",
+  "pos": "v",
+  "phonetic": "/səbˈmɪt/",
+  "meaning": "xác nhận, gửi đi",
+  "topic": "Từ vựng chung",
+  "batch": 90
+ },
+ {
+  "stt": 893,
+  "word": "subscribe",
+  "pos": "v",
+  "phonetic": "/səbˈskraɪb/",
+  "meaning": "đăng ký",
+  "topic": "Từ vựng chung",
+  "batch": 90
+ },
+ {
+  "stt": 894,
+  "word": "subscription",
+  "pos": "n",
+  "phonetic": "/səbˈskrɪp.ʃən/",
+  "meaning": "sự đăng ký",
+  "topic": "Từ vựng chung",
+  "batch": 90
+ },
+ {
+  "stt": 895,
+  "word": "subsidiary",
+  "pos": "adj",
+  "phonetic": "/səbˈsɪd.i.er.i/",
+  "meaning": "sự lệ thuộc",
+  "topic": "Từ vựng chung",
+  "batch": 90
+ },
+ {
+  "stt": 896,
+  "word": "suffocate",
+  "pos": "v",
+  "phonetic": "/ˈsʌf.ə.keɪt/",
+  "meaning": "làm ngạt, bóp nghẹt",
+  "topic": "Từ vựng chung",
+  "batch": 90
+ },
+ {
+  "stt": 897,
+  "word": "suggest",
+  "pos": "v",
+  "phonetic": "/səˈdʒest/",
+  "meaning": "đề xuất",
+  "topic": "Từ vựng chung",
+  "batch": 90
+ },
+ {
+  "stt": 898,
+  "word": "suggestion",
+  "pos": "n",
+  "phonetic": "/səˈdʒes.tʃən/",
+  "meaning": "sự đề xuất",
+  "topic": "Từ vựng chung",
+  "batch": 90
+ },
+ {
+  "stt": 899,
+  "word": "suit",
+  "pos": "n",
+  "phonetic": "/suːt/",
+  "meaning": "bộ vest",
+  "topic": "Từ vựng chung",
+  "batch": 90
+ },
+ {
+  "stt": 900,
+  "word": "suitability",
+  "pos": "n",
+  "phonetic": "/ˌsuː.t̬əˈbɪl.ə.t̬i/",
+  "meaning": "sự thích hợp",
+  "topic": "Từ vựng chung",
+  "batch": 90
+ },
+ {
+  "stt": 901,
+  "word": "suitable",
+  "pos": "adj",
+  "phonetic": "/ˈsuː.t̬ə.bəl/",
+  "meaning": "phù hợp , thích hợp",
+  "topic": "Từ vựng chung",
+  "batch": 91
+ },
+ {
+  "stt": 902,
+  "word": "supervise",
+  "pos": "v",
+  "phonetic": "/ˈsuː.pɚ.vaɪz/",
+  "meaning": "giám sát",
+  "topic": "Từ vựng chung",
+  "batch": 91
+ },
+ {
+  "stt": 903,
+  "word": "supervision",
+  "pos": "n",
+  "phonetic": "/ˌsuː.pɚˈvɪʒ.ən/",
+  "meaning": "sự giám sát",
+  "topic": "Từ vựng chung",
+  "batch": 91
+ },
+ {
+  "stt": 904,
+  "word": "supplier",
+  "pos": "n",
+  "phonetic": "/səˈplaɪ.ɚ/",
+  "meaning": "nhà cung cấp",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 91
+ },
+ {
+  "stt": 905,
+  "word": "supply",
+  "pos": "v",
+  "phonetic": "/səˈplaɪ/",
+  "meaning": "cung cấp",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 91
+ },
+ {
+  "stt": 906,
+  "word": "support",
+  "pos": "v",
+  "phonetic": "/səˈpɔːrt/",
+  "meaning": "trợ giúp",
+  "topic": "Từ vựng chung",
+  "batch": 91
+ },
+ {
+  "stt": 907,
+  "word": "supporter",
+  "pos": "n",
+  "phonetic": "/səˈpɔːr.t̬ɚ/",
+  "meaning": "người trợ giúp",
+  "topic": "Từ vựng chung",
+  "batch": 91
+ },
+ {
+  "stt": 908,
+  "word": "surrounding",
+  "pos": "adj",
+  "phonetic": "/səˈraʊn.dɪŋ/",
+  "meaning": "bao quanh",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 91
+ },
+ {
+  "stt": 909,
+  "word": "suspicious",
+  "pos": "adj",
+  "phonetic": "/səˈspɪʃ.əs/",
+  "meaning": "khả nghi",
+  "topic": "Từ vựng chung",
+  "batch": 91
+ },
+ {
+  "stt": 910,
+  "word": "switchboard",
+  "pos": "n",
+  "phonetic": "/ˈswɪtʃ.bɔːrd/",
+  "meaning": "tổng đài",
+  "topic": "Từ vựng chung",
+  "batch": 91
+ },
+ {
+  "stt": 911,
+  "word": "systematic",
+  "pos": "adj",
+  "phonetic": "/ˌsɪs.təˈmæt̬.ɪk/",
+  "meaning": "có hệ thống",
+  "topic": "Công nghệ",
+  "batch": 92
+ },
+ {
+  "stt": 912,
+  "word": "takeover",
+  "pos": "n",
+  "phonetic": "/ˈteɪkˌoʊ.vɚ/",
+  "meaning": "tiếp quản",
+  "topic": "Từ vựng chung",
+  "batch": 92
+ },
+ {
+  "stt": 913,
+  "word": "tax",
+  "pos": "n",
+  "phonetic": "/tæks/",
+  "meaning": "thuế",
+  "topic": "Tài chính & Kế toán",
+  "batch": 92
+ },
+ {
+  "stt": 914,
+  "word": "technical",
+  "pos": "adj",
+  "phonetic": "/ˈtek.nɪ.kəl/",
+  "meaning": "có tính kỹ thuật",
+  "topic": "Từ vựng chung",
+  "batch": 92
+ },
+ {
+  "stt": 915,
+  "word": "technician",
+  "pos": "n",
+  "phonetic": "/tekˈnɪʃ.ən/",
+  "meaning": "kỹ thuật viên",
+  "topic": "Từ vựng chung",
+  "batch": 92
+ },
+ {
+  "stt": 916,
+  "word": "temporary",
+  "pos": "adj",
+  "phonetic": "/ˈtem.pə.rer.i/",
+  "meaning": "tạm thời",
+  "topic": "Từ vựng chung",
+  "batch": 92
+ },
+ {
+  "stt": 917,
+  "word": "tenant",
+  "pos": "n",
+  "phonetic": "/ˈten.ənt/",
+  "meaning": "người thuê nhà",
+  "topic": "Từ vựng chung",
+  "batch": 92
+ },
+ {
+  "stt": 918,
+  "word": "terminate",
+  "pos": "v",
+  "phonetic": "/ˈtɝː.mə.neɪt/",
+  "meaning": "chấm dứt",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 92
+ },
+ {
+  "stt": 919,
+  "word": "terrible",
+  "pos": "adj",
+  "phonetic": "/ˈter.ə.bəl/",
+  "meaning": "kinh khủng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 92
+ },
+ {
+  "stt": 920,
+  "word": "terrific",
+  "pos": "adj",
+  "phonetic": "/təˈrɪf.ɪk/",
+  "meaning": "khủng khiếp",
+  "topic": "Từ vựng chung",
+  "batch": 92
+ },
+ {
+  "stt": 921,
+  "word": "theoretical",
+  "pos": "adj",
+  "phonetic": "/ˌθiː.əˈret̬.kəl/",
+  "meaning": "mang tính lý thuyết",
+  "topic": "Từ vựng chung",
+  "batch": 93
+ },
+ {
+  "stt": 922,
+  "word": "theory",
+  "pos": "n",
+  "phonetic": "/ˈθɪr.i/",
+  "meaning": "học thuyết",
+  "topic": "Sức khỏe & An toàn",
+  "batch": 93
+ },
+ {
+  "stt": 923,
+  "word": "thorough",
+  "pos": "adj",
+  "phonetic": "/ˈθɝː.ə/",
+  "meaning": "triệt để",
+  "topic": "Từ vựng chung",
+  "batch": 93
+ },
+ {
+  "stt": 924,
+  "word": "tidy",
+  "pos": "adj",
+  "phonetic": "/ˈtaɪ.di/",
+  "meaning": "ngăn nắp",
+  "topic": "Từ vựng chung",
+  "batch": 93
+ },
+ {
+  "stt": 925,
+  "word": "tip",
+  "pos": "n",
+  "phonetic": "/tɪp/",
+  "meaning": "tiền boa",
+  "topic": "Tài chính & Kế toán",
+  "batch": 93
+ },
+ {
+  "stt": 926,
+  "word": "tour",
+  "pos": "n",
+  "phonetic": "/tʊr/",
+  "meaning": "chuyến du lịch",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 93
+ },
+ {
+  "stt": 927,
+  "word": "tourism",
+  "pos": "n",
+  "phonetic": "/ˈtʊr.ɪ.zəm/",
+  "meaning": "du lịch",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 93
+ },
+ {
+  "stt": 928,
+  "word": "tourist",
+  "pos": "n",
+  "phonetic": "/ˈtʊr.ɪst/",
+  "meaning": "du khách",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 93
+ },
+ {
+  "stt": 929,
+  "word": "towel",
+  "pos": "n",
+  "phonetic": "/taʊəl/",
+  "meaning": "cái khăn lau",
+  "topic": "Từ vựng chung",
+  "batch": 93
+ },
+ {
+  "stt": 930,
+  "word": "tower",
+  "pos": "n",
+  "phonetic": "/ˈtaʊ.ɚ/",
+  "meaning": "tòa nhà, tháp",
+  "topic": "Từ vựng chung",
+  "batch": 93
+ },
+ {
+  "stt": 931,
+  "word": "track",
+  "pos": "n",
+  "phonetic": "/træk/",
+  "meaning": "con đường",
+  "topic": "Từ vựng chung",
+  "batch": 94
+ },
+ {
+  "stt": 932,
+  "word": "trade",
+  "pos": "n",
+  "phonetic": "/treɪd/",
+  "meaning": "sự trao đổi (hàng hóa, vật phẩm)",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 94
+ },
+ {
+  "stt": 933,
+  "word": "tradition",
+  "pos": "n",
+  "phonetic": "/trəˈdɪʃ.ən/",
+  "meaning": "sự truyền thống",
+  "topic": "Từ vựng chung",
+  "batch": 94
+ },
+ {
+  "stt": 934,
+  "word": "traffic",
+  "pos": "n",
+  "phonetic": "/ˈtræf.ɪk/",
+  "meaning": "giao thông",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 94
+ },
+ {
+  "stt": 935,
+  "word": "training",
+  "pos": "n",
+  "phonetic": "/ˈtreɪ.nɪŋ/",
+  "meaning": "sự huấn luyện, sự đào tạo",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 94
+ },
+ {
+  "stt": 936,
+  "word": "transfer",
+  "pos": "v",
+  "phonetic": "/ˈtræns.fɝː/",
+  "meaning": "chuyển khoản",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 94
+ },
+ {
+  "stt": 937,
+  "word": "transform",
+  "pos": "v",
+  "phonetic": "/trænsˈfɔːrm/",
+  "meaning": "biến đổi",
+  "topic": "Từ vựng chung",
+  "batch": 94
+ },
+ {
+  "stt": 938,
+  "word": "transformation",
+  "pos": "n",
+  "phonetic": "/ˌtræns.fɚˈmeɪ.ʃən/",
+  "meaning": "sự biến đổi",
+  "topic": "Từ vựng chung",
+  "batch": 94
+ },
+ {
+  "stt": 939,
+  "word": "transit",
+  "pos": "n",
+  "phonetic": "/ˈtræn.zɪt/",
+  "meaning": "vận chuyển",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 94
+ },
+ {
+  "stt": 940,
+  "word": "transportation",
+  "pos": "n",
+  "phonetic": "/ˌtræn.spɚˈteɪ.ʃən/",
+  "meaning": "sự vận chuyển",
+  "topic": "Du lịch & Vận chuyển",
+  "batch": 94
+ },
+ {
+  "stt": 941,
+  "word": "trend",
+  "pos": "n",
+  "phonetic": "/trend/",
+  "meaning": "xu hướng",
+  "topic": "Từ vựng chung",
+  "batch": 95
+ },
+ {
+  "stt": 942,
+  "word": "trial",
+  "pos": "n",
+  "phonetic": "/traɪəl/",
+  "meaning": "thử nghiệm",
+  "topic": "Từ vựng chung",
+  "batch": 95
+ },
+ {
+  "stt": 943,
+  "word": "triumph",
+  "pos": "n",
+  "phonetic": "/ˈtraɪ.əmf/",
+  "meaning": "chiến thắng",
+  "topic": "Từ vựng chung",
+  "batch": 95
+ },
+ {
+  "stt": 944,
+  "word": "trust",
+  "pos": "v",
+  "phonetic": "/trʌst/",
+  "meaning": "tin, tin tưởng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 95
+ },
+ {
+  "stt": 945,
+  "word": "turnover",
+  "pos": "n",
+  "phonetic": "/ˈtɝːnˌoʊ.vɚ/",
+  "meaning": "doanh số, doanh thu",
+  "topic": "Tài chính & Kế toán",
+  "batch": 95
+ },
+ {
+  "stt": 946,
+  "word": "unconditional",
+  "pos": "adj",
+  "phonetic": "/ˌʌn.kənˈdɪʃ.ən.əl/",
+  "meaning": "vô điều kiện",
+  "topic": "Từ vựng chung",
+  "batch": 95
+ },
+ {
+  "stt": 947,
+  "word": "understand",
+  "pos": "v",
+  "phonetic": "/ˌʌn.dɚˈstænd/",
+  "meaning": "hiểu, nắm bắt được",
+  "topic": "Từ vựng chung",
+  "batch": 95
+ },
+ {
+  "stt": 948,
+  "word": "unfavorable",
+  "pos": "adj",
+  "phonetic": "/ʌnˈfeɪ.vər.ə.bəl/",
+  "meaning": "không thuận lợi",
+  "topic": "Từ vựng chung",
+  "batch": 95
+ },
+ {
+  "stt": 949,
+  "word": "unfortunately",
+  "pos": "adj",
+  "phonetic": "/ʌnˈfɔːr.tʃən.ət.li/",
+  "meaning": "không may mắn",
+  "topic": "Từ vựng chung",
+  "batch": 95
+ },
+ {
+  "stt": 950,
+  "word": "uniform",
+  "pos": "n",
+  "phonetic": "/ˈjuː.nə.fɔːrm/",
+  "meaning": "đồng phục",
+  "topic": "Từ vựng chung",
+  "batch": 95
+ },
+ {
+  "stt": 951,
+  "word": "unspoiled",
+  "pos": "adj",
+  "phonetic": "/ʌnˈspɔɪld/",
+  "meaning": "hoang sơ",
+  "topic": "Từ vựng chung",
+  "batch": 96
+ },
+ {
+  "stt": 952,
+  "word": "unwrap",
+  "pos": "v",
+  "phonetic": "/ʌnˈræp/",
+  "meaning": "bóc, mở",
+  "topic": "Từ vựng chung",
+  "batch": 96
+ },
+ {
+  "stt": 953,
+  "word": "upcoming",
+  "pos": "adj",
+  "phonetic": "/ˈʌpˌkʌm.ɪŋ/",
+  "meaning": "sắp xảy ra",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 96
+ },
+ {
+  "stt": 954,
+  "word": "update",
+  "pos": "v",
+  "phonetic": "/ʌpˈdeɪt/",
+  "meaning": "nâng cấp",
+  "topic": "Công nghệ",
+  "batch": 96
+ },
+ {
+  "stt": 955,
+  "word": "upgrade",
+  "pos": "v",
+  "phonetic": "/ʌpˈɡreɪd/",
+  "meaning": "nâng cấp",
+  "topic": "Công nghệ",
+  "batch": 96
+ },
+ {
+  "stt": 956,
+  "word": "upset",
+  "pos": "v, adj",
+  "phonetic": "/ʌpˈset/",
+  "meaning": "buồn bã, lo lắng",
+  "topic": "Giao tiếp & Cảm xúc",
+  "batch": 96
+ },
+ {
+  "stt": 957,
+  "word": "upstairs",
+  "pos": "n",
+  "phonetic": "/ʌpˈsterz/",
+  "meaning": "tầng trên",
+  "topic": "Từ vựng chung",
+  "batch": 96
+ },
+ {
+  "stt": 958,
+  "word": "utility bill",
+  "pos": "n",
+  "phonetic": "/juːˈtɪl.ə.t̬i/ /bɪl/",
+  "meaning": "hóa đơn điện nước",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 96
+ },
+ {
+  "stt": 959,
+  "word": "vacancy",
+  "pos": "n",
+  "phonetic": "/ˈveɪ.kən.si/",
+  "meaning": "vị trí bỏ trống",
+  "topic": "Từ vựng chung",
+  "batch": 96
+ },
+ {
+  "stt": 960,
+  "word": "vacant",
+  "pos": "v",
+  "phonetic": "/ˈveɪ.kənt/",
+  "meaning": "bỏ trống",
+  "topic": "Từ vựng chung",
+  "batch": 96
+ },
+ {
+  "stt": 961,
+  "word": "vacation",
+  "pos": "n",
+  "phonetic": "/veɪˈkeɪ.ʃən/",
+  "meaning": "kì nghỉ",
+  "topic": "Từ vựng chung",
+  "batch": 97
+ },
+ {
+  "stt": 962,
+  "word": "vaccination",
+  "pos": "n",
+  "phonetic": "/ˌvæk.səˈneɪ.ʃən/",
+  "meaning": "tiêm chủng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 97
+ },
+ {
+  "stt": 963,
+  "word": "valuables",
+  "pos": "n",
+  "phonetic": "/ˈvæl.jə.bəlz/",
+  "meaning": "vật có giá trị",
+  "topic": "Từ vựng chung",
+  "batch": 97
+ },
+ {
+  "stt": 964,
+  "word": "varied",
+  "pos": "adj",
+  "phonetic": "/ˈver.ɪd/",
+  "meaning": "đa dạng",
+  "topic": "Từ vựng chung",
+  "batch": 97
+ },
+ {
+  "stt": 965,
+  "word": "variety",
+  "pos": "n",
+  "phonetic": "/vəˈraɪ.ə.t̬i/",
+  "meaning": "sự đa dạng",
+  "topic": "Từ vựng chung",
+  "batch": 97
+ },
+ {
+  "stt": 966,
+  "word": "various",
+  "pos": "adj",
+  "phonetic": "/ˈver.i.əs/",
+  "meaning": "đa dạng",
+  "topic": "Từ vựng chung",
+  "batch": 97
+ },
+ {
+  "stt": 967,
+  "word": "vendor",
+  "pos": "n",
+  "phonetic": "/ˈven.dɚ/",
+  "meaning": "người bán",
+  "topic": "Marketing & Bán hàng",
+  "batch": 97
+ },
+ {
+  "stt": 968,
+  "word": "venture",
+  "pos": "n",
+  "phonetic": "/ˈven.tʃɚ/",
+  "meaning": "liên doanh",
+  "topic": "Từ vựng chung",
+  "batch": 97
+ },
+ {
+  "stt": 969,
+  "word": "venue",
+  "pos": "n",
+  "phonetic": "/ˈven.juː/",
+  "meaning": "địa điểm",
+  "topic": "Từ vựng chung",
+  "batch": 97
+ },
+ {
+  "stt": 970,
+  "word": "virus",
+  "pos": "n",
+  "phonetic": "/ˈvaɪ.rəs/",
+  "meaning": "virus",
+  "topic": "Từ vựng chung",
+  "batch": 97
+ },
+ {
+  "stt": 971,
+  "word": "vital",
+  "pos": "adj",
+  "phonetic": "/ˈvaɪ.t̬əl/",
+  "meaning": "thiết yếu",
+  "topic": "Từ vựng chung",
+  "batch": 98
+ },
+ {
+  "stt": 972,
+  "word": "vivid",
+  "pos": "adj",
+  "phonetic": "/ˈvɪv.ɪd/",
+  "meaning": "chói sáng, rực rỡ, sống động",
+  "topic": "Từ vựng chung",
+  "batch": 98
+ },
+ {
+  "stt": 973,
+  "word": "wage",
+  "pos": "n",
+  "phonetic": "/weɪdʒ/",
+  "meaning": "tiền công",
+  "topic": "Tài chính & Kế toán",
+  "batch": 98
+ },
+ {
+  "stt": 974,
+  "word": "walkway",
+  "pos": "n",
+  "phonetic": "/ˈwɑː.kweɪ/",
+  "meaning": "lối đi",
+  "topic": "Từ vựng chung",
+  "batch": 98
+ },
+ {
+  "stt": 975,
+  "word": "warehouse",
+  "pos": "n",
+  "phonetic": "/ˈwer.haʊs/",
+  "meaning": "kho hàng",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 98
+ },
+ {
+  "stt": 976,
+  "word": "warn",
+  "pos": "v",
+  "phonetic": "/wɔːrn/",
+  "meaning": "cảnh báo",
+  "topic": "Từ vựng chung",
+  "batch": 98
+ },
+ {
+  "stt": 977,
+  "word": "warning",
+  "pos": "n",
+  "phonetic": "/ˈwɔːr.nɪŋ/",
+  "meaning": "sự cảnh báo",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 98
+ },
+ {
+  "stt": 978,
+  "word": "warrant",
+  "pos": "v",
+  "phonetic": "/ˈwɔːr.ənt/",
+  "meaning": "bảo đảm",
+  "topic": "Từ vựng chung",
+  "batch": 98
+ },
+ {
+  "stt": 979,
+  "word": "warranty",
+  "pos": "n",
+  "phonetic": "/ˈwɔːr.ən.t̬i/",
+  "meaning": "sự bảo đảm",
+  "topic": "Từ vựng chung",
+  "batch": 98
+ },
+ {
+  "stt": 980,
+  "word": "wastage",
+  "pos": "adj",
+  "phonetic": "/ˈweɪ.stɪdʒ/",
+  "meaning": "lãng phí",
+  "topic": "Từ vựng chung",
+  "batch": 98
+ },
+ {
+  "stt": 981,
+  "word": "waterproof",
+  "pos": "adj",
+  "phonetic": "/ˈwɑː.t̬ɚ.pruːf/",
+  "meaning": "chống nước",
+  "topic": "Từ vựng chung",
+  "batch": 99
+ },
+ {
+  "stt": 982,
+  "word": "wealth",
+  "pos": "adj",
+  "phonetic": "/welθ/",
+  "meaning": "giàu có",
+  "topic": "Từ vựng chung",
+  "batch": 99
+ },
+ {
+  "stt": 983,
+  "word": "website",
+  "pos": "n",
+  "phonetic": "/ˈweb.saɪt/",
+  "meaning": "trang web",
+  "topic": "Từ vựng chung",
+  "batch": 99
+ },
+ {
+  "stt": 984,
+  "word": "weight",
+  "pos": "n",
+  "phonetic": "/weɪt/",
+  "meaning": "cân nặng",
+  "topic": "Từ vựng chung",
+  "batch": 99
+ },
+ {
+  "stt": 985,
+  "word": "welfare",
+  "pos": "n",
+  "phonetic": "/ˈwel.fer/",
+  "meaning": "phúc lợi",
+  "topic": "Từ vựng chung",
+  "batch": 99
+ },
+ {
+  "stt": 986,
+  "word": "wholesale",
+  "pos": "v",
+  "phonetic": "/ˈhoʊl.seɪl/",
+  "meaning": "bán sỉ, bán buôn",
+  "topic": "Marketing & Bán hàng",
+  "batch": 99
+ },
+ {
+  "stt": 987,
+  "word": "win",
+  "pos": "v",
+  "phonetic": "/wɪn/",
+  "meaning": "thắng, chiến thắng",
+  "topic": "Văn phòng & Hành chính",
+  "batch": 99
+ },
+ {
+  "stt": 988,
+  "word": "withdraw",
+  "pos": "v",
+  "phonetic": "/wɪðˈdrɑː/",
+  "meaning": "rút",
+  "topic": "Từ vựng chung",
+  "batch": 99
+ },
+ {
+  "stt": 989,
+  "word": "withdrawal",
+  "pos": "n",
+  "phonetic": "/wɪðˈdrɑː.əl/",
+  "meaning": "sự rút ra (tiền)",
+  "topic": "Tài chính & Kế toán",
+  "batch": 99
+ },
+ {
+  "stt": 990,
+  "word": "workplace",
+  "pos": "n",
+  "phonetic": "/ˈwɝːk.pleɪs/",
+  "meaning": "nơi làm việc",
+  "topic": "Từ vựng chung",
+  "batch": 99
+ },
+ {
+  "stt": 991,
+  "word": "workshop",
+  "pos": "n",
+  "phonetic": "/ˈwɝːk.ʃɑːp/",
+  "meaning": "hội thảo",
+  "topic": "Từ vựng chung",
+  "batch": 100
+ },
+ {
+  "stt": 992,
+  "word": "worth",
+  "pos": "adj",
+  "phonetic": "/wɝːθ/",
+  "meaning": "giá trị",
+  "topic": "Từ vựng chung",
+  "batch": 100
+ },
+ {
+  "stt": 993,
+  "word": "worthless",
+  "pos": "adj",
+  "phonetic": "/ˈwɝːθ.ləs/",
+  "meaning": "không có giá trị, vô giá trị",
+  "topic": "Từ vựng chung",
+  "batch": 100
+ },
+ {
+  "stt": 994,
+  "word": "wrap",
+  "pos": "v",
+  "phonetic": "/ræp/",
+  "meaning": "gói, bọc lại",
+  "topic": "Từ vựng chung",
+  "batch": 100
+ },
+ {
+  "stt": 995,
+  "word": "write",
+  "pos": "v",
+  "phonetic": "/raɪt/",
+  "meaning": "viết, sáng tác",
+  "topic": "Từ vựng chung",
+  "batch": 100
+ },
+ {
+  "stt": 996,
+  "word": "yearly",
+  "pos": "adv",
+  "phonetic": "/ˈjɪr.li/",
+  "meaning": "hằng năm",
+  "topic": "Từ vựng chung",
+  "batch": 100
+ },
+ {
+  "stt": 997,
+  "word": "yield",
+  "pos": "v",
+  "phonetic": "/jiːld/",
+  "meaning": "sản xuất, cung cấp",
+  "topic": "Sản xuất & Kinh doanh",
+  "batch": 100
+ },
+ {
+  "stt": 998,
+  "word": "youth",
+  "pos": "n",
+  "phonetic": "/juːθ/",
+  "meaning": "tuổi trẻ, thời thanh xuân",
+  "topic": "Từ vựng chung",
+  "batch": 100
+ },
+ {
+  "stt": 999,
+  "word": "zero",
+  "pos": "n",
+  "phonetic": "/ˈzɪr.oʊ/",
+  "meaning": "số 0",
+  "topic": "Từ vựng chung",
+  "batch": 100
+ },
+ {
+  "stt": 1000,
+  "word": "zone",
+  "pos": "n",
+  "phonetic": "/zoʊn/",
+  "meaning": "vùng, khu vực",
+  "topic": "Từ vựng chung",
+  "batch": 100
+ }
+]
